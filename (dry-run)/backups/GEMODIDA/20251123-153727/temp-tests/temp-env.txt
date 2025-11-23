@@ -1,0 +1,18 @@
+# Configuración de Supabase
+NEXT_PUBLIC_SUPABASE_URL=https://divxhluqybbcgfqozbjq.supabase.co
+NEXT_PUBLIC_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImRpdnhobHVxeWJiY2dmcW96YmpxIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjMwNTA3OTEsImV4cCI6MjA3ODYyNjc5MX0.6V2UpTpkNzKJGjoWg8GoBI9jPlROxWxRJV6XjEtqpYQ
+
+# Configuración de la base de datos (la contraseña está codificada en URL)
+DATABASE_URL="postgresql://postgres:Millonario%23%2301@aws-0-us-west-2.pooler.supabase.com:6543/postgres?pgbouncer=true&sslmode=require"
+
+# ReCAPTCHA
+NEXT_PUBLIC_RECAPTCHA_SITE_KEY=6LdTTZYrAAAAAJATa_pILcE-8c8CuhG0ITIF6m0X
+RECAPTCHA_SECRET_KEY=6LdTTZYrAAAAAOtNm7X2BZipC7NX4xCpLJHfQmaa
+
+# PayPal
+NEXT_PUBLIC_PAYPAL_CLIENT_ID=AbqgApMA7cpTxDkXRynvRf7CC4-nlljvwwtHr5rE1EI29H-3f9qxjcz4dH6PbiGEa7s5tEDAjIvuI1cb
+PAYPAL_CLIENT_SECRET=EM9XI8Pp6RVf-iaJWN0Z0U-aHVmDDX0GdZxUz0Rk1KJHc6cZF2B_37Y9tOTJjA6bz_3BLrnlv8RB_9JZ
+PAYPAL_ENV=sandbox
+
+# Google Gemini
+GEMINI_API_KEY=AIzaSyDUzHsWU4DalJa4wvcvng11eQy6BhvlKxQ

@@ -1,0 +1,1 @@
+// Este archivo ha sido eliminado. Usa '@/lib/supabase/client' para el cliente de Supabase en el frontend.

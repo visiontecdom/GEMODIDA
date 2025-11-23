@@ -1,0 +1,21 @@
+{
+  "name": "@GEMODIDA/supabase-utils",
+  "version": "0.1.0",
+  "description": "Utilidades para trabajar con Supabase en GEMODIDA",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "devDependencies": {
+    "@supabase/supabase-js": "^2.81.1",
+    "typescript": "^5.9.3"
+  },
+  "peerDependencies": {
+    "@supabase/supabase-js": "^2.81.1"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.81.1"
+  }
+}
