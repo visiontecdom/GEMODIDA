@@ -1,0 +1,320 @@
+-- Datos (DML) Generados por Sheet2Postgres
+
+BEGIN;
+
+-- Insertando datos en la tabla regiones
+INSERT INTO regiones (region, descripcion) VALUES
+('Sureste', 'Region Sureste'),
+('Nordeste', 'RegionNordeste'),
+('Suroeste', 'Suroeste'),
+('Valdesia', 'Valdesia'),
+('Cibao Noroeste', 'Cibao Noroeste'),
+('Cibao Nordeste', 'Cibao Nordeste'),
+('Cibao Norte', 'Cibao Norte'),
+('El Valle', 'El Valle'),
+('Yuma', 'Yuma'),
+('Higuamo', 'Higuamo');
+
+-- Insertando datos en la tabla provincias
+INSERT INTO provincias (provincia, capital, ciudad_mas_poblada, escudo, region, superficie_km2, poblacion_2021, densidad_hab_km2, latitud, longitud, mapa) VALUES
+('Azua', 'Azua de Compostela', 'Indefinida', NULL, 'Valdesia', 2531.77, 222610, '86.59', 18.45319, -70.7349, NULL),
+('Bahoruco', 'Neiba', 'Indefinida', NULL, 'Enriquillo', 1282.23, 101306, '77.4', 18.4863, -71.415, NULL),
+('Barahona', 'Barahona', 'Indefinida', NULL, 'Enriquillo', 1739.38, 189100, '108.49', 18.20854, -71.10077, NULL),
+('Dajabón', 'Dajabón', 'Indefinida', NULL, 'Cibao Noroeste', 1020.73, 66675, '63.95', 19.54878, -71.70829, NULL),
+('Duarte', 'San Francisco de Macorís', 'Indefinida', NULL, 'Cibao Nordeste', 1605.35, 299583, '183.7', 19.28939, -70.25787, NULL),
+('El Seibo', 'El Seibo', 'Indefinida', NULL, 'Yuma', 1786.8, 94049, '63.58', 18.76559, -69.03886, NULL),
+('Elías Piña', 'Comendador', 'Indefinida', NULL, 'El Valle', 1426.2, 63303, '35.51', 18.87667, -71.70294, NULL),
+('Espaillat', 'Moca', 'Indefinida', NULL, 'Cibao Norte', 838.62, 240428, '281.97', 19.62773, -70.27799, NULL),
+('Hato Mayor', 'Hato Mayor', 'Indefinida', NULL, 'Higuamo', 1329.29, 85747, '64.37', 18.76216, -69.25647, NULL),
+('Hermanas Mirabal', 'Salcedo', 'Indefinida', NULL, 'Cibao Nordeste', 440.43, 92045, '209.78', 19.3735, -70.41883, NULL),
+('Independencia', 'Jimaní', 'Duvergé', NULL, 'Enriquillo', 2006.44, 58951, '27.73', 18.48769, -71.8515, NULL),
+('La Altagracia', 'Salvaleón de Higüey', 'Indefinida', NULL, 'Yuma', 3010.34, 360874, '104.61', 18.61467, -68.71714, NULL),
+('La Romana', 'La Romana', 'Indefinida', NULL, 'Yuma', 653.95, 274894, '397.59', 18.42241, -68.96631, NULL),
+('La Vega', 'La Vega', 'Indefinida', NULL, 'Cibao Sur', 2287.24, 412469, '176.64', 19.22378, -70.53276, NULL),
+('María Trinidad Sánchez', 'Nagua', 'Indefinida', NULL, 'Cibao Nordeste', 1271.71, 140954, '111.17', 19.36668, -69.85113, NULL),
+('Monseñor Nouel', 'Bonao', 'Indefinida', NULL, 'Cibao Sur', 992.39, 174959, '171.51', 18.92721, -70.39728, NULL),
+('Monte Cristi', 'Monte Cristi', 'Guayubín', NULL, 'Cibao Noroeste', 1924.35, 117736, '59.22', 19.84992, -71.64884, NULL),
+('Monte Plata', 'Monte Plata', 'Yamasá', NULL, 'Higuamo', 2632.14, 191447, '71.68', 18.80776, -69.78479, NULL),
+('Pedernales', 'Pedernales', 'Indefinida', NULL, 'Enriquillo', 2074.53, 35280, '16.12', 18.03332, -71.7431, NULL),
+('Peravia', 'Baní', 'Indefinida', NULL, 'Valdesia', 792.33, 198499, '241.62', 18.27941, -70.33225, NULL),
+('Puerto Plata', 'Puerto Plata', 'Indefinida', NULL, 'Cibao Norte', 1852.9, 333940, '177.29', 19.78358, -70.67147, NULL),
+('Samaná', 'Santa Bárbara de Samaná', 'Indefinida', NULL, 'Cibao Nordeste', 853.74, 113036, '125.62', 19.20266, -69.33563, NULL),
+('San Cristóbal', 'San Cristóbal', 'Indefinida', NULL, 'Valdesia', 1265.77, 643595, '505.93', 18.41593, -70.11085, NULL),
+('San José de Ocoa', 'San José de Ocoa', 'Indefinida', NULL, 'Valdesia', 855.4, 53833, '45.11', 18.54379, -70.50703, NULL),
+('San Juan', 'San Juan de la Maguana', 'Indefinida', NULL, 'El Valle', 3569.39, 220264, '266.12', 18.8069, -71.2325, NULL),
+('San Pedro de Macorís', 'San Pedro de Macorís', 'Indefinida', NULL, 'Higuamo', 1255.46, 306002, '83.66', 18.46374, -69.30405, NULL),
+('Sánchez Ramírez', 'Cotuí', 'Indefinida', NULL, 'Cibao Sur', 1196.13, 151888, '121.09', 19.05119, -70.14681, NULL),
+('Santiago', 'Santiago', 'Indefinida', NULL, 'Cibao Norte', 2836.51, 1052088, '355.3', 19.45084, -70.69472, NULL),
+('Santiago Rodríguez', 'San Ignacio de Sabaneta', 'Indefinida', NULL, 'Cibao Noroeste', 1111.14, 57209, '51.71', 19.47912, -71.34573, NULL),
+('Santo Domingo', 'Santo Domingo Este', 'Santo Domingo Norte', NULL, 'Ozama', 1301.84, 2955339, '2036.08', 18.47769, -69.88334, NULL),
+('Valverde', 'Mao', 'Indefinida', NULL, 'Cibao Noroeste', 823.38, 177865, '207.06', 19.54818, -71.08257, NULL),
+('Distrito Nacional', 'Santo Domingo', 'Indefinida', NULL, 'Ozama', 104.44, 1049567, '9651.45', 18.44953, -69.97564, NULL);
+
+-- Insertando datos en la tabla provincias_alt
+INSERT INTO provincias_alt (provincia, capital, ciudad_principal, region) VALUES
+('Azua', 'Azua de Compostela', 'Indefinida', 'Valdesia'),
+('Bahoruco', 'Neiba', 'Indefinida', 'Enriquillo'),
+('Barahona', 'Barahona', 'Indefinida', 'Enriquillo'),
+('Dajabón', 'Dajabón', 'Indefinida', 'Cibao Noroeste'),
+('Duarte', 'San Francisco de Macorís', 'Indefinida', 'Cibao Nordeste'),
+('El Seibo', 'El Seibo', 'Indefinida', 'Yuma'),
+('Elías Piña', 'Comendador', 'Indefinida', 'El Valle'),
+('Espaillat', 'Moca', 'Indefinida', 'Cibao Norte'),
+('Hato Mayor', 'Hato Mayor', 'Indefinida', 'Higuamo'),
+('Hermanas Mirabal', 'Salcedo', 'Indefinida', 'Cibao Nordeste'),
+('Independencia', 'Jimaní', 'Duvergé', 'Enriquillo'),
+('La Altagracia', 'Salvaleón de Higüey', 'Indefinida', 'Yuma'),
+('La Romana', 'La Romana', 'Indefinida', 'Yuma'),
+('La Vega', 'La Vega', 'Indefinida', 'Cibao Sur'),
+('María Trinidad Sánchez', 'Nagua', 'Indefinida', 'Cibao Nordeste'),
+('Monseñor Nouel', 'Bonao', 'Indefinida', 'Cibao Sur'),
+('Monte Cristi', 'Monte Cristi', 'Guayubín', 'Cibao Noroeste'),
+('Monte Plata', 'Monte Plata', 'Yamasá', 'Higuamo'),
+('Pedernales', 'Pedernales', 'Indefinida', 'Enriquillo'),
+('Peravia', 'Baní', 'Indefinida', 'Valdesia'),
+('Puerto Plata', 'Puerto Plata', 'Indefinida', 'Cibao Norte'),
+('Samaná', 'Santa Bárbara de Samaná', 'Indefinida', 'Cibao Nordeste'),
+('San Cristóbal', 'San Cristóbal', 'Indefinida', 'Valdesia'),
+('San José de Ocoa', 'San José de Ocoa', 'Indefinida', 'Valdesia'),
+('San Juan', 'San Juan de la Maguana', 'Indefinida', 'El Valle'),
+('San Pedro de Macorís', 'San Pedro de Macorís', 'Indefinida', 'Higuamo'),
+('Sánchez Ramírez', 'Cotuí', 'Indefinida', 'Cibao Sur'),
+('Santiago', 'Santiago', 'Indefinida', 'Cibao Norte'),
+('Santiago Rodríguez', 'San Ignacio de Sabaneta', 'Indefinida', 'Cibao Noroeste'),
+('Santo Domingo', 'Santo Domingo Este', 'Santo Domingo Norte', 'Ozama'),
+('Valverde', 'Mao', 'Indefinida', 'Cibao Noroeste'),
+('Distrito Nacional', 'Santo Domingo', 'Indefinida', 'Ozama');
+
+-- Insertando datos en la tabla municipios
+INSERT INTO municipios (nombre_municipio, provincia, fecha_creado, poblacion, area_km2, densidad, nombre_anterior) VALUES
+('Altamira', 'Puerto Plata', '1889-07-06', 22323, 179.32, '124/km²', NULL),
+('Arenoso', 'Duarte', '1994-01-01', 19299, 142.2, '136/km²', NULL),
+('Azua', 'Azua', '1845-03-05', 143934, 416.3, '346/km²', 'Azua de Compostela'),
+('Baitoa', 'Santiago', '2016-02-27', 23233, 45.22, '514/km²', NULL),
+('Baní', 'Peravia', '1845-03-05', 201292, 363.31, '372/km²', NULL),
+('Bánica', 'Elías Piña', '1845-03-05', 12123, 265.98, '46/km²', 'San Francisco de Bánica'),
+('Barahona', 'Barahona', '1845-03-05', 183232, 163.02, '1124/km²', 'Santa Cruz de Barahona'),
+('Bayaguana', 'Monte Plata', '1845-03-05', 40912, 877.99, '47/km²', NULL),
+('Boca Chica', 'Santo Domingo', '2003-01-01', 201292, 145.67, '1382/km²', NULL),
+('Bohechío', 'San Juan', '1976-03-02', 12332, 407.82, '30/km²', NULL),
+('Bonao', 'Monseñor Nouel', '1845-03-05', 200102, 664.37, '301/km²', NULL),
+('Cabral', 'Barahona', '1907-09-09', 19293, 149.3, '129/km²', NULL),
+('Cabrera', 'María Trinidad Sánchez', '1870-02-27', 39929, 297.58, '134/km²', 'Tres Amarras'),
+('Cambita Garabitos', 'San Cristóbal', '1987-05-02', 42123, 202.52, '208/km²', NULL),
+('Castañuelas', 'Monte Cristi', '1976-02-27', 21223, 80.9, '262/km²', NULL),
+('Castillo', 'Duarte', '1907-09-09', 26455, 133.68, '198/km²', NULL),
+('Cayetano Germosén', 'Espaillat', '1994-01-01', 9120, 17.75, '514/km²', NULL),
+('Cevicos', 'Sánchez Ramírez', '1895-01-27', 21232, 305.64, '69/km²', NULL),
+('Comendador', 'Elías Piña', '1880-04-25', 50349, 252.93, '199/km²', NULL),
+('Constanza', 'La Vega', '1858-03-09', 75344, 848.79, '89/km²', NULL),
+('Consuelo', 'San Pedro de Macorís', '1996-09-19', 54324, 131.52, '413/km²', NULL),
+('Cotuí', 'Sánchez Ramírez', '1845-03-05', 154234, 619.88, '249/km²', NULL),
+('Cristóbal', 'Independencia', '2003-08-03', 9912, 151.72, '65/km²', NULL),
+('Dajabón', 'Dajabón', '1845-03-05', 69953, 253.41, '276/km²', NULL),
+('Duvergé', 'Independencia', '1893-07-27', 63874, 521.64, '122/km²', NULL),
+('El Cercado', 'San Juan', '1907-09-09', 30132, 283.05, '106/km²', NULL),
+('El Factor', 'María Trinidad Sánchez', '1988-04-25', 32323, 149.23, '217/km²', NULL),
+('El Llano', 'Elías Piña', '1976-03-01', 10202, 104.49, '98/km²', NULL),
+('El Peñón', 'Barahona', '2002-12-16', 5023, 29.02, '173/km²', NULL),
+('El Pino', 'Dajabón', '2002-01-18', 14203, 88.35, '161/km²', NULL),
+('El Seibo', 'El Seibo', '1845-03-05', 119283, 1344.33, '89/km²', 'Santa Cruz del Seibo'),
+('El Valle', 'Hato Mayor', '1976-03-09', 12343, 161.12, '77/km²', NULL),
+('Enriquillo', 'Barahona', '1907-09-09', 19988, 354.1, '56/km²', NULL),
+('Esperanza', 'Valverde', '1907-09-09', 121233, 215.24, '563/km²', NULL),
+('Estebanía', 'Azua', '2001-11-20', 9887, 159.2, '62/km²', NULL),
+('Fantino', 'Sánchez Ramírez', '1961-12-15', 29888, 95.97, '311/km²', NULL),
+('Fundación', 'Barahona', '2003-07-16', 12123, 52.59, '231/km²', NULL),
+('Galván', 'Bahoruco', '1998-07-01', 21019, 214.66, '98/km²', NULL),
+('Gaspar Hernández', 'Espaillat', '1907-09-09', 60394, 366.18, '165/km²', NULL),
+('Guananico', 'Puerto Plata', '1992-11-30', 9033, 57.32, '158/km²', NULL),
+('Guayabal', 'Azua', '2004-08-03', 10003, 262.87, '38/km²', NULL),
+('Guayacanes', 'San Pedro de Macorís', '2006-05-03', 35034, 129.78, '270/km²', NULL),
+('Guaymate', 'La Romana', '1959-10-01', 23323, 309.8, '75/km²', NULL),
+('Guayubín', 'Monte Cristi', '1855-05-09', 60934, 899.26, '68/km²', NULL),
+('Haina', 'San Cristóbal', '1980-10-27', 142323, 38.49, '3698/km²', 'Bajos de Haina'),
+('Hato Mayor', 'Hato Mayor', '1845-03-05', 102039, 659.65, '155/km²', 'Hato Mayor del Rey'),
+('Higüey', 'La Altagracia', '1845-03-05', 422934, 2029.14, '208/km²', 'Salvaleón de Higüey'),
+('Hondo Valle', 'Elías Piña', '1955-08-12', 15445, 120.63, '128/km²', NULL),
+('Hostos', 'Duarte', '2004-03-05', 14533, 78.23, '186/km²', 'Eugenio María de Hostos'),
+('Imbert', 'Puerto Plata', '1907-09-09', 34245, 170.7, '201/km²', 'Blanco'),
+('Jamao Al Norte', 'Espaillat', '2001-05-25', 12213, 115.48, '106/km²', NULL),
+('Jánico', 'Santiago', '1907-09-09', 33233, 403.2, '82/km²', NULL),
+('Jaquimeyes', 'Barahona', '2004-07-07', 8374, 178.63, '47/km²', NULL),
+('Jarabacoa', 'La Vega', '1858-03-09', 72019, 665.88, '108/km²', NULL),
+('Jima Abajo', 'La Vega', '1996-09-19', 50394, 132.72, '380/km²', 'Bella Vista'),
+('Jimaní', 'Independencia', '1945-06-04', 20192, 458.49, '44/km²', NULL),
+('Juan de Herrera', 'San Juan', '1992-06-10', 16543, 146.85, '113/km²', NULL),
+('Juan Santiago', 'Elías Piña', '2005-05-09', 7472, 107.15, '70/km²', NULL),
+('La Ciénaga', 'Barahona', '2004-07-30', 12334, 112.3, '110/km²', NULL),
+('La Descubierta', 'Independencia', '1938-06-27', 13233, 206.85, '64/km²', NULL),
+('La Mata', 'Sánchez Ramírez', '2002-08-07', 50394, 174.64, '289/km²', NULL),
+('La Romana', 'La Romana', '1897-02-27', 239987, 185.52, '1294/km²', NULL),
+('La Vega', 'La Vega', '1845-03-05', 310203, 639.85, '485/km²', 'Concepción de la Vega'),
+('Laguna Salada', 'Valverde', '1976-03-06', 45546, 184.54, '247/km²', NULL),
+('Las Charcas', 'Azua', '2001-09-15', 19877, 251.23, '79/km²', NULL),
+('Las Guáranas', 'Duarte', '1998-07-22', 29193, 86.49, '338/km²', NULL),
+('Las Matas de Farfán', 'San Juan', '1845-03-05', 72303, 636.64, '114/km²', NULL),
+('Las Matas de Santa Cruz', 'Monte Cristi', '1985-03-18', 14234, 109.51, '130/km²', NULL),
+('Las Salinas', 'Barahona', '2001-03-08', 7383, 123.47, '60/km²', NULL),
+('Las Terrenas', 'Samaná', '1996-09-19', 45944, 113.1, '406/km²', NULL),
+('Las Yayas de Viajama', 'Azua', '2001-05-01', 24573, 472.54, '52/km²', NULL),
+('Licey al Medio', 'Santiago', '1984-07-13', 49432, 27.04, '1828/km²', NULL),
+('Loma de Cabrera', 'Dajabón', '1938-06-27', 23234, 238.51, '97/km²', NULL),
+('Los Alcarrizos', 'Santo Domingo', '2005-01-31', 345329, 52.14, '6623/km²', NULL),
+('Los Cacaos', 'San Cristóbal', '2004-02-02', 15334, 145.62, '105/km²', NULL),
+('Los Hidalgos', 'Puerto Plata', '1976-03-10', 17384, 101.1, '172/km²', NULL),
+('Los Llanos', 'San Pedro de Macorís', '1845-03-05', 34332, 436.46, '79/km²', 'San José de los Llanos'),
+('Los Ríos', 'Bahoruco', '2001-11-27', 13234, 149.87, '88/km²', NULL),
+('Luperón', 'Puerto Plata', '1945-06-18', 25443, 272.07, '94/km²', 'Bajabónico'),
+('Maimón', 'Monseñor Nouel', '1982-09-22', 23133, 90.07, '257/km²', NULL),
+('Mao', 'Valverde', '1878-05-04', 145309, 423.6, '343/km²', 'Santa Cruz de Mao'),
+('Matanzas', 'Peravia', '2014-08-19', 54234, 203.39, '267/km²', NULL),
+('Mella', 'Independencia', '2004-03-22', 5233, 508.81, '10/km²', NULL),
+('Miches', 'El Seibo', '1883-08-08', 25423, 442.47, '57/km²', 'El Jovero'),
+('Moca', 'Espaillat', '1845-03-05', 213244, 239.36, '891/km²', NULL),
+('Monción', 'Santiago Rodríguez', '1907-09-09', 39993, 101.61, '394/km²', NULL),
+('Monte Cristi', 'Monte Cristi', '1845-03-05', 41933, 842.95, '50/km²', 'San Fernando de Monte Cristi'),
+('Monte Plata', 'Monte Plata', '1845-03-05', 67473, 623.55, '108/km²', NULL),
+('Nagua', 'María Trinidad Sánchez', '1882-10-07', 132394, 552.71, '240/km²', 'San José de Matanzas'),
+('Neiba', 'Bahoruco', '1845-03-05', 100987, 423.46, '238/km²', NULL),
+('Nigua', 'San Cristóbal', '2001-01-11', 44333, 48.76, '909/km²', 'San Gregorio de Nigua'),
+('Nizao', 'Peravia', '1988-04-14', 34345, 48.54, '708/km²', NULL),
+('Oviedo', 'Pedernales', '1950-03-03', 12345, 799.86, '15/km²', NULL),
+('Padre Las Casas', 'Azua', '1938-06-27', 45394, 496.98, '91/km²', NULL),
+('Paraíso', 'Barahona', '1976-02-29', 23124, 138.63, '167/km²', NULL),
+('Partido', 'Dajabón', '1996-09-19', 17029, 157.29, '108/km²', NULL),
+('Pedernales', 'Pedernales', '1938-06-27', 94397, 1274.67, '74/km²', NULL),
+('Pedro Brand', 'Santo Domingo', '2005-01-31', 100192, 212.29, '472/km²', NULL),
+('Pedro Santana', 'Elías Piña', '1952-03-03', 12442, 575.02, '22/km²', NULL),
+('Pepillo Salcedo', 'Monte Cristi', '1949-08-28', 14244, 149.32, '95/km²', 'Manzanillo'),
+('Peralta', 'Azua', '1976-03-07', 20394, 115.85, '176/km²', NULL),
+('Peralvillo', 'Monte Plata', '2004-06-16', 29493, 153.35, '192/km²', NULL),
+('Piedra Blanca', 'Monseñor Nouel', '1991-11-30', 34245, 237.95, '144/km²', NULL),
+('Pimentel', 'Duarte', '1907-09-09', 30492, 124.67, '245/km²', NULL),
+('Polo', 'Barahona', '2001-09-30', 11234, 200.61, '56/km²', NULL),
+('Postrer Río', 'Independencia', '1982-05-04', 9394, 158.93, '59/km²', NULL),
+('Pueblo Viejo', 'Azua', '2003-05-01', 15344, 45.38, '338/km²', NULL),
+('Puerto Plata', 'Puerto Plata', '1845-03-05', 301344, 509.01, '592/km²', 'San Felipe de Puerto Plata'),
+('Puñal', 'Santiago', '2006-04-07', 74244, 60.8, '1221/km²', NULL),
+('Quisqueya', 'San Pedro de Macorís', '1998-07-01', 25944, 155.45, '167/km²', NULL),
+('Ramón Santana', 'San Pedro de Macorís', '1894-04-25', 13493, 249.92, '54/km²', NULL),
+('Rancho Arriba', 'San José de Ocoa', '1989-05-08', 14938, 203.53, '73/km²', NULL),
+('Restauración', 'Dajabón', '1892-06-23', 13293, 283.58, '47/km²', NULL),
+('Río San Juan', 'María Trinidad Sánchez', '1946-03-27', 31233, 272.19, '115/km²', NULL),
+('Sabana de la Mar', 'Hato Mayor', '1845-03-05', 28912, 508.52, '57/km²', NULL),
+('Sabana Grande de Boyá', 'Monte Plata', '1845-03-05', 39292, 535.08, '73/km²', NULL),
+('Sabana Grande de Palenque', 'San Cristóbal', '1996-09-19', 22123, 30.13, '734/km²', NULL),
+('Sabana Iglesia', 'Santiago', '2007-05-18', 21023, 58.3, '361/km²', NULL),
+('Sabana Larga', 'San José de Ocoa', '1991-04-07', 12394, 167.0, '74/km²', NULL),
+('Sabana Yegua', 'Azua', '2003-05-01', 22394, 101.58, '220/km²', NULL),
+('Sabaneta', 'Santiago Rodríguez', '1845-03-05', 59833, 804.47, '74/km²', 'San Ignacio de Sabaneta'),
+('Salcedo', 'Hermanas Mirabal', '1845-03-05', 78333, 190.6, '411/km²', 'Juana Núñez'),
+('Samaná', 'Samaná', '1845-03-05', 102939, 412.11, '250/km²', 'Santa Bárbara de Samaná'),
+('San Antonio de Guerra', 'Santo Domingo', '2004-03-24', 97889, 288.25, '340/km²', NULL),
+('San Cristóbal', 'San Cristóbal', '1845-03-05', 294394, 226.52, '1300/km²', NULL),
+('San Francisco de Macorís', 'Duarte', '1845-03-05', 279443, 727.15, '384/km²', NULL),
+('San José de las Matas', 'Santiago', '1845-03-05', 69887, 1549.06, '45/km²', NULL),
+('San José de Ocoa', 'San José de Ocoa', '1845-03-05', 95633, 484.87, '197/km²', NULL),
+('San Juan', 'San Juan', '1845-03-05', 233392, 1876.21, '124/km²', 'San Juan de la Maguana'),
+('San Pedro de Macorís', 'San Pedro de Macorís', '1845-03-05', 272873, 152.33, '1791/km²', NULL),
+('San Rafael del Yuma', 'La Altagracia', '1959-08-11', 29296, 1123.85, '28/km²', NULL),
+('San Víctor', 'Espaillat', '2014-08-29', 78383, 99.85, '785/km²', NULL),
+('Sánchez', 'Samaná', '1907-09-09', 29303, 328.53, '89/km²', NULL),
+('Santiago de los Caballeros', 'Santiago', '1845-03-05', 1000009, 428.88, '2332/km²', NULL),
+('Santo Domingo', 'Distrito Nacional', '1845-03-05', 1443384, 104.44, '13820/km²', 'Santo Domingo de Guzmán'),
+('Santo Domingo Este', 'Santo Domingo', '2001-10-08', 773628, 106.29, '7278/km²', NULL),
+('Santo Domingo Norte', 'Santo Domingo', '2001-10-08', 685037, 388.96, '2107/km²', NULL),
+('Santo Domingo Oeste', 'Santo Domingo', '2001-10-08', 468284, 54.1, '8656/km²', NULL),
+('Sosúa', 'Puerto Plata', '1976-03-04', 82093, 276.89, '296/km2', NULL),
+('Tábara Arriba', 'Azua', '2004-01-20', 23123, 209.84, '110/km²', NULL),
+('Tamayo', 'Bahoruco', '1938-06-27', 40293, 374.01, '108/km²', NULL),
+('Tamboril', 'Santiago', '1907-09-09', 91384, 70.63, '1294/km²', 'Peña'),
+('Tenares', 'Hermanas Mirabal', '1938-06-27', 40293, 159.71, '252/km²', NULL),
+('Vallejuelo', 'San Juan', '1976-03-08', 15898, 218.82, '73/km²', NULL),
+('Vicente Noble', 'Barahona', '1976-03-03', 28583, 225.63, '127/km²', NULL),
+('Villa Altagracia', 'San Cristóbal', '1907-09-09', 129394, 482.05, '268/km²', NULL),
+('Villa Bisonó (Navarrete)', 'Santiago', '1961-10-20', 75673, 92.6, '817/km²', NULL),
+('Villa González', 'Santiago', '1991-10-19', 70494, 100.78, '699/km²', NULL),
+('Villa Hermosa', 'La Romana', '2004-07-28', 159544, 158.63, '1006/km²', NULL),
+('Villa Isabela', 'Puerto Plata', '1989-05-16', 24392, 212.6, '115/km²', NULL),
+('Villa Jaragua', 'Bahoruco', '1976-02-28', 14843, 120.23, '123/km²', NULL),
+('Villa Los Almácigos', 'Santiago Rodríguez', '1996-09-19', 18392, 205.06, '90/km²', NULL),
+('Villa Montellano', 'Puerto Plata', '2006-01-21', 26345, 73.89, '357/km²', NULL),
+('Villa Riva', 'Duarte', '1845-03-05', 42343, 309.93, '137/km²', 'San Antonio del Yuna'),
+('Villa Tapia', 'Hermanas Mirabal', '1845-03-05', 42123, 90.12, '467/km²', 'La Jagua'),
+('Villa Vásquez', 'Monte Cristi', '1938-06-27', 24293, 229.86, '106/km²', 'Santa Ana, Villa Isabel'),
+('Yaguate', 'San Cristóbal', '1976-03-05', 54663, 121.81, '449/km²', 'San Gregorio de Yaguate'),
+('Yamasá', 'Monte Plata', '1907-09-09', 90129, 441.61, '204/km²', NULL);
+
+-- Insertando datos en la tabla areas_trabajo
+INSERT INTO areas_trabajo (area_trab, descripcion) VALUES
+('Todas', 'Todas las Areas'),
+('Monitoreo', 'Area de Monitoreo'),
+('Promociones', 'Area de Promociones'),
+('Orientacion', 'Area de Orientacion'),
+('Defensoria', 'Area de Defensoria');
+
+-- Insertando datos en la tabla usr_grupos
+INSERT INTO usr_grupos (grupo, detalles) VALUES
+('Supervisores', 'Supervisores'),
+('Encuestadores', 'Encuestadores'),
+('Digitadores', 'Digitadores'),
+('Lectura', 'Lectura'),
+('General', NULL), -- Añadido para satisfacer FK en otras tablas, asumiendo un grupo 'General'
+('Administrador', NULL); -- Añadido para satisfacer FK en otras tablas, asumiendo un grupo 'Administrador'
+
+-- Insertando datos en la tabla licencias_sistema
+INSERT INTO licencias_sistema (id_lic, nombre_negocio, persona_responsable, telefono_responsable, correo_responsable, codigo_licencia, clave_acceso, fecha_inicio, fecha_vence, nombre_bd, estado_licencia, cod_int_lic) VALUES
+('dbe8d5d8', 'INVERSIONES REMO', 'ISRAEL BAEZ', '8092993185', 'baez.israel@gmail.com', 'IRDBE8', '3185', '2024-09-01', NULL, NULL, 'Activa', 'IRDBE8D5D8'),
+('49181ab8', 'ALEX PRESTAMOS', 'ALEX ZORRILLA', '8293102585', 'alexzorrilla04@hotmail.com', 'AP4918', '5016', '2024-10-07', NULL, 'PRESTAKITAP4918', 'Activa', 'AP49181AB8');
+
+-- Insertando datos en la tabla menu_matz
+INSERT INTO menu_matz (id_reg, titulo, pantalla, descripcion, imagen, orden, estado) VALUES
+(1, 'Menu Monitoreo', 'Menu_Monit_Oper', 'Ir al menu prinicipal de moninoreo', 'Menu_Matz_Images/1.Imagen.185250.jpg', 1, 'Activo'),
+(2, 'Menu Promociones', 'Menu_Prom_Oper', 'Muestra el menu principal de promociones', 'Menu_Matz_Images/2.Imagen.185323.png', 2, 'Activo'),
+(3, 'Informes', 'Informes', 'Reportes preelaborados', 'Menu_Matz_Images/4.Imagen.190045.png', 3, 'Activo'),
+(4, 'Administrativo', 'Menu_Admin', 'Menu Administrativo', 'Menu_Matz_Images/4.Imagen.021231.png', 4, 'Activo');
+
+-- Insertando datos en la tabla menu_admin
+INSERT INTO menu_admin (id_reg, titulo, pantalla, descripcion, imagen, orden, estado) VALUES
+(1, 'Sucursales', 'Sucursales', 'Ir al menu prinicipal de moninoreo', 'Menu_Admin_Images/1.Imagen.022102.png', 1, 'Activo'),
+(2, 'Provincias', 'Provincias', 'Muestra el menu principal de promociones', 'Menu_Admin_Images/2.Imagen.022444.jpg', 4, 'Inactivo'),
+(4, 'Municipios', 'Municipios', 'Reportes preelaborados', 'Menu_Admin_Images/4.Imagen.023237.png', 3, 'Activo'),
+(5, 'Regiones', 'Regiones', 'Regiones', 'Menu_Admin_Images/5.Imagen.023352.png', 5, NULL),
+(6, 'Usuarios', 'Usuarios', 'Usuarios', 'Menu_Admin_Images/6.Imagen.023522.jpg', 6, NULL);
+
+-- Insertando datos en la tabla menu_monit
+INSERT INTO menu_monit (id_reg, titulo, pantalla, descripcion, imagen, area_trab, grupo, acceso, orden, estado) VALUES
+(1, 'Encuestas P.S.S.', 'Encuesta_PSS', 'Encuestas a Prestadoras de Servicios de Salud', 'Menu_Images/Encuestas.Imagen.003949.png', 'Servicios', 'Monitoreo', 'General', 1, 'Activo'),
+(2, 'Encuestas U.S.S.', 'Encuesta_USS', 'Encuestas a Usuarios de Servicios de Salud', 'Menu_Images/2.Imagen.010028.png', 'Servicios', 'Monitoreo', 'General', 4, 'Inactivo'),
+(3, 'Sucursales', 'Sucursales', 'Saldo General Resumido', 'Menu_Images/3.Imagen.010923.png', 'Servicios', 'Monitoreo', 'Administrativo', 17, 'Activo'),
+(4, 'Usuarios', 'Usuarios', 'Usuarios y/o Agentes', 'Menu_Images/Agentes_Oper.Imagen.174248.png', 'Servicios', 'Monitoreo', 'General', 18, 'Activo'),
+(5, 'Reportes', 'Reportes', 'Matriz de Tarifas Fijas Préstamos', 'Menu_Images/Prest_Matz_Tarifas.Imagen.155707.png', 'Servicios', 'Monitoreo', 'General', 7, 'Activo');
+
+-- Insertando datos en la tabla menu_prom
+INSERT INTO menu_prom (id_reg, titulo, pantalla, descripcion, imagen, area_trab, grupo, acceso, orden, estado) VALUES
+(1, 'Actividades', 'Activid_Matz', 'Registro de actividades relacionadas a promociones', 'Menu_Prom_Images/1.Imagen.004858.png', 'Servicios', 'Promociones', 'General', 1, 'Activo'),
+(2, 'Capacitaciones', 'Capac_Matz', 'Encuestas a Usuarios de Servicios de Salud', 'Menu_Prom_Images/2.Imagen.005039.jpg', 'Servicios', 'Promociones', 'General', 4, 'Inactivo'),
+(3, 'Materiales', 'Material_Matz', 'Distribucion de Materiales', 'Menu_Prom_Images/3.Imagen.005204.jpg', 'Servicios', 'Promociones', 'General', 17, 'Activo'),
+(4, 'Planificacion', 'Planif_Tareas', 'Agenda de trabajo planificada', 'Menu_Prom_Images/4.Imagen.005509.png', 'Servicios', 'Promociones', 'General', 18, 'Activo'),
+(5, 'Reportes de Promociones', 'Enlaces_Ext_Promo', 'Reportes y Resumenes de datos', 'Menu_Prom_Images/5.Imagen.005717.jpg', 'Servicios', 'Promociones', 'General', 7, 'Activo');
+
+-- Insertando datos en la tabla sucursales
+INSERT INTO sucursales (id_suc, tipo_suc, nombre_sucursal, descripcion, provincia, municipio, direccion, geo_referencia, telefono_sucursal, correo_sucursal, persona_responsable, telefono_responsable, correo_responsable, horario, estado, fec_reg) VALUES
+(1, 'Oficina', 'SEDE PRINCIPAL SD', 'SEDE CENTRAL SANTO DOMINGO', 'Santo Domingo', 'Santo Domingo', 'AV. TIRADENTES #33, SANTO DOMINGO', '19.479196, -70.693057', '8092993185', 'dida.desarrollo@gmail.com', 'ISRAEL BAEZ', '8092993185', NULL, NULL, 'Activo', NULL),
+(2, 'Punto Expreso', 'PUNTO GOB SAMBIL', 'SUCURSAL SAMBIL', 'Santo Domingo', 'Santo Domingo', 'AV. JOHN F. KENNEDY, SANTO DOMINGO, REPÚBLICA DOMINICANA', '19.479196, -70.693057', '8095609121', 'didasambil@gmail.com', 'EL RESPONSABLE SAMBIL', NULL, NULL, NULL, 'Activo', NULL),
+(3, 'Oficina', 'SUCURSAL SAN PEDRO DE MACORIS', 'SAN PEDRO', 'San Pedro de Macorís', 'San Pedro de Macorís', 'SAN PEDRO GARZA GARCÍA, N.L., MÉXICO', '18.840982, -70.321896', '8092222222', 'coreeo@hhj.com', 'JUAN PEREZ', '8299999999', NULL, NULL, 'Activo', NULL);
+
+-- Insertando datos en la tabla usuarios
+INSERT INTO usuarios (correo, nombre, login, clave, cod_lic, id_suc, area, grupo, rol, estado, fec_reg) VALUES
+('rociojimenezvolquez@gmail.com', 'Rocio Jimenez', 'rjimenez', '5849', 'AP4918', 1, 'Promociones', 'General', 'Administrador', 'Activo', '2024-10-08'),
+('baez.israel@gmail.com', 'Israel Baez', 'ibaez', '3185', 'IRDBE8', 1, 'Todas', 'General', 'Soporte', 'Activo', '2024-10-08');
+
+-- Insertando datos en la tabla sistema_usuarios
+INSERT INTO sistema_usuarios (correo, titulo, contacto, telefono) VALUES
+('israel.baez@hotmail.com', 'IBH Hotmail', 'Israel Baez', '8092993185'), -- 'Israel Báez Herrera' fue mapeado a 'israel.baez@hotmail.com' ya que no hay 'Israel Báez Herrera' en la columna correo, se asume que 'IBH Gmail' es un titulo y no el correo
+('ibh.prestamos@gmail.com', 'IBH Prestamos', 'Israel Baez', '8092993185'),
+('visiontecdom@gmail.com', 'Visiontecdom GMail', 'Israel Baez', '8092993185'),
+('dida.desarrollo@gmail.com', 'DIDA Desarrollo Gmail', 'Israel Baez', '8092993185');
+
+COMMIT;

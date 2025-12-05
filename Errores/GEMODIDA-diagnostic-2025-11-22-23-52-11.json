@@ -1,0 +1,425 @@
+{
+  "logs": [
+    {
+      "id": "rnks6plx4",
+      "timestamp": "2025-11-22T23:52:04.289Z",
+      "level": "info",
+      "message": "Sistema de diagnóstico iniciado",
+      "source": "System",
+      "details": "{\"url\":\"http://localhost:3003/matriz-soporte\",\"timestamp\":\"2025-11-22T23:52:04.289Z\"}",
+      "userAction": false
+    },
+    {
+      "id": "m2wy112n7",
+      "timestamp": "2025-11-22T23:52:04.298Z",
+      "level": "info",
+      "message": "Sistema de diagnóstico iniciado",
+      "source": "System",
+      "details": "{\"url\":\"http://localhost:3003/matriz-soporte\",\"timestamp\":\"2025-11-22T23:52:04.298Z\"}",
+      "userAction": false
+    },
+    {
+      "id": "k7q2whytx",
+      "timestamp": "2025-11-22T23:52:04.331Z",
+      "level": "info",
+      "message": "onAuthStateChange event",
+      "source": "AuthProvider",
+      "details": "{\"event\":\"INITIAL_SESSION\",\"hasSession\":true,\"userId\":\"f5073781-ed4b-41c2-8ad6-cf3c7d76f8ed\"}",
+      "userAction": false
+    },
+    {
+      "id": "oe61sjr54",
+      "timestamp": "2025-11-22T23:52:04.359Z",
+      "level": "info",
+      "message": "Session restored from Supabase",
+      "source": "AuthProvider",
+      "details": "{\"userId\":\"f5073781-ed4b-41c2-8ad6-cf3c7d76f8ed\"}",
+      "userAction": false
+    },
+    {
+      "id": "9rhf96mb0",
+      "timestamp": "2025-11-22T23:52:04.382Z",
+      "level": "api",
+      "message": "GET https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/usuarios_roles?select=id_rol%2Ccodigo_rol%2Cnombre_rol&esta_activo=eq.true&order=nombre_rol.asc",
+      "source": "Fetch",
+      "details": "{\"method\":\"GET\"}",
+      "userAction": false
+    },
+    {
+      "id": "bkom82h7i",
+      "timestamp": "2025-11-22T23:52:04.383Z",
+      "level": "api",
+      "message": "POST https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/rpc/obtener_usuarios_completos",
+      "source": "Fetch",
+      "details": "{\"method\":\"POST\"}",
+      "userAction": false
+    },
+    {
+      "id": "59wjfdyt8",
+      "timestamp": "2025-11-22T23:52:04.384Z",
+      "level": "api",
+      "message": "GET https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/usuarios_roles?select=id_rol%2Ccodigo_rol%2Cnombre_rol&esta_activo=eq.true&order=nombre_rol.asc",
+      "source": "Fetch",
+      "details": "{\"method\":\"GET\"}",
+      "userAction": false
+    },
+    {
+      "id": "4k60fp3cb",
+      "timestamp": "2025-11-22T23:52:04.384Z",
+      "level": "api",
+      "message": "POST https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/rpc/obtener_usuarios_completos",
+      "source": "Fetch",
+      "details": "{\"method\":\"POST\"}",
+      "userAction": false
+    },
+    {
+      "id": "z6z46953r",
+      "timestamp": "2025-11-22T23:52:04.385Z",
+      "level": "api",
+      "message": "GET https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/usuarios_roles?select=id_rol%2Ccodigo_rol%2Cnombre_rol&esta_activo=eq.true&order=nombre_rol.asc",
+      "source": "Fetch",
+      "details": "{\"method\":\"GET\"}",
+      "userAction": false
+    },
+    {
+      "id": "zud46vgsq",
+      "timestamp": "2025-11-22T23:52:04.385Z",
+      "level": "api",
+      "message": "POST https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/rpc/obtener_usuarios_completos",
+      "source": "Fetch",
+      "details": "{\"method\":\"POST\"}",
+      "userAction": false
+    },
+    {
+      "id": "1g29poyto",
+      "timestamp": "2025-11-22T23:52:04.386Z",
+      "level": "api",
+      "message": "POST https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/rpc/obtener_permisos_usuario",
+      "source": "Fetch",
+      "details": "{\"method\":\"POST\"}",
+      "userAction": false
+    },
+    {
+      "id": "wwiggijk7",
+      "timestamp": "2025-11-22T23:52:04.387Z",
+      "level": "api",
+      "message": "GET https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/usuarios_grupos?select=*&esta_activo=eq.true&order=nombre_grupo.asc",
+      "source": "Fetch",
+      "details": "{\"method\":\"GET\"}",
+      "userAction": false
+    },
+    {
+      "id": "bvvozkisj",
+      "timestamp": "2025-11-22T23:52:04.387Z",
+      "level": "api",
+      "message": "GET https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/usuarios_roles?select=*&esta_activo=eq.true&order=nivel_acceso.desc",
+      "source": "Fetch",
+      "details": "{\"method\":\"GET\"}",
+      "userAction": false
+    },
+    {
+      "id": "xrpvwtbph",
+      "timestamp": "2025-11-22T23:52:04.388Z",
+      "level": "api",
+      "message": "GET https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/sucursales?select=id_suc%2Cnombre_sucursal%2Cprovincia&estado=eq.activa&order=nombre_sucursal.asc",
+      "source": "Fetch",
+      "details": "{\"method\":\"GET\"}",
+      "userAction": false
+    },
+    {
+      "id": "arq9jbmyv",
+      "timestamp": "2025-11-22T23:52:04.545Z",
+      "level": "error",
+      "message": "API Error: 500",
+      "source": "Fetch",
+      "details": "{\"url\":\"https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/rpc/obtener_usuarios_completos\",\"status\":500}",
+      "userAction": false
+    },
+    {
+      "id": "0cv4jwxw2",
+      "timestamp": "2025-11-22T23:52:04.564Z",
+      "level": "api",
+      "message": "GET https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/usuarios?select=id_usuario%2Ccorreo%2Cnombre_completo%2Ctelefono%2Cesta_activo%2Cid_rol%2Cid_suc%2Ccreado_en%2Cultimo_acceso%2Cusuarios_roles%28nombre_rol%29%2Csucursales%28nombre_sucursal%29&order=creado_en.desc&limit=100",
+      "source": "Fetch",
+      "details": "{\"method\":\"GET\"}",
+      "userAction": false
+    },
+    {
+      "id": "9puzlyoqh",
+      "timestamp": "2025-11-22T23:52:04.565Z",
+      "level": "error",
+      "message": "API Error: 500",
+      "source": "Fetch",
+      "details": "{\"url\":\"https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/usuarios_roles?select=id_rol%2Ccodigo_rol%2Cnombre_rol&esta_activo=eq.true&order=nombre_rol.asc\",\"status\":500}",
+      "userAction": false
+    },
+    {
+      "id": "6cot5xmyt",
+      "timestamp": "2025-11-22T23:52:04.568Z",
+      "level": "error",
+      "message": "API Error: 500",
+      "source": "Fetch",
+      "details": "{\"url\":\"https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/rpc/obtener_usuarios_completos\",\"status\":500}",
+      "userAction": false
+    },
+    {
+      "id": "vgu9g5xb4",
+      "timestamp": "2025-11-22T23:52:04.570Z",
+      "level": "api",
+      "message": "GET https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/sucursales?select=id_suc%2Cnombre_sucursal&estado=eq.Activo&order=nombre_sucursal.asc",
+      "source": "Fetch",
+      "details": "{\"method\":\"GET\"}",
+      "userAction": false
+    },
+    {
+      "id": "ooakptozi",
+      "timestamp": "2025-11-22T23:52:04.572Z",
+      "level": "api",
+      "message": "GET https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/usuarios?select=id_usuario%2Ccorreo%2Cnombre_completo%2Ctelefono%2Cesta_activo%2Cid_rol%2Cid_suc%2Ccreado_en%2Cultimo_acceso%2Cusuarios_roles%28nombre_rol%29%2Csucursales%28nombre_sucursal%29&order=creado_en.desc&limit=100",
+      "source": "Fetch",
+      "details": "{\"method\":\"GET\"}",
+      "userAction": false
+    },
+    {
+      "id": "yatf2inqu",
+      "timestamp": "2025-11-22T23:52:04.576Z",
+      "level": "error",
+      "message": "API Error: 500",
+      "source": "Fetch",
+      "details": "{\"url\":\"https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/usuarios_grupos?select=*&esta_activo=eq.true&order=nombre_grupo.asc\",\"status\":500}",
+      "userAction": false
+    },
+    {
+      "id": "wazfpmlo7",
+      "timestamp": "2025-11-22T23:52:04.598Z",
+      "level": "error",
+      "message": "API Error: 404",
+      "source": "Fetch",
+      "details": "{\"url\":\"https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/rpc/obtener_permisos_usuario\",\"status\":404}",
+      "userAction": false
+    },
+    {
+      "id": "ydsmhwrm6",
+      "timestamp": "2025-11-22T23:52:04.604Z",
+      "level": "error",
+      "message": "API Error: 500",
+      "source": "Fetch",
+      "details": "{\"url\":\"https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/usuarios_roles?select=*&esta_activo=eq.true&order=nivel_acceso.desc\",\"status\":500}",
+      "userAction": false
+    },
+    {
+      "id": "vmj6exa55",
+      "timestamp": "2025-11-22T23:52:04.613Z",
+      "level": "error",
+      "message": "API Error: 500",
+      "source": "Fetch",
+      "details": "{\"url\":\"https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/rpc/obtener_usuarios_completos\",\"status\":500}",
+      "userAction": false
+    },
+    {
+      "id": "ewrii30d0",
+      "timestamp": "2025-11-22T23:52:04.619Z",
+      "level": "api",
+      "message": "GET https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/usuarios?select=id_usuario%2Ccorreo%2Cnombre_completo%2Ctelefono%2Cesta_activo%2Cid_rol%2Cid_suc%2Ccreado_en%2Cultimo_acceso%2Cusuarios_roles%28nombre_rol%29%2Csucursales%28nombre_sucursal%29&order=creado_en.desc&limit=100",
+      "source": "Fetch",
+      "details": "{\"method\":\"GET\"}",
+      "userAction": false
+    },
+    {
+      "id": "3192f5soe",
+      "timestamp": "2025-11-22T23:52:04.721Z",
+      "level": "error",
+      "message": "API Error: 500",
+      "source": "Fetch",
+      "details": "{\"url\":\"https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/usuarios_roles?select=id_rol%2Ccodigo_rol%2Cnombre_rol&esta_activo=eq.true&order=nombre_rol.asc\",\"status\":500}",
+      "userAction": false
+    },
+    {
+      "id": "c7yqxwxsh",
+      "timestamp": "2025-11-22T23:52:04.723Z",
+      "level": "api",
+      "message": "GET https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/sucursales?select=id_suc%2Cnombre_sucursal&estado=eq.Activo&order=nombre_sucursal.asc",
+      "source": "Fetch",
+      "details": "{\"method\":\"GET\"}",
+      "userAction": false
+    },
+    {
+      "id": "p7tns2dwl",
+      "timestamp": "2025-11-22T23:52:04.762Z",
+      "level": "error",
+      "message": "API Error: 400",
+      "source": "Fetch",
+      "details": "{\"url\":\"https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/usuarios?select=id_usuario%2Ccorreo%2Cnombre_completo%2Ctelefono%2Cesta_activo%2Cid_rol%2Cid_suc%2Ccreado_en%2Cultimo_acceso%2Cusuarios_roles%28nombre_rol%29%2Csucursales%28nombre_sucursal%29&order=creado_en.desc&limit=100\",\"status\":400}",
+      "userAction": false
+    },
+    {
+      "id": "e7x4zm2r8",
+      "timestamp": "2025-11-22T23:52:04.888Z",
+      "level": "error",
+      "message": "API Error: 500",
+      "source": "Fetch",
+      "details": "{\"url\":\"https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/usuarios_roles?select=id_rol%2Ccodigo_rol%2Cnombre_rol&esta_activo=eq.true&order=nombre_rol.asc\",\"status\":500}",
+      "userAction": false
+    },
+    {
+      "id": "prtrwnhmn",
+      "timestamp": "2025-11-22T23:52:04.888Z",
+      "level": "api",
+      "message": "GET https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/sucursales?select=id_suc%2Cnombre_sucursal&estado=eq.Activo&order=nombre_sucursal.asc",
+      "source": "Fetch",
+      "details": "{\"method\":\"GET\"}",
+      "userAction": false
+    },
+    {
+      "id": "173dk8vvb",
+      "timestamp": "2025-11-22T23:52:04.934Z",
+      "level": "error",
+      "message": "API Error: 400",
+      "source": "Fetch",
+      "details": "{\"url\":\"https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/usuarios?select=id_usuario%2Ccorreo%2Cnombre_completo%2Ctelefono%2Cesta_activo%2Cid_rol%2Cid_suc%2Ccreado_en%2Cultimo_acceso%2Cusuarios_roles%28nombre_rol%29%2Csucursales%28nombre_sucursal%29&order=creado_en.desc&limit=100\",\"status\":400}",
+      "userAction": false
+    },
+    {
+      "id": "q4hujy4o5",
+      "timestamp": "2025-11-22T23:52:05.106Z",
+      "level": "error",
+      "message": "API Error: 400",
+      "source": "Fetch",
+      "details": "{\"url\":\"https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/usuarios?select=id_usuario%2Ccorreo%2Cnombre_completo%2Ctelefono%2Cesta_activo%2Cid_rol%2Cid_suc%2Ccreado_en%2Cultimo_acceso%2Cusuarios_roles%28nombre_rol%29%2Csucursales%28nombre_sucursal%29&order=creado_en.desc&limit=100\",\"status\":400}",
+      "userAction": false
+    },
+    {
+      "id": "3zt5jnw7t",
+      "timestamp": "2025-11-22T23:52:07.616Z",
+      "level": "user_action",
+      "message": "Click: Button",
+      "source": "User",
+      "details": "{\"tagName\":\"BUTTON\",\"textContent\":\"\",\"pathname\":\"/matriz-soporte\",\"href\":\"http://localhost:3003/matriz-soporte\"}",
+      "userAction": true
+    }
+  ],
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+  "url": "http://localhost:3003/matriz-soporte",
+  "timestamp": "2025-11-22T23:52:11.314Z",
+  "sessionDuration": 7034,
+  "errors": [
+    {
+      "id": "arq9jbmyv",
+      "timestamp": "2025-11-22T23:52:04.545Z",
+      "level": "error",
+      "message": "API Error: 500",
+      "source": "Fetch",
+      "details": "{\"url\":\"https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/rpc/obtener_usuarios_completos\",\"status\":500}",
+      "userAction": false
+    },
+    {
+      "id": "9puzlyoqh",
+      "timestamp": "2025-11-22T23:52:04.565Z",
+      "level": "error",
+      "message": "API Error: 500",
+      "source": "Fetch",
+      "details": "{\"url\":\"https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/usuarios_roles?select=id_rol%2Ccodigo_rol%2Cnombre_rol&esta_activo=eq.true&order=nombre_rol.asc\",\"status\":500}",
+      "userAction": false
+    },
+    {
+      "id": "6cot5xmyt",
+      "timestamp": "2025-11-22T23:52:04.568Z",
+      "level": "error",
+      "message": "API Error: 500",
+      "source": "Fetch",
+      "details": "{\"url\":\"https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/rpc/obtener_usuarios_completos\",\"status\":500}",
+      "userAction": false
+    },
+    {
+      "id": "yatf2inqu",
+      "timestamp": "2025-11-22T23:52:04.576Z",
+      "level": "error",
+      "message": "API Error: 500",
+      "source": "Fetch",
+      "details": "{\"url\":\"https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/usuarios_grupos?select=*&esta_activo=eq.true&order=nombre_grupo.asc\",\"status\":500}",
+      "userAction": false
+    },
+    {
+      "id": "wazfpmlo7",
+      "timestamp": "2025-11-22T23:52:04.598Z",
+      "level": "error",
+      "message": "API Error: 404",
+      "source": "Fetch",
+      "details": "{\"url\":\"https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/rpc/obtener_permisos_usuario\",\"status\":404}",
+      "userAction": false
+    },
+    {
+      "id": "ydsmhwrm6",
+      "timestamp": "2025-11-22T23:52:04.604Z",
+      "level": "error",
+      "message": "API Error: 500",
+      "source": "Fetch",
+      "details": "{\"url\":\"https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/usuarios_roles?select=*&esta_activo=eq.true&order=nivel_acceso.desc\",\"status\":500}",
+      "userAction": false
+    },
+    {
+      "id": "vmj6exa55",
+      "timestamp": "2025-11-22T23:52:04.613Z",
+      "level": "error",
+      "message": "API Error: 500",
+      "source": "Fetch",
+      "details": "{\"url\":\"https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/rpc/obtener_usuarios_completos\",\"status\":500}",
+      "userAction": false
+    },
+    {
+      "id": "3192f5soe",
+      "timestamp": "2025-11-22T23:52:04.721Z",
+      "level": "error",
+      "message": "API Error: 500",
+      "source": "Fetch",
+      "details": "{\"url\":\"https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/usuarios_roles?select=id_rol%2Ccodigo_rol%2Cnombre_rol&esta_activo=eq.true&order=nombre_rol.asc\",\"status\":500}",
+      "userAction": false
+    },
+    {
+      "id": "p7tns2dwl",
+      "timestamp": "2025-11-22T23:52:04.762Z",
+      "level": "error",
+      "message": "API Error: 400",
+      "source": "Fetch",
+      "details": "{\"url\":\"https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/usuarios?select=id_usuario%2Ccorreo%2Cnombre_completo%2Ctelefono%2Cesta_activo%2Cid_rol%2Cid_suc%2Ccreado_en%2Cultimo_acceso%2Cusuarios_roles%28nombre_rol%29%2Csucursales%28nombre_sucursal%29&order=creado_en.desc&limit=100\",\"status\":400}",
+      "userAction": false
+    },
+    {
+      "id": "e7x4zm2r8",
+      "timestamp": "2025-11-22T23:52:04.888Z",
+      "level": "error",
+      "message": "API Error: 500",
+      "source": "Fetch",
+      "details": "{\"url\":\"https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/usuarios_roles?select=id_rol%2Ccodigo_rol%2Cnombre_rol&esta_activo=eq.true&order=nombre_rol.asc\",\"status\":500}",
+      "userAction": false
+    },
+    {
+      "id": "173dk8vvb",
+      "timestamp": "2025-11-22T23:52:04.934Z",
+      "level": "error",
+      "message": "API Error: 400",
+      "source": "Fetch",
+      "details": "{\"url\":\"https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/usuarios?select=id_usuario%2Ccorreo%2Cnombre_completo%2Ctelefono%2Cesta_activo%2Cid_rol%2Cid_suc%2Ccreado_en%2Cultimo_acceso%2Cusuarios_roles%28nombre_rol%29%2Csucursales%28nombre_sucursal%29&order=creado_en.desc&limit=100\",\"status\":400}",
+      "userAction": false
+    },
+    {
+      "id": "q4hujy4o5",
+      "timestamp": "2025-11-22T23:52:05.106Z",
+      "level": "error",
+      "message": "API Error: 400",
+      "source": "Fetch",
+      "details": "{\"url\":\"https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/usuarios?select=id_usuario%2Ccorreo%2Cnombre_completo%2Ctelefono%2Cesta_activo%2Cid_rol%2Cid_suc%2Ccreado_en%2Cultimo_acceso%2Cusuarios_roles%28nombre_rol%29%2Csucursales%28nombre_sucursal%29&order=creado_en.desc&limit=100\",\"status\":400}",
+      "userAction": false
+    }
+  ],
+  "userActions": 2,
+  "performanceMetrics": {
+    "pageLoadTime": 7703.5,
+    "connectionStatus": "online"
+  },
+  "systemInfo": {
+    "screenResolution": "1536x864",
+    "timezone": "America/Caracas",
+    "language": "es-ES"
+  }
+}

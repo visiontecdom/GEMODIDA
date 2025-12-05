@@ -1,0 +1,820 @@
+{
+  "logs": [
+    {
+      "timestamp": "2025-11-18T00:07:56.708Z",
+      "level": "log",
+      "message": "✅ Sistema de logging optimizado iniciado correctamente",
+      "source": "Console",
+      "details": [
+        "✅ Sistema de logging optimizado iniciado correctamente"
+      ],
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-18T00:07:56.713Z",
+      "level": "log",
+      "message": "✅ Sistema de logging optimizado iniciado correctamente",
+      "source": "Console",
+      "details": [
+        "✅ Sistema de logging optimizado iniciado correctamente"
+      ],
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-18T00:08:29.692Z",
+      "level": "warn",
+      "message": "GoTrueClient@sb-divxhluqybbcgfqozbjq-auth-token:5 (2.81.1) 2025-11-18T00:08:29.676Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key.",
+      "source": "Console",
+      "details": [
+        "GoTrueClient@sb-divxhluqybbcgfqozbjq-auth-token:5 (2.81.1) 2025-11-18T00:08:29.676Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key."
+      ],
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-18T00:08:29.692Z",
+      "level": "warn",
+      "message": "GoTrueClient@sb-divxhluqybbcgfqozbjq-auth-token:6 (2.81.1) 2025-11-18T00:08:29.679Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key.",
+      "source": "Console",
+      "details": [
+        "GoTrueClient@sb-divxhluqybbcgfqozbjq-auth-token:6 (2.81.1) 2025-11-18T00:08:29.679Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key."
+      ],
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-18T00:08:31.449Z",
+      "level": "warn",
+      "message": "GoTrueClient@sb-divxhluqybbcgfqozbjq-auth-token:7 (2.81.1) 2025-11-18T00:08:31.438Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key.",
+      "source": "Console",
+      "details": [
+        "GoTrueClient@sb-divxhluqybbcgfqozbjq-auth-token:7 (2.81.1) 2025-11-18T00:08:31.438Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key."
+      ],
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-18T00:08:31.449Z",
+      "level": "warn",
+      "message": "GoTrueClient@sb-divxhluqybbcgfqozbjq-auth-token:8 (2.81.1) 2025-11-18T00:08:31.440Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key.",
+      "source": "Console",
+      "details": [
+        "GoTrueClient@sb-divxhluqybbcgfqozbjq-auth-token:8 (2.81.1) 2025-11-18T00:08:31.440Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key."
+      ],
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-18T00:08:32.874Z",
+      "level": "warn",
+      "message": "GoTrueClient@sb-divxhluqybbcgfqozbjq-auth-token:9 (2.81.1) 2025-11-18T00:08:32.863Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key.",
+      "source": "Console",
+      "details": [
+        "GoTrueClient@sb-divxhluqybbcgfqozbjq-auth-token:9 (2.81.1) 2025-11-18T00:08:32.863Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key."
+      ],
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-18T00:08:32.874Z",
+      "level": "warn",
+      "message": "GoTrueClient@sb-divxhluqybbcgfqozbjq-auth-token:10 (2.81.1) 2025-11-18T00:08:32.865Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key.",
+      "source": "Console",
+      "details": [
+        "GoTrueClient@sb-divxhluqybbcgfqozbjq-auth-token:10 (2.81.1) 2025-11-18T00:08:32.865Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key."
+      ],
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-18T00:08:33.729Z",
+      "level": "warn",
+      "message": "GoTrueClient@sb-divxhluqybbcgfqozbjq-auth-token:11 (2.81.1) 2025-11-18T00:08:33.720Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key.",
+      "source": "Console",
+      "details": [
+        "GoTrueClient@sb-divxhluqybbcgfqozbjq-auth-token:11 (2.81.1) 2025-11-18T00:08:33.720Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key."
+      ],
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-18T00:08:33.729Z",
+      "level": "warn",
+      "message": "GoTrueClient@sb-divxhluqybbcgfqozbjq-auth-token:12 (2.81.1) 2025-11-18T00:08:33.721Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key.",
+      "source": "Console",
+      "details": [
+        "GoTrueClient@sb-divxhluqybbcgfqozbjq-auth-token:12 (2.81.1) 2025-11-18T00:08:33.721Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key."
+      ],
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-18T00:08:34.047Z",
+      "level": "warn",
+      "message": "GoTrueClient@sb-divxhluqybbcgfqozbjq-auth-token:13 (2.81.1) 2025-11-18T00:08:34.037Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key.",
+      "source": "Console",
+      "details": [
+        "GoTrueClient@sb-divxhluqybbcgfqozbjq-auth-token:13 (2.81.1) 2025-11-18T00:08:34.037Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key."
+      ],
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-18T00:08:34.047Z",
+      "level": "warn",
+      "message": "GoTrueClient@sb-divxhluqybbcgfqozbjq-auth-token:14 (2.81.1) 2025-11-18T00:08:34.039Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key.",
+      "source": "Console",
+      "details": [
+        "GoTrueClient@sb-divxhluqybbcgfqozbjq-auth-token:14 (2.81.1) 2025-11-18T00:08:34.039Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key."
+      ],
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-18T00:08:34.335Z",
+      "level": "warn",
+      "message": "GoTrueClient@sb-divxhluqybbcgfqozbjq-auth-token:15 (2.81.1) 2025-11-18T00:08:34.325Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key.",
+      "source": "Console",
+      "details": [
+        "GoTrueClient@sb-divxhluqybbcgfqozbjq-auth-token:15 (2.81.1) 2025-11-18T00:08:34.325Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key."
+      ],
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-18T00:08:34.335Z",
+      "level": "warn",
+      "message": "GoTrueClient@sb-divxhluqybbcgfqozbjq-auth-token:16 (2.81.1) 2025-11-18T00:08:34.327Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key.",
+      "source": "Console",
+      "details": [
+        "GoTrueClient@sb-divxhluqybbcgfqozbjq-auth-token:16 (2.81.1) 2025-11-18T00:08:34.327Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key."
+      ],
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-18T00:08:34.673Z",
+      "level": "warn",
+      "message": "GoTrueClient@sb-divxhluqybbcgfqozbjq-auth-token:17 (2.81.1) 2025-11-18T00:08:34.663Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key.",
+      "source": "Console",
+      "details": [
+        "GoTrueClient@sb-divxhluqybbcgfqozbjq-auth-token:17 (2.81.1) 2025-11-18T00:08:34.663Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key."
+      ],
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-18T00:08:34.673Z",
+      "level": "warn",
+      "message": "GoTrueClient@sb-divxhluqybbcgfqozbjq-auth-token:18 (2.81.1) 2025-11-18T00:08:34.664Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key.",
+      "source": "Console",
+      "details": [
+        "GoTrueClient@sb-divxhluqybbcgfqozbjq-auth-token:18 (2.81.1) 2025-11-18T00:08:34.664Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key."
+      ],
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-18T00:08:34.854Z",
+      "level": "warn",
+      "message": "GoTrueClient@sb-divxhluqybbcgfqozbjq-auth-token:19 (2.81.1) 2025-11-18T00:08:34.844Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key.",
+      "source": "Console",
+      "details": [
+        "GoTrueClient@sb-divxhluqybbcgfqozbjq-auth-token:19 (2.81.1) 2025-11-18T00:08:34.844Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key."
+      ],
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-18T00:08:34.854Z",
+      "level": "warn",
+      "message": "GoTrueClient@sb-divxhluqybbcgfqozbjq-auth-token:20 (2.81.1) 2025-11-18T00:08:34.846Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key.",
+      "source": "Console",
+      "details": [
+        "GoTrueClient@sb-divxhluqybbcgfqozbjq-auth-token:20 (2.81.1) 2025-11-18T00:08:34.846Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key."
+      ],
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-18T00:08:37.300Z",
+      "level": "user_action",
+      "message": "Acción de usuario: Iniciar Sesión",
+      "source": "User Interaction",
+      "details": {
+        "tagName": "BUTTON",
+        "textContent": "Iniciar Sesión",
+        "className": "inline-flex items-center justify-center rounded-lg transition-all duration-200 ease-in-out focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-60 bg-primary text-primary-foreground hover:bg-primary/90 shadow-sm hover:shadow-md active:scale-[0.98] dark:bg-primary dark:text-primary-foreground dark:hover:bg-primary/90 h-10 px-4 py-2 text-sm font-medium w-full",
+        "id": ""
+      },
+      "userAction": true
+    },
+    {
+      "timestamp": "2025-11-18T00:08:37.305Z",
+      "level": "api",
+      "message": "API: POST https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password",
+      "source": "Fetch API",
+      "details": {
+        "method": "POST",
+        "url": "https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password",
+        "callId": "POST https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password",
+        "timestamp": "2025-11-18T00:08:37.305Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-18T00:08:37.305Z",
+      "level": "api",
+      "message": "API: POST https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password",
+      "source": "Fetch API",
+      "details": {
+        "method": "POST",
+        "url": "https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password",
+        "callId": "POST https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password",
+        "timestamp": "2025-11-18T00:08:37.305Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-18T00:08:37.321Z",
+      "level": "warn",
+      "message": "GoTrueClient@sb-divxhluqybbcgfqozbjq-auth-token:21 (2.81.1) 2025-11-18T00:08:37.307Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key.",
+      "source": "Console",
+      "details": [
+        "GoTrueClient@sb-divxhluqybbcgfqozbjq-auth-token:21 (2.81.1) 2025-11-18T00:08:37.307Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key."
+      ],
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-18T00:08:37.321Z",
+      "level": "warn",
+      "message": "GoTrueClient@sb-divxhluqybbcgfqozbjq-auth-token:22 (2.81.1) 2025-11-18T00:08:37.308Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key.",
+      "source": "Console",
+      "details": [
+        "GoTrueClient@sb-divxhluqybbcgfqozbjq-auth-token:22 (2.81.1) 2025-11-18T00:08:37.308Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key."
+      ],
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-18T00:08:37.820Z",
+      "level": "error",
+      "message": "API Error: POST https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password - 500",
+      "source": "Fetch API Error",
+      "details": {
+        "method": "POST",
+        "url": "https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password",
+        "status": 500,
+        "statusText": ""
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-18T00:08:37.820Z",
+      "level": "error",
+      "message": "API Error: POST https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password - 500",
+      "source": "Fetch API Error",
+      "details": {
+        "method": "POST",
+        "url": "https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password",
+        "status": 500,
+        "statusText": ""
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-18T00:08:37.872Z",
+      "level": "warn",
+      "message": "GoTrueClient@sb-divxhluqybbcgfqozbjq-auth-token:23 (2.81.1) 2025-11-18T00:08:37.824Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key.",
+      "source": "Console",
+      "details": [
+        "GoTrueClient@sb-divxhluqybbcgfqozbjq-auth-token:23 (2.81.1) 2025-11-18T00:08:37.824Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key."
+      ],
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-18T00:08:37.872Z",
+      "level": "warn",
+      "message": "GoTrueClient@sb-divxhluqybbcgfqozbjq-auth-token:24 (2.81.1) 2025-11-18T00:08:37.825Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key.",
+      "source": "Console",
+      "details": [
+        "GoTrueClient@sb-divxhluqybbcgfqozbjq-auth-token:24 (2.81.1) 2025-11-18T00:08:37.825Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key."
+      ],
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-18T00:08:42.867Z",
+      "level": "warn",
+      "message": "GoTrueClient@sb-divxhluqybbcgfqozbjq-auth-token:25 (2.81.1) 2025-11-18T00:08:42.853Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key.",
+      "source": "Console",
+      "details": [
+        "GoTrueClient@sb-divxhluqybbcgfqozbjq-auth-token:25 (2.81.1) 2025-11-18T00:08:42.853Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key."
+      ],
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-18T00:08:42.867Z",
+      "level": "warn",
+      "message": "GoTrueClient@sb-divxhluqybbcgfqozbjq-auth-token:26 (2.81.1) 2025-11-18T00:08:42.855Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key.",
+      "source": "Console",
+      "details": [
+        "GoTrueClient@sb-divxhluqybbcgfqozbjq-auth-token:26 (2.81.1) 2025-11-18T00:08:42.855Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key."
+      ],
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-18T00:08:47.241Z",
+      "level": "user_action",
+      "message": "Acción de usuario: Iniciar Sesión",
+      "source": "User Interaction",
+      "details": {
+        "tagName": "BUTTON",
+        "textContent": "Iniciar Sesión",
+        "className": "inline-flex items-center justify-center rounded-lg transition-all duration-200 ease-in-out focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-60 bg-primary text-primary-foreground hover:bg-primary/90 shadow-sm hover:shadow-md active:scale-[0.98] dark:bg-primary dark:text-primary-foreground dark:hover:bg-primary/90 h-10 px-4 py-2 text-sm font-medium w-full",
+        "id": ""
+      },
+      "userAction": true
+    },
+    {
+      "timestamp": "2025-11-18T00:08:47.245Z",
+      "level": "api",
+      "message": "API: POST https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password",
+      "source": "Fetch API",
+      "details": {
+        "method": "POST",
+        "url": "https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password",
+        "callId": "POST https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password",
+        "timestamp": "2025-11-18T00:08:47.245Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-18T00:08:47.245Z",
+      "level": "api",
+      "message": "API: POST https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password",
+      "source": "Fetch API",
+      "details": {
+        "method": "POST",
+        "url": "https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password",
+        "callId": "POST https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password",
+        "timestamp": "2025-11-18T00:08:47.245Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-18T00:08:47.260Z",
+      "level": "warn",
+      "message": "GoTrueClient@sb-divxhluqybbcgfqozbjq-auth-token:27 (2.81.1) 2025-11-18T00:08:47.246Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key.",
+      "source": "Console",
+      "details": [
+        "GoTrueClient@sb-divxhluqybbcgfqozbjq-auth-token:27 (2.81.1) 2025-11-18T00:08:47.246Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key."
+      ],
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-18T00:08:47.260Z",
+      "level": "warn",
+      "message": "GoTrueClient@sb-divxhluqybbcgfqozbjq-auth-token:28 (2.81.1) 2025-11-18T00:08:47.247Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key.",
+      "source": "Console",
+      "details": [
+        "GoTrueClient@sb-divxhluqybbcgfqozbjq-auth-token:28 (2.81.1) 2025-11-18T00:08:47.247Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key."
+      ],
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-18T00:08:47.464Z",
+      "level": "error",
+      "message": "API Error: POST https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password - 500",
+      "source": "Fetch API Error",
+      "details": {
+        "method": "POST",
+        "url": "https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password",
+        "status": 500,
+        "statusText": ""
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-18T00:08:47.464Z",
+      "level": "error",
+      "message": "API Error: POST https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password - 500",
+      "source": "Fetch API Error",
+      "details": {
+        "method": "POST",
+        "url": "https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password",
+        "status": 500,
+        "statusText": ""
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-18T00:08:47.496Z",
+      "level": "warn",
+      "message": "GoTrueClient@sb-divxhluqybbcgfqozbjq-auth-token:29 (2.81.1) 2025-11-18T00:08:47.467Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key.",
+      "source": "Console",
+      "details": [
+        "GoTrueClient@sb-divxhluqybbcgfqozbjq-auth-token:29 (2.81.1) 2025-11-18T00:08:47.467Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key."
+      ],
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-18T00:08:47.496Z",
+      "level": "warn",
+      "message": "GoTrueClient@sb-divxhluqybbcgfqozbjq-auth-token:30 (2.81.1) 2025-11-18T00:08:47.468Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key.",
+      "source": "Console",
+      "details": [
+        "GoTrueClient@sb-divxhluqybbcgfqozbjq-auth-token:30 (2.81.1) 2025-11-18T00:08:47.468Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key."
+      ],
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-18T00:08:52.501Z",
+      "level": "warn",
+      "message": "GoTrueClient@sb-divxhluqybbcgfqozbjq-auth-token:31 (2.81.1) 2025-11-18T00:08:52.489Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key.",
+      "source": "Console",
+      "details": [
+        "GoTrueClient@sb-divxhluqybbcgfqozbjq-auth-token:31 (2.81.1) 2025-11-18T00:08:52.489Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key."
+      ],
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-18T00:08:52.501Z",
+      "level": "warn",
+      "message": "GoTrueClient@sb-divxhluqybbcgfqozbjq-auth-token:32 (2.81.1) 2025-11-18T00:08:52.491Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key.",
+      "source": "Console",
+      "details": [
+        "GoTrueClient@sb-divxhluqybbcgfqozbjq-auth-token:32 (2.81.1) 2025-11-18T00:08:52.491Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key."
+      ],
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-18T00:08:53.499Z",
+      "level": "user_action",
+      "message": "Acción de usuario: Iniciar Sesión",
+      "source": "User Interaction",
+      "details": {
+        "tagName": "BUTTON",
+        "textContent": "Iniciar Sesión",
+        "className": "inline-flex items-center justify-center rounded-lg transition-all duration-200 ease-in-out focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-60 bg-primary text-primary-foreground hover:bg-primary/90 shadow-sm hover:shadow-md active:scale-[0.98] dark:bg-primary dark:text-primary-foreground dark:hover:bg-primary/90 h-10 px-4 py-2 text-sm font-medium w-full",
+        "id": ""
+      },
+      "userAction": true
+    },
+    {
+      "timestamp": "2025-11-18T00:08:53.503Z",
+      "level": "api",
+      "message": "API: POST https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password",
+      "source": "Fetch API",
+      "details": {
+        "method": "POST",
+        "url": "https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password",
+        "callId": "POST https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password",
+        "timestamp": "2025-11-18T00:08:53.503Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-18T00:08:53.503Z",
+      "level": "api",
+      "message": "API: POST https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password",
+      "source": "Fetch API",
+      "details": {
+        "method": "POST",
+        "url": "https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password",
+        "callId": "POST https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password",
+        "timestamp": "2025-11-18T00:08:53.503Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-18T00:08:53.520Z",
+      "level": "warn",
+      "message": "GoTrueClient@sb-divxhluqybbcgfqozbjq-auth-token:33 (2.81.1) 2025-11-18T00:08:53.505Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key.",
+      "source": "Console",
+      "details": [
+        "GoTrueClient@sb-divxhluqybbcgfqozbjq-auth-token:33 (2.81.1) 2025-11-18T00:08:53.505Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key."
+      ],
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-18T00:08:53.520Z",
+      "level": "warn",
+      "message": "GoTrueClient@sb-divxhluqybbcgfqozbjq-auth-token:34 (2.81.1) 2025-11-18T00:08:53.506Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key.",
+      "source": "Console",
+      "details": [
+        "GoTrueClient@sb-divxhluqybbcgfqozbjq-auth-token:34 (2.81.1) 2025-11-18T00:08:53.506Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key."
+      ],
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-18T00:08:53.696Z",
+      "level": "error",
+      "message": "API Error: POST https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password - 500",
+      "source": "Fetch API Error",
+      "details": {
+        "method": "POST",
+        "url": "https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password",
+        "status": 500,
+        "statusText": ""
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-18T00:08:53.697Z",
+      "level": "error",
+      "message": "API Error: POST https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password - 500",
+      "source": "Fetch API Error",
+      "details": {
+        "method": "POST",
+        "url": "https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password",
+        "status": 500,
+        "statusText": ""
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-18T00:08:53.729Z",
+      "level": "warn",
+      "message": "GoTrueClient@sb-divxhluqybbcgfqozbjq-auth-token:35 (2.81.1) 2025-11-18T00:08:53.700Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key.",
+      "source": "Console",
+      "details": [
+        "GoTrueClient@sb-divxhluqybbcgfqozbjq-auth-token:35 (2.81.1) 2025-11-18T00:08:53.700Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key."
+      ],
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-18T00:08:53.729Z",
+      "level": "warn",
+      "message": "GoTrueClient@sb-divxhluqybbcgfqozbjq-auth-token:36 (2.81.1) 2025-11-18T00:08:53.701Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key.",
+      "source": "Console",
+      "details": [
+        "GoTrueClient@sb-divxhluqybbcgfqozbjq-auth-token:36 (2.81.1) 2025-11-18T00:08:53.701Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key."
+      ],
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-18T00:08:58.727Z",
+      "level": "warn",
+      "message": "GoTrueClient@sb-divxhluqybbcgfqozbjq-auth-token:37 (2.81.1) 2025-11-18T00:08:58.717Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key.",
+      "source": "Console",
+      "details": [
+        "GoTrueClient@sb-divxhluqybbcgfqozbjq-auth-token:37 (2.81.1) 2025-11-18T00:08:58.717Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key."
+      ],
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-18T00:08:58.727Z",
+      "level": "warn",
+      "message": "GoTrueClient@sb-divxhluqybbcgfqozbjq-auth-token:38 (2.81.1) 2025-11-18T00:08:58.718Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key.",
+      "source": "Console",
+      "details": [
+        "GoTrueClient@sb-divxhluqybbcgfqozbjq-auth-token:38 (2.81.1) 2025-11-18T00:08:58.718Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key."
+      ],
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-18T00:09:00.781Z",
+      "level": "user_action",
+      "message": "Acción de usuario: Iniciar Sesión",
+      "source": "User Interaction",
+      "details": {
+        "tagName": "BUTTON",
+        "textContent": "Iniciar Sesión",
+        "className": "inline-flex items-center justify-center rounded-lg transition-all duration-200 ease-in-out focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-60 bg-primary text-primary-foreground hover:bg-primary/90 shadow-sm hover:shadow-md active:scale-[0.98] dark:bg-primary dark:text-primary-foreground dark:hover:bg-primary/90 h-10 px-4 py-2 text-sm font-medium w-full",
+        "id": ""
+      },
+      "userAction": true
+    },
+    {
+      "timestamp": "2025-11-18T00:09:00.783Z",
+      "level": "api",
+      "message": "API: POST https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password",
+      "source": "Fetch API",
+      "details": {
+        "method": "POST",
+        "url": "https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password",
+        "callId": "POST https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password",
+        "timestamp": "2025-11-18T00:09:00.783Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-18T00:09:00.783Z",
+      "level": "api",
+      "message": "API: POST https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password",
+      "source": "Fetch API",
+      "details": {
+        "method": "POST",
+        "url": "https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password",
+        "callId": "POST https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password",
+        "timestamp": "2025-11-18T00:09:00.783Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-18T00:09:00.796Z",
+      "level": "warn",
+      "message": "GoTrueClient@sb-divxhluqybbcgfqozbjq-auth-token:39 (2.81.1) 2025-11-18T00:09:00.784Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key.",
+      "source": "Console",
+      "details": [
+        "GoTrueClient@sb-divxhluqybbcgfqozbjq-auth-token:39 (2.81.1) 2025-11-18T00:09:00.784Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key."
+      ],
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-18T00:09:00.796Z",
+      "level": "warn",
+      "message": "GoTrueClient@sb-divxhluqybbcgfqozbjq-auth-token:40 (2.81.1) 2025-11-18T00:09:00.786Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key.",
+      "source": "Console",
+      "details": [
+        "GoTrueClient@sb-divxhluqybbcgfqozbjq-auth-token:40 (2.81.1) 2025-11-18T00:09:00.786Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key."
+      ],
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-18T00:09:00.962Z",
+      "level": "error",
+      "message": "API Error: POST https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password - 500",
+      "source": "Fetch API Error",
+      "details": {
+        "method": "POST",
+        "url": "https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password",
+        "status": 500,
+        "statusText": ""
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-18T00:09:00.963Z",
+      "level": "error",
+      "message": "API Error: POST https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password - 500",
+      "source": "Fetch API Error",
+      "details": {
+        "method": "POST",
+        "url": "https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password",
+        "status": 500,
+        "statusText": ""
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-18T00:09:00.989Z",
+      "level": "warn",
+      "message": "GoTrueClient@sb-divxhluqybbcgfqozbjq-auth-token:41 (2.81.1) 2025-11-18T00:09:00.968Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key.",
+      "source": "Console",
+      "details": [
+        "GoTrueClient@sb-divxhluqybbcgfqozbjq-auth-token:41 (2.81.1) 2025-11-18T00:09:00.968Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key."
+      ],
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-18T00:09:00.992Z",
+      "level": "warn",
+      "message": "GoTrueClient@sb-divxhluqybbcgfqozbjq-auth-token:42 (2.81.1) 2025-11-18T00:09:00.970Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key.",
+      "source": "Console",
+      "details": [
+        "GoTrueClient@sb-divxhluqybbcgfqozbjq-auth-token:42 (2.81.1) 2025-11-18T00:09:00.970Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key."
+      ],
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-18T00:09:05.992Z",
+      "level": "warn",
+      "message": "GoTrueClient@sb-divxhluqybbcgfqozbjq-auth-token:43 (2.81.1) 2025-11-18T00:09:05.982Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key.",
+      "source": "Console",
+      "details": [
+        "GoTrueClient@sb-divxhluqybbcgfqozbjq-auth-token:43 (2.81.1) 2025-11-18T00:09:05.982Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key."
+      ],
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-18T00:09:05.992Z",
+      "level": "warn",
+      "message": "GoTrueClient@sb-divxhluqybbcgfqozbjq-auth-token:44 (2.81.1) 2025-11-18T00:09:05.983Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key.",
+      "source": "Console",
+      "details": [
+        "GoTrueClient@sb-divxhluqybbcgfqozbjq-auth-token:44 (2.81.1) 2025-11-18T00:09:05.983Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key."
+      ],
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-18T00:09:06.111Z",
+      "level": "user_action",
+      "message": "Acción de usuario: Button sin texto",
+      "source": "User Interaction",
+      "details": {
+        "tagName": "BUTTON",
+        "textContent": "",
+        "className": "inline-flex items-center justify-center transition-all duration-200 ease-in-out focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-60 hover:shadow-md active:scale-[0.98] dark:bg-primary dark:text-primary-foreground dark:hover:bg-primary/90 text-sm font-medium fixed bottom-20 right-4 z-50 bg-orange-500 hover:bg-orange-600 text-white rounded-full w-12 h-12 p-0 shadow-lg",
+        "id": ""
+      },
+      "userAction": true
+    },
+    {
+      "timestamp": "2025-11-18T00:09:10.391Z",
+      "level": "user_action",
+      "message": "Acción de usuario: Descargar",
+      "source": "User Interaction",
+      "details": {
+        "tagName": "BUTTON",
+        "textContent": "Descargar",
+        "className": "inline-flex items-center justify-center transition-all duration-200 ease-in-out focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-60 border border-primary/30 bg-transparent text-primary hover:bg-primary/10 hover:border-primary/60 active:bg-primary/5 dark:border-primary/50 dark:text-primary-foreground dark:hover:bg-primary/20 dark:hover:border-primary/70 h-8 px-3 rounded-md font-medium flex-1 text-xs",
+        "id": ""
+      },
+      "userAction": true
+    }
+  ],
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+  "url": "http://localhost:3003/signin",
+  "timestamp": "2025-11-18T00:09:10.405Z",
+  "sessionDuration": 73721,
+  "errors": [
+    {
+      "timestamp": "2025-11-18T00:08:37.820Z",
+      "level": "error",
+      "message": "API Error: POST https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password - 500",
+      "source": "Fetch API Error",
+      "details": {
+        "method": "POST",
+        "url": "https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password",
+        "status": 500,
+        "statusText": ""
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-18T00:08:37.820Z",
+      "level": "error",
+      "message": "API Error: POST https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password - 500",
+      "source": "Fetch API Error",
+      "details": {
+        "method": "POST",
+        "url": "https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password",
+        "status": 500,
+        "statusText": ""
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-18T00:08:47.464Z",
+      "level": "error",
+      "message": "API Error: POST https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password - 500",
+      "source": "Fetch API Error",
+      "details": {
+        "method": "POST",
+        "url": "https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password",
+        "status": 500,
+        "statusText": ""
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-18T00:08:47.464Z",
+      "level": "error",
+      "message": "API Error: POST https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password - 500",
+      "source": "Fetch API Error",
+      "details": {
+        "method": "POST",
+        "url": "https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password",
+        "status": 500,
+        "statusText": ""
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-18T00:08:53.696Z",
+      "level": "error",
+      "message": "API Error: POST https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password - 500",
+      "source": "Fetch API Error",
+      "details": {
+        "method": "POST",
+        "url": "https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password",
+        "status": 500,
+        "statusText": ""
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-18T00:08:53.697Z",
+      "level": "error",
+      "message": "API Error: POST https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password - 500",
+      "source": "Fetch API Error",
+      "details": {
+        "method": "POST",
+        "url": "https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password",
+        "status": 500,
+        "statusText": ""
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-18T00:09:00.962Z",
+      "level": "error",
+      "message": "API Error: POST https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password - 500",
+      "source": "Fetch API Error",
+      "details": {
+        "method": "POST",
+        "url": "https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password",
+        "status": 500,
+        "statusText": ""
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-18T00:09:00.963Z",
+      "level": "error",
+      "message": "API Error: POST https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password - 500",
+      "source": "Fetch API Error",
+      "details": {
+        "method": "POST",
+        "url": "https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password",
+        "status": 500,
+        "statusText": ""
+      },
+      "userAction": false
+    }
+  ]
+}

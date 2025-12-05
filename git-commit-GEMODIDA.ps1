@@ -3,16 +3,15 @@
 	# git-commit-GEMODIDA.ps1
 	#
 	# Improvements:
-	#  - Only performs commits when changes are present (no empty commits)
-	#  - Accepts arguments: -Path, -Message, -Branch, -DryRun, -Force
-	#  - Verifies git presence and that the current folder is a git repo
-	#  - Supports creating/checking out backup branch (e.g. backups/YYYYMMDD-HHMM)
-	#  - Clear exit codes and log messages
+	#  - Minimal, git-only backup helper — no local snapshots or copies
+	#  - Stages only files directly from the project folders (no intermediate copies)
+	#  - Supports excludes, DryRun and initial commit flow
+	#  - Simple exit codes and informative logging
 
 	Recommended usage:
-		.\git-commit-GEMODIDA.ps1                       # stage all and commit/push on current branch
+		.\git-commit-GEMODIDA.ps1                       # stage all and commit/push on current branch (generates backups/* branch by default)
 		.\git-commit-GEMODIDA.ps1 -Path .\backup -Message "db backup" -Branch backups/2025-11-23 -Force
-		.\git-commit-GEMODIDA.ps1 -DryRun
+		.\git-commit-GEMODIDA.ps1 -DryRun                # show the git commands the script would run, without executing
 
 #>
 
@@ -68,30 +67,13 @@ try {
 	$resolvedPath = Resolve-Path -LiteralPath $Path -ErrorAction SilentlyContinue
 	if (-not $resolvedPath) { Write-Log "Path not found: $Path" 'ERROR'; exit 4 }
 
-	# Prepare backup area
-	# Determine project name (from package.json name or current folder)
-	$projectName = ''
-	if (Test-Path -Path 'package.json') {
-		try { $pkg = Get-Content -Raw package.json | ConvertFrom-Json; $projectName = $pkg.name } catch { }
-	}
-	if ([string]::IsNullOrWhiteSpace($projectName)) { $projectName = Split-Path -Leaf (Get-Location) }
-
-	$repoRoot = (Get-Location).Path
-	if (-not $DryRun) {
-		$repoRootResult = Invoke-Git(@('rev-parse','--show-toplevel'))
-		if ($repoRootResult.ExitCode -eq 0 -and -not [string]::IsNullOrWhiteSpace($repoRootResult.Output)) { $repoRoot = $repoRootResult.Output.Trim() }
-	}
-
-	$ts = Get-Date -Format 'yyyyMMdd-HHmmss'
-	Write-Log "Preparing git-only backup (no local snapshots) - excluding: $($Exclude -join ', ')"
+	# Project info and excludes
+	$projectName = Split-Path -Leaf (Get-Location)
+	Write-Log "Preparing git-only backup — will stage files directly from project folders (no copies)."
 
 	# default excludes to avoid large/compile artifacts
 	$defaultExcludes = @('node_modules', '.next', '.git', 'dist', 'build', 'vendor', 'venv', 'env', 'tmp', 'temp')
 	$allExcludes = ($Exclude + $defaultExcludes) | Select-Object -Unique
-
-	# Operate in repo root
-	$repoRootResult = Invoke-Git(@('rev-parse','--show-toplevel'))
-	if ($repoRootResult.ExitCode -eq 0 -and -not [string]::IsNullOrWhiteSpace($repoRootResult.Output)) { $repoRoot = $repoRootResult.Output.Trim() }
 
 	# Determine if repository has commits
 	$hasCommits = $true
@@ -99,18 +81,15 @@ try {
 	if ($headCheck.ExitCode -ne 0) { $hasCommits = $false }
 
 	if (-not $hasCommits) {
-		# FIRST RUN: full initial commit but exclude unwanted directories
+		# FIRST RUN: initial commit — stage everything but ensure excludes are not included
 		Write-Log 'No commits found: performing initial (full) commit of allowed files.'
 
-		# stage everything under the Path
 		$addResult = Invoke-Git(@('add','--all',$Path))
 		if ($addResult.ExitCode -ne 0) { Write-Log "git add failed: $($addResult.Output)" 'ERROR'; exit 5 }
 
-		# unstage excludes and remove from index (so they won't be committed)
 		foreach ($ex in $allExcludes) {
-			Write-Log "Ensuring excluded path not staged: $ex"
+			Write-Log "Excluding path from initial commit (reset & untrack): $ex"
 			Invoke-Git(@('reset','--', $ex)) | Out-Null
-			# also remove from index if already tracked
 			Invoke-Git(@('rm','-r','--cached','--ignore-unmatch',$ex)) | Out-Null
 		}
 
@@ -136,7 +115,7 @@ try {
 			# skip excluded paths
 			$skip = $false
 			foreach ($ex in $allExcludes) {
-				if ($rawPath -like "${ex}/*" -or $rawPath -ieq $ex) { $skip = $true; break }
+				if ($rawPath -like "$ex/*" -or $rawPath -ieq $ex) { $skip = $true; break }
 			}
 			if ($skip) { continue }
 
@@ -148,7 +127,7 @@ try {
 			exit 0
 		}
 
-		# Stage only changed files
+		# Stage only selected changed files
 		foreach ($p in $toStage) { Invoke-Git(@('add','--',$p)) | Out-Null }
 
 	}

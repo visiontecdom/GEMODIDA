@@ -1,0 +1,479 @@
+{
+  "logs": [
+    {
+      "id": "piknwk1d6",
+      "timestamp": "2025-11-20T11:10:07.218Z",
+      "level": "user_action",
+      "message": "Click: Iniciar Sesión",
+      "source": "User",
+      "details": "{\"tagName\":\"BUTTON\",\"textContent\":\"Iniciar Sesión\",\"pathname\":\"/\",\"href\":\"http://localhost:3003/\"}",
+      "userAction": true
+    },
+    {
+      "id": "u4usz8byj",
+      "timestamp": "2025-11-20T11:10:09.024Z",
+      "level": "navigation",
+      "message": "Navegación: /signin",
+      "source": "Router",
+      "details": "{\"pathname\":\"/signin\",\"href\":\"http://localhost:3003/signin\"}",
+      "userAction": false
+    },
+    {
+      "id": "v39zfeqwf",
+      "timestamp": "2025-11-20T11:10:09.072Z",
+      "level": "api",
+      "message": "GET http://localhost:3003/dashboard?_rsc=1dl4p",
+      "source": "Fetch",
+      "details": "{\"method\":\"GET\"}",
+      "userAction": false
+    },
+    {
+      "id": "cnpll7vn0",
+      "timestamp": "2025-11-20T11:10:09.075Z",
+      "level": "api",
+      "message": "GET http://localhost:3003/dashboard?_rsc=1dl4p",
+      "source": "Fetch",
+      "details": "{\"method\":\"GET\"}",
+      "userAction": false
+    },
+    {
+      "id": "k2z70603t",
+      "timestamp": "2025-11-20T11:10:09.412Z",
+      "level": "navigation",
+      "message": "Navegación: /signin",
+      "source": "Router",
+      "details": "{\"pathname\":\"/signin\",\"href\":\"http://localhost:3003/signin\"}",
+      "userAction": false
+    },
+    {
+      "id": "7kn6b1t1u",
+      "timestamp": "2025-11-20T11:10:14.707Z",
+      "level": "api",
+      "message": "GET https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/usuarios?select=correo&correo=eq.baez.israel%40gmail.com",
+      "source": "Fetch",
+      "details": "{\"method\":\"GET\"}",
+      "userAction": false
+    },
+    {
+      "id": "mm2mkpn4r",
+      "timestamp": "2025-11-20T11:10:15.487Z",
+      "level": "error",
+      "message": "API Error: 500",
+      "source": "Fetch",
+      "details": "{\"url\":\"https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/usuarios?select=correo&correo=eq.baez.israel%40gmail.com\",\"status\":500}",
+      "userAction": false
+    },
+    {
+      "id": "5q4nuq5mi",
+      "timestamp": "2025-11-20T11:10:19.580Z",
+      "level": "user_action",
+      "message": "Click: Iniciar Sesión",
+      "source": "User",
+      "details": "{\"tagName\":\"BUTTON\",\"textContent\":\"Iniciar Sesión\",\"pathname\":\"/signin\",\"href\":\"http://localhost:3003/signin\"}",
+      "userAction": true
+    },
+    {
+      "id": "zhrlu73j4",
+      "timestamp": "2025-11-20T11:10:19.582Z",
+      "level": "info",
+      "message": "Attempting signIn",
+      "source": "AuthForm",
+      "details": "{\"email\":\"baez.israel@gmail.com\"}",
+      "userAction": false
+    },
+    {
+      "id": "jhzt76ie7",
+      "timestamp": "2025-11-20T11:10:19.583Z",
+      "level": "api",
+      "message": "POST https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password",
+      "source": "Fetch",
+      "details": "{\"method\":\"POST\"}",
+      "userAction": false
+    },
+    {
+      "id": "u4qv4o8az",
+      "timestamp": "2025-11-20T11:10:19.935Z",
+      "level": "info",
+      "message": "onAuthStateChange",
+      "source": "AuthProvider",
+      "details": "{\"event\":\"SIGNED_IN\",\"sessionExists\":true}",
+      "userAction": false
+    },
+    {
+      "id": "m2ffdzuam",
+      "timestamp": "2025-11-20T11:10:19.935Z",
+      "level": "info",
+      "message": "signIn immediate session",
+      "source": "AuthForm",
+      "details": "{\"user\":\"f5073781-ed4b-41c2-8ad6-cf3c7d76f8ed\"}",
+      "userAction": false
+    },
+    {
+      "id": "ni9r7c8xt",
+      "timestamp": "2025-11-20T11:10:19.935Z",
+      "level": "api",
+      "message": "GET http://localhost:3003/dashboard?_rsc=1dl4p",
+      "source": "Fetch",
+      "details": "{\"method\":\"GET\"}",
+      "userAction": false
+    },
+    {
+      "id": "pmd3yg03m",
+      "timestamp": "2025-11-20T11:10:20.026Z",
+      "level": "navigation",
+      "message": "Navegación: /signin",
+      "source": "Router",
+      "details": "{\"pathname\":\"/signin\",\"href\":\"http://localhost:3003/signin\"}",
+      "userAction": false
+    },
+    {
+      "id": "6m1dsnofo",
+      "timestamp": "2025-11-20T11:10:23.708Z",
+      "level": "user_action",
+      "message": "Click: Iniciar Sesión",
+      "source": "User",
+      "details": "{\"tagName\":\"BUTTON\",\"textContent\":\"Iniciar Sesión\",\"pathname\":\"/signin\",\"href\":\"http://localhost:3003/signin\"}",
+      "userAction": true
+    },
+    {
+      "id": "h4gdv5zin",
+      "timestamp": "2025-11-20T11:10:23.709Z",
+      "level": "info",
+      "message": "Attempting signIn",
+      "source": "AuthForm",
+      "details": "{\"email\":\"baez.israel@gmail.com\"}",
+      "userAction": false
+    },
+    {
+      "id": "7gxnsd80s",
+      "timestamp": "2025-11-20T11:10:23.709Z",
+      "level": "api",
+      "message": "POST https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password",
+      "source": "Fetch",
+      "details": "{\"method\":\"POST\"}",
+      "userAction": false
+    },
+    {
+      "id": "kh2x6o6i1",
+      "timestamp": "2025-11-20T11:10:23.971Z",
+      "level": "info",
+      "message": "onAuthStateChange",
+      "source": "AuthProvider",
+      "details": "{\"event\":\"SIGNED_IN\",\"sessionExists\":true}",
+      "userAction": false
+    },
+    {
+      "id": "av5scq1iv",
+      "timestamp": "2025-11-20T11:10:23.971Z",
+      "level": "info",
+      "message": "signIn immediate session",
+      "source": "AuthForm",
+      "details": "{\"user\":\"f5073781-ed4b-41c2-8ad6-cf3c7d76f8ed\"}",
+      "userAction": false
+    },
+    {
+      "id": "iqf1vwqds",
+      "timestamp": "2025-11-20T11:10:23.971Z",
+      "level": "api",
+      "message": "GET http://localhost:3003/dashboard?_rsc=1dl4p",
+      "source": "Fetch",
+      "details": "{\"method\":\"GET\"}",
+      "userAction": false
+    },
+    {
+      "id": "tihb2tkf7",
+      "timestamp": "2025-11-20T11:10:24.053Z",
+      "level": "navigation",
+      "message": "Navegación: /signin",
+      "source": "Router",
+      "details": "{\"pathname\":\"/signin\",\"href\":\"http://localhost:3003/signin\"}",
+      "userAction": false
+    },
+    {
+      "id": "2v3ir1zuc",
+      "timestamp": "2025-11-20T11:10:25.921Z",
+      "level": "user_action",
+      "message": "Click: Iniciar Sesión",
+      "source": "User",
+      "details": "{\"tagName\":\"BUTTON\",\"textContent\":\"Iniciar Sesión\",\"pathname\":\"/signin\",\"href\":\"http://localhost:3003/signin\"}",
+      "userAction": true
+    },
+    {
+      "id": "ovxj3lsvg",
+      "timestamp": "2025-11-20T11:10:25.922Z",
+      "level": "info",
+      "message": "Attempting signIn",
+      "source": "AuthForm",
+      "details": "{\"email\":\"baez.israel@gmail.com\"}",
+      "userAction": false
+    },
+    {
+      "id": "m7cra7py9",
+      "timestamp": "2025-11-20T11:10:25.922Z",
+      "level": "api",
+      "message": "POST https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password",
+      "source": "Fetch",
+      "details": "{\"method\":\"POST\"}",
+      "userAction": false
+    },
+    {
+      "id": "ml6kd1sxy",
+      "timestamp": "2025-11-20T11:10:26.192Z",
+      "level": "info",
+      "message": "onAuthStateChange",
+      "source": "AuthProvider",
+      "details": "{\"event\":\"SIGNED_IN\",\"sessionExists\":true}",
+      "userAction": false
+    },
+    {
+      "id": "tutp312eb",
+      "timestamp": "2025-11-20T11:10:26.192Z",
+      "level": "info",
+      "message": "signIn immediate session",
+      "source": "AuthForm",
+      "details": "{\"user\":\"f5073781-ed4b-41c2-8ad6-cf3c7d76f8ed\"}",
+      "userAction": false
+    },
+    {
+      "id": "z0y0o4alt",
+      "timestamp": "2025-11-20T11:10:26.192Z",
+      "level": "api",
+      "message": "GET http://localhost:3003/dashboard?_rsc=1dl4p",
+      "source": "Fetch",
+      "details": "{\"method\":\"GET\"}",
+      "userAction": false
+    },
+    {
+      "id": "lw43cn0na",
+      "timestamp": "2025-11-20T11:10:26.254Z",
+      "level": "navigation",
+      "message": "Navegación: /signin",
+      "source": "Router",
+      "details": "{\"pathname\":\"/signin\",\"href\":\"http://localhost:3003/signin\"}",
+      "userAction": false
+    },
+    {
+      "id": "d7esyz6u8",
+      "timestamp": "2025-11-20T11:10:29.069Z",
+      "level": "user_action",
+      "message": "Click: Iniciar Sesión",
+      "source": "User",
+      "details": "{\"tagName\":\"BUTTON\",\"textContent\":\"Iniciar Sesión\",\"pathname\":\"/signin\",\"href\":\"http://localhost:3003/signin\"}",
+      "userAction": true
+    },
+    {
+      "id": "x6r68n4dc",
+      "timestamp": "2025-11-20T11:10:29.070Z",
+      "level": "info",
+      "message": "Attempting signIn",
+      "source": "AuthForm",
+      "details": "{\"email\":\"baez.israel@gmail.com\"}",
+      "userAction": false
+    },
+    {
+      "id": "1ysltuyf7",
+      "timestamp": "2025-11-20T11:10:29.070Z",
+      "level": "api",
+      "message": "POST https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password",
+      "source": "Fetch",
+      "details": "{\"method\":\"POST\"}",
+      "userAction": false
+    },
+    {
+      "id": "a7dxjvv6z",
+      "timestamp": "2025-11-20T11:10:29.342Z",
+      "level": "info",
+      "message": "onAuthStateChange",
+      "source": "AuthProvider",
+      "details": "{\"event\":\"SIGNED_IN\",\"sessionExists\":true}",
+      "userAction": false
+    },
+    {
+      "id": "vq8ayjuho",
+      "timestamp": "2025-11-20T11:10:29.342Z",
+      "level": "info",
+      "message": "signIn immediate session",
+      "source": "AuthForm",
+      "details": "{\"user\":\"f5073781-ed4b-41c2-8ad6-cf3c7d76f8ed\"}",
+      "userAction": false
+    },
+    {
+      "id": "htp7cyjye",
+      "timestamp": "2025-11-20T11:10:29.343Z",
+      "level": "api",
+      "message": "GET http://localhost:3003/dashboard?_rsc=1dl4p",
+      "source": "Fetch",
+      "details": "{\"method\":\"GET\"}",
+      "userAction": false
+    },
+    {
+      "id": "mm706iq23",
+      "timestamp": "2025-11-20T11:10:29.436Z",
+      "level": "navigation",
+      "message": "Navegación: /signin",
+      "source": "Router",
+      "details": "{\"pathname\":\"/signin\",\"href\":\"http://localhost:3003/signin\"}",
+      "userAction": false
+    },
+    {
+      "id": "7us3bwmbp",
+      "timestamp": "2025-11-20T11:10:33.960Z",
+      "level": "user_action",
+      "message": "Click: Iniciar Sesión",
+      "source": "User",
+      "details": "{\"tagName\":\"BUTTON\",\"textContent\":\"Iniciar Sesión\",\"pathname\":\"/signin\",\"href\":\"http://localhost:3003/signin\"}",
+      "userAction": true
+    },
+    {
+      "id": "xjcai06mo",
+      "timestamp": "2025-11-20T11:10:33.960Z",
+      "level": "info",
+      "message": "Attempting signIn",
+      "source": "AuthForm",
+      "details": "{\"email\":\"baez.israel@gmail.com\"}",
+      "userAction": false
+    },
+    {
+      "id": "dl2lmvmb9",
+      "timestamp": "2025-11-20T11:10:33.961Z",
+      "level": "api",
+      "message": "POST https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password",
+      "source": "Fetch",
+      "details": "{\"method\":\"POST\"}",
+      "userAction": false
+    },
+    {
+      "id": "36mho3a9l",
+      "timestamp": "2025-11-20T11:10:34.238Z",
+      "level": "info",
+      "message": "onAuthStateChange",
+      "source": "AuthProvider",
+      "details": "{\"event\":\"SIGNED_IN\",\"sessionExists\":true}",
+      "userAction": false
+    },
+    {
+      "id": "4lkcvnp3n",
+      "timestamp": "2025-11-20T11:10:34.238Z",
+      "level": "info",
+      "message": "signIn immediate session",
+      "source": "AuthForm",
+      "details": "{\"user\":\"f5073781-ed4b-41c2-8ad6-cf3c7d76f8ed\"}",
+      "userAction": false
+    },
+    {
+      "id": "2mkanl7xx",
+      "timestamp": "2025-11-20T11:10:34.238Z",
+      "level": "api",
+      "message": "GET http://localhost:3003/dashboard?_rsc=1dl4p",
+      "source": "Fetch",
+      "details": "{\"method\":\"GET\"}",
+      "userAction": false
+    },
+    {
+      "id": "kshj0e53r",
+      "timestamp": "2025-11-20T11:10:34.327Z",
+      "level": "navigation",
+      "message": "Navegación: /signin",
+      "source": "Router",
+      "details": "{\"pathname\":\"/signin\",\"href\":\"http://localhost:3003/signin\"}",
+      "userAction": false
+    },
+    {
+      "id": "fon9qvbvy",
+      "timestamp": "2025-11-20T11:10:35.385Z",
+      "level": "user_action",
+      "message": "Click: Iniciar Sesión",
+      "source": "User",
+      "details": "{\"tagName\":\"BUTTON\",\"textContent\":\"Iniciar Sesión\",\"pathname\":\"/signin\",\"href\":\"http://localhost:3003/signin\"}",
+      "userAction": true
+    },
+    {
+      "id": "sc9r78ojo",
+      "timestamp": "2025-11-20T11:10:35.386Z",
+      "level": "info",
+      "message": "Attempting signIn",
+      "source": "AuthForm",
+      "details": "{\"email\":\"baez.israel@gmail.com\"}",
+      "userAction": false
+    },
+    {
+      "id": "9u9mf57ae",
+      "timestamp": "2025-11-20T11:10:35.386Z",
+      "level": "api",
+      "message": "POST https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password",
+      "source": "Fetch",
+      "details": "{\"method\":\"POST\"}",
+      "userAction": false
+    },
+    {
+      "id": "tvl735ce7",
+      "timestamp": "2025-11-20T11:10:35.655Z",
+      "level": "info",
+      "message": "onAuthStateChange",
+      "source": "AuthProvider",
+      "details": "{\"event\":\"SIGNED_IN\",\"sessionExists\":true}",
+      "userAction": false
+    },
+    {
+      "id": "prfcobw21",
+      "timestamp": "2025-11-20T11:10:35.655Z",
+      "level": "info",
+      "message": "signIn immediate session",
+      "source": "AuthForm",
+      "details": "{\"user\":\"f5073781-ed4b-41c2-8ad6-cf3c7d76f8ed\"}",
+      "userAction": false
+    },
+    {
+      "id": "929rv2rnd",
+      "timestamp": "2025-11-20T11:10:35.655Z",
+      "level": "api",
+      "message": "GET http://localhost:3003/dashboard?_rsc=1dl4p",
+      "source": "Fetch",
+      "details": "{\"method\":\"GET\"}",
+      "userAction": false
+    },
+    {
+      "id": "0r4udqsz8",
+      "timestamp": "2025-11-20T11:10:35.744Z",
+      "level": "navigation",
+      "message": "Navegación: /signin",
+      "source": "Router",
+      "details": "{\"pathname\":\"/signin\",\"href\":\"http://localhost:3003/signin\"}",
+      "userAction": false
+    },
+    {
+      "id": "ohb8f7pul",
+      "timestamp": "2025-11-20T11:10:36.859Z",
+      "level": "user_action",
+      "message": "Click: Button",
+      "source": "User",
+      "details": "{\"tagName\":\"BUTTON\",\"textContent\":\"\",\"pathname\":\"/signin\",\"href\":\"http://localhost:3003/signin\"}",
+      "userAction": true
+    }
+  ],
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+  "url": "http://localhost:3003/signin",
+  "timestamp": "2025-11-20T11:10:40.174Z",
+  "sessionDuration": 37263,
+  "errors": [
+    {
+      "id": "mm2mkpn4r",
+      "timestamp": "2025-11-20T11:10:15.487Z",
+      "level": "error",
+      "message": "API Error: 500",
+      "source": "Fetch",
+      "details": "{\"url\":\"https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/usuarios?select=correo&correo=eq.baez.israel%40gmail.com\",\"status\":500}",
+      "userAction": false
+    }
+  ],
+  "userActions": 16,
+  "performanceMetrics": {
+    "pageLoadTime": 47698.89999999991,
+    "connectionStatus": "online"
+  },
+  "systemInfo": {
+    "screenResolution": "1536x864",
+    "timezone": "America/Caracas",
+    "language": "es-ES"
+  }
+}

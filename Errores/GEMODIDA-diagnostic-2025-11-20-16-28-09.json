@@ -1,0 +1,100 @@
+{
+  "logs": [
+    {
+      "id": "71do49go5",
+      "timestamp": "2025-11-20T16:27:44.549Z",
+      "level": "info",
+      "message": "Sistema de diagnóstico iniciado",
+      "source": "System",
+      "details": "{\"url\":\"http://localhost:3003/signup\",\"timestamp\":\"2025-11-20T16:27:44.549Z\"}",
+      "userAction": false
+    },
+    {
+      "id": "e5sg5bx4c",
+      "timestamp": "2025-11-20T16:27:44.551Z",
+      "level": "info",
+      "message": "Sistema de diagnóstico iniciado",
+      "source": "System",
+      "details": "{\"url\":\"http://localhost:3003/signup\",\"timestamp\":\"2025-11-20T16:27:44.551Z\"}",
+      "userAction": false
+    },
+    {
+      "id": "khoafoifj",
+      "timestamp": "2025-11-20T16:27:44.573Z",
+      "level": "info",
+      "message": "onAuthStateChange event",
+      "source": "AuthProvider",
+      "details": "{\"event\":\"INITIAL_SESSION\",\"hasSession\":true,\"userId\":\"f5073781-ed4b-41c2-8ad6-cf3c7d76f8ed\"}",
+      "userAction": false
+    },
+    {
+      "id": "iat5aktpt",
+      "timestamp": "2025-11-20T16:27:44.585Z",
+      "level": "api",
+      "message": "GET http://localhost:3003/dashboard?_rsc=6k3yh",
+      "source": "Fetch",
+      "details": "{\"method\":\"GET\"}",
+      "userAction": false
+    },
+    {
+      "id": "v0rayj96f",
+      "timestamp": "2025-11-20T16:27:44.600Z",
+      "level": "info",
+      "message": "Session restored from Supabase",
+      "source": "AuthProvider",
+      "details": "{\"userId\":\"f5073781-ed4b-41c2-8ad6-cf3c7d76f8ed\"}",
+      "userAction": false
+    },
+    {
+      "id": "q59vo2432",
+      "timestamp": "2025-11-20T16:27:44.773Z",
+      "level": "navigation",
+      "message": "Navegación: /signin",
+      "source": "Router",
+      "details": "{\"pathname\":\"/signin\",\"href\":\"http://localhost:3003/signin\"}",
+      "userAction": false
+    },
+    {
+      "id": "j1dg08ekk",
+      "timestamp": "2025-11-20T16:27:44.783Z",
+      "level": "api",
+      "message": "GET http://localhost:3003/dashboard?_rsc=1dl4p",
+      "source": "Fetch",
+      "details": "{\"method\":\"GET\"}",
+      "userAction": false
+    },
+    {
+      "id": "6gx3h76cs",
+      "timestamp": "2025-11-20T16:27:44.921Z",
+      "level": "navigation",
+      "message": "Navegación: /signin",
+      "source": "Router",
+      "details": "{\"pathname\":\"/signin\",\"href\":\"http://localhost:3003/signin\"}",
+      "userAction": false
+    },
+    {
+      "id": "69gno457v",
+      "timestamp": "2025-11-20T16:27:52.493Z",
+      "level": "user_action",
+      "message": "Click: Button",
+      "source": "User",
+      "details": "{\"tagName\":\"BUTTON\",\"textContent\":\"\",\"pathname\":\"/signin\",\"href\":\"http://localhost:3003/signin\"}",
+      "userAction": true
+    }
+  ],
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+  "url": "http://localhost:3003/signin",
+  "timestamp": "2025-11-20T16:28:09.605Z",
+  "sessionDuration": 25070,
+  "errors": [],
+  "userActions": 2,
+  "performanceMetrics": {
+    "pageLoadTime": 25869.39999999851,
+    "connectionStatus": "online"
+  },
+  "systemInfo": {
+    "screenResolution": "1536x864",
+    "timezone": "America/Caracas",
+    "language": "es-ES"
+  }
+}

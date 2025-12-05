@@ -1,0 +1,1310 @@
+{
+  "logs": [
+    {
+      "timestamp": "2025-11-19T02:13:41.100Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/dashboard?_rsc=1dl4p",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/dashboard?_rsc=1dl4p",
+        "callId": "GET http://localhost:3003/dashboard?_rsc=1dl4p",
+        "timestamp": "2025-11-19T02:13:41.100Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:41.100Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/dashboard?_rsc=1dl4p",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/dashboard?_rsc=1dl4p",
+        "callId": "GET http://localhost:3003/dashboard?_rsc=1dl4p",
+        "timestamp": "2025-11-19T02:13:41.100Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:41.413Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/signin?_rsc=sygcq",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/signin?_rsc=sygcq",
+        "callId": "GET http://localhost:3003/signin?_rsc=sygcq",
+        "timestamp": "2025-11-19T02:13:41.413Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:41.413Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/signin?_rsc=sygcq",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/signin?_rsc=sygcq",
+        "callId": "GET http://localhost:3003/signin?_rsc=sygcq",
+        "timestamp": "2025-11-19T02:13:41.413Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:41.423Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/signin?_rsc=sygcq",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/signin?_rsc=sygcq",
+        "callId": "GET http://localhost:3003/signin?_rsc=sygcq",
+        "timestamp": "2025-11-19T02:13:41.423Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:41.423Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/signin?_rsc=sygcq",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/signin?_rsc=sygcq",
+        "callId": "GET http://localhost:3003/signin?_rsc=sygcq",
+        "timestamp": "2025-11-19T02:13:41.423Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:42.465Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/dashboard?_rsc=1dl4p",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/dashboard?_rsc=1dl4p",
+        "callId": "GET http://localhost:3003/dashboard?_rsc=1dl4p",
+        "timestamp": "2025-11-19T02:13:42.465Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:42.465Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/dashboard?_rsc=1dl4p",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/dashboard?_rsc=1dl4p",
+        "callId": "GET http://localhost:3003/dashboard?_rsc=1dl4p",
+        "timestamp": "2025-11-19T02:13:42.465Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:42.483Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/dashboard?_rsc=1dl4p",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/dashboard?_rsc=1dl4p",
+        "callId": "GET http://localhost:3003/dashboard?_rsc=1dl4p",
+        "timestamp": "2025-11-19T02:13:42.483Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:42.483Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/dashboard?_rsc=1dl4p",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/dashboard?_rsc=1dl4p",
+        "callId": "GET http://localhost:3003/dashboard?_rsc=1dl4p",
+        "timestamp": "2025-11-19T02:13:42.483Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:42.857Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/signin?_rsc=sygcq",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/signin?_rsc=sygcq",
+        "callId": "GET http://localhost:3003/signin?_rsc=sygcq",
+        "timestamp": "2025-11-19T02:13:42.857Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:42.857Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/signin?_rsc=sygcq",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/signin?_rsc=sygcq",
+        "callId": "GET http://localhost:3003/signin?_rsc=sygcq",
+        "timestamp": "2025-11-19T02:13:42.857Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:42.875Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/signin?_rsc=sygcq",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/signin?_rsc=sygcq",
+        "callId": "GET http://localhost:3003/signin?_rsc=sygcq",
+        "timestamp": "2025-11-19T02:13:42.875Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:42.875Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/signin?_rsc=sygcq",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/signin?_rsc=sygcq",
+        "callId": "GET http://localhost:3003/signin?_rsc=sygcq",
+        "timestamp": "2025-11-19T02:13:42.875Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:43.315Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/dashboard?_rsc=1dl4p",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/dashboard?_rsc=1dl4p",
+        "callId": "GET http://localhost:3003/dashboard?_rsc=1dl4p",
+        "timestamp": "2025-11-19T02:13:43.315Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:43.315Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/dashboard?_rsc=1dl4p",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/dashboard?_rsc=1dl4p",
+        "callId": "GET http://localhost:3003/dashboard?_rsc=1dl4p",
+        "timestamp": "2025-11-19T02:13:43.315Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:43.335Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/dashboard?_rsc=1dl4p",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/dashboard?_rsc=1dl4p",
+        "callId": "GET http://localhost:3003/dashboard?_rsc=1dl4p",
+        "timestamp": "2025-11-19T02:13:43.335Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:43.335Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/dashboard?_rsc=1dl4p",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/dashboard?_rsc=1dl4p",
+        "callId": "GET http://localhost:3003/dashboard?_rsc=1dl4p",
+        "timestamp": "2025-11-19T02:13:43.335Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:43.866Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/signin?_rsc=sygcq",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/signin?_rsc=sygcq",
+        "callId": "GET http://localhost:3003/signin?_rsc=sygcq",
+        "timestamp": "2025-11-19T02:13:43.866Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:43.866Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/signin?_rsc=sygcq",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/signin?_rsc=sygcq",
+        "callId": "GET http://localhost:3003/signin?_rsc=sygcq",
+        "timestamp": "2025-11-19T02:13:43.866Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:43.889Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/signin?_rsc=sygcq",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/signin?_rsc=sygcq",
+        "callId": "GET http://localhost:3003/signin?_rsc=sygcq",
+        "timestamp": "2025-11-19T02:13:43.889Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:43.889Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/signin?_rsc=sygcq",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/signin?_rsc=sygcq",
+        "callId": "GET http://localhost:3003/signin?_rsc=sygcq",
+        "timestamp": "2025-11-19T02:13:43.889Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:44.371Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/dashboard?_rsc=1dl4p",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/dashboard?_rsc=1dl4p",
+        "callId": "GET http://localhost:3003/dashboard?_rsc=1dl4p",
+        "timestamp": "2025-11-19T02:13:44.371Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:44.371Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/dashboard?_rsc=1dl4p",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/dashboard?_rsc=1dl4p",
+        "callId": "GET http://localhost:3003/dashboard?_rsc=1dl4p",
+        "timestamp": "2025-11-19T02:13:44.371Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:44.394Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/dashboard?_rsc=1dl4p",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/dashboard?_rsc=1dl4p",
+        "callId": "GET http://localhost:3003/dashboard?_rsc=1dl4p",
+        "timestamp": "2025-11-19T02:13:44.394Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:44.394Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/dashboard?_rsc=1dl4p",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/dashboard?_rsc=1dl4p",
+        "callId": "GET http://localhost:3003/dashboard?_rsc=1dl4p",
+        "timestamp": "2025-11-19T02:13:44.394Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:44.725Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/signin?_rsc=sygcq",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/signin?_rsc=sygcq",
+        "callId": "GET http://localhost:3003/signin?_rsc=sygcq",
+        "timestamp": "2025-11-19T02:13:44.725Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:44.725Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/signin?_rsc=sygcq",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/signin?_rsc=sygcq",
+        "callId": "GET http://localhost:3003/signin?_rsc=sygcq",
+        "timestamp": "2025-11-19T02:13:44.725Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:44.747Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/signin?_rsc=sygcq",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/signin?_rsc=sygcq",
+        "callId": "GET http://localhost:3003/signin?_rsc=sygcq",
+        "timestamp": "2025-11-19T02:13:44.747Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:44.747Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/signin?_rsc=sygcq",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/signin?_rsc=sygcq",
+        "callId": "GET http://localhost:3003/signin?_rsc=sygcq",
+        "timestamp": "2025-11-19T02:13:44.747Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:44.986Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/dashboard?_rsc=1dl4p",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/dashboard?_rsc=1dl4p",
+        "callId": "GET http://localhost:3003/dashboard?_rsc=1dl4p",
+        "timestamp": "2025-11-19T02:13:44.986Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:44.986Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/dashboard?_rsc=1dl4p",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/dashboard?_rsc=1dl4p",
+        "callId": "GET http://localhost:3003/dashboard?_rsc=1dl4p",
+        "timestamp": "2025-11-19T02:13:44.986Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:45.004Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/dashboard?_rsc=1dl4p",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/dashboard?_rsc=1dl4p",
+        "callId": "GET http://localhost:3003/dashboard?_rsc=1dl4p",
+        "timestamp": "2025-11-19T02:13:45.004Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:45.004Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/dashboard?_rsc=1dl4p",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/dashboard?_rsc=1dl4p",
+        "callId": "GET http://localhost:3003/dashboard?_rsc=1dl4p",
+        "timestamp": "2025-11-19T02:13:45.004Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:45.216Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/signin?_rsc=sygcq",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/signin?_rsc=sygcq",
+        "callId": "GET http://localhost:3003/signin?_rsc=sygcq",
+        "timestamp": "2025-11-19T02:13:45.216Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:45.216Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/signin?_rsc=sygcq",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/signin?_rsc=sygcq",
+        "callId": "GET http://localhost:3003/signin?_rsc=sygcq",
+        "timestamp": "2025-11-19T02:13:45.216Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:45.236Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/signin?_rsc=sygcq",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/signin?_rsc=sygcq",
+        "callId": "GET http://localhost:3003/signin?_rsc=sygcq",
+        "timestamp": "2025-11-19T02:13:45.236Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:45.236Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/signin?_rsc=sygcq",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/signin?_rsc=sygcq",
+        "callId": "GET http://localhost:3003/signin?_rsc=sygcq",
+        "timestamp": "2025-11-19T02:13:45.236Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:45.468Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/dashboard?_rsc=1dl4p",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/dashboard?_rsc=1dl4p",
+        "callId": "GET http://localhost:3003/dashboard?_rsc=1dl4p",
+        "timestamp": "2025-11-19T02:13:45.468Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:45.468Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/dashboard?_rsc=1dl4p",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/dashboard?_rsc=1dl4p",
+        "callId": "GET http://localhost:3003/dashboard?_rsc=1dl4p",
+        "timestamp": "2025-11-19T02:13:45.468Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:45.488Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/dashboard?_rsc=1dl4p",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/dashboard?_rsc=1dl4p",
+        "callId": "GET http://localhost:3003/dashboard?_rsc=1dl4p",
+        "timestamp": "2025-11-19T02:13:45.487Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:45.488Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/dashboard?_rsc=1dl4p",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/dashboard?_rsc=1dl4p",
+        "callId": "GET http://localhost:3003/dashboard?_rsc=1dl4p",
+        "timestamp": "2025-11-19T02:13:45.488Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:45.691Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/signin?_rsc=sygcq",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/signin?_rsc=sygcq",
+        "callId": "GET http://localhost:3003/signin?_rsc=sygcq",
+        "timestamp": "2025-11-19T02:13:45.691Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:45.691Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/signin?_rsc=sygcq",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/signin?_rsc=sygcq",
+        "callId": "GET http://localhost:3003/signin?_rsc=sygcq",
+        "timestamp": "2025-11-19T02:13:45.691Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:45.713Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/signin?_rsc=sygcq",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/signin?_rsc=sygcq",
+        "callId": "GET http://localhost:3003/signin?_rsc=sygcq",
+        "timestamp": "2025-11-19T02:13:45.713Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:45.713Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/signin?_rsc=sygcq",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/signin?_rsc=sygcq",
+        "callId": "GET http://localhost:3003/signin?_rsc=sygcq",
+        "timestamp": "2025-11-19T02:13:45.713Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:45.927Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/dashboard?_rsc=1dl4p",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/dashboard?_rsc=1dl4p",
+        "callId": "GET http://localhost:3003/dashboard?_rsc=1dl4p",
+        "timestamp": "2025-11-19T02:13:45.927Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:45.927Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/dashboard?_rsc=1dl4p",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/dashboard?_rsc=1dl4p",
+        "callId": "GET http://localhost:3003/dashboard?_rsc=1dl4p",
+        "timestamp": "2025-11-19T02:13:45.927Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:45.944Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/dashboard?_rsc=1dl4p",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/dashboard?_rsc=1dl4p",
+        "callId": "GET http://localhost:3003/dashboard?_rsc=1dl4p",
+        "timestamp": "2025-11-19T02:13:45.944Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:45.944Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/dashboard?_rsc=1dl4p",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/dashboard?_rsc=1dl4p",
+        "callId": "GET http://localhost:3003/dashboard?_rsc=1dl4p",
+        "timestamp": "2025-11-19T02:13:45.944Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:46.166Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/signin?_rsc=sygcq",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/signin?_rsc=sygcq",
+        "callId": "GET http://localhost:3003/signin?_rsc=sygcq",
+        "timestamp": "2025-11-19T02:13:46.166Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:46.166Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/signin?_rsc=sygcq",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/signin?_rsc=sygcq",
+        "callId": "GET http://localhost:3003/signin?_rsc=sygcq",
+        "timestamp": "2025-11-19T02:13:46.166Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:46.182Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/signin?_rsc=sygcq",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/signin?_rsc=sygcq",
+        "callId": "GET http://localhost:3003/signin?_rsc=sygcq",
+        "timestamp": "2025-11-19T02:13:46.182Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:46.182Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/signin?_rsc=sygcq",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/signin?_rsc=sygcq",
+        "callId": "GET http://localhost:3003/signin?_rsc=sygcq",
+        "timestamp": "2025-11-19T02:13:46.182Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:46.364Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/dashboard?_rsc=1dl4p",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/dashboard?_rsc=1dl4p",
+        "callId": "GET http://localhost:3003/dashboard?_rsc=1dl4p",
+        "timestamp": "2025-11-19T02:13:46.364Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:46.364Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/dashboard?_rsc=1dl4p",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/dashboard?_rsc=1dl4p",
+        "callId": "GET http://localhost:3003/dashboard?_rsc=1dl4p",
+        "timestamp": "2025-11-19T02:13:46.364Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:46.382Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/dashboard?_rsc=1dl4p",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/dashboard?_rsc=1dl4p",
+        "callId": "GET http://localhost:3003/dashboard?_rsc=1dl4p",
+        "timestamp": "2025-11-19T02:13:46.382Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:46.382Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/dashboard?_rsc=1dl4p",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/dashboard?_rsc=1dl4p",
+        "callId": "GET http://localhost:3003/dashboard?_rsc=1dl4p",
+        "timestamp": "2025-11-19T02:13:46.382Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:46.568Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/signin?_rsc=sygcq",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/signin?_rsc=sygcq",
+        "callId": "GET http://localhost:3003/signin?_rsc=sygcq",
+        "timestamp": "2025-11-19T02:13:46.568Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:46.568Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/signin?_rsc=sygcq",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/signin?_rsc=sygcq",
+        "callId": "GET http://localhost:3003/signin?_rsc=sygcq",
+        "timestamp": "2025-11-19T02:13:46.568Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:46.585Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/signin?_rsc=sygcq",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/signin?_rsc=sygcq",
+        "callId": "GET http://localhost:3003/signin?_rsc=sygcq",
+        "timestamp": "2025-11-19T02:13:46.585Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:46.585Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/signin?_rsc=sygcq",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/signin?_rsc=sygcq",
+        "callId": "GET http://localhost:3003/signin?_rsc=sygcq",
+        "timestamp": "2025-11-19T02:13:46.585Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:46.767Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/dashboard?_rsc=1dl4p",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/dashboard?_rsc=1dl4p",
+        "callId": "GET http://localhost:3003/dashboard?_rsc=1dl4p",
+        "timestamp": "2025-11-19T02:13:46.767Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:46.767Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/dashboard?_rsc=1dl4p",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/dashboard?_rsc=1dl4p",
+        "callId": "GET http://localhost:3003/dashboard?_rsc=1dl4p",
+        "timestamp": "2025-11-19T02:13:46.767Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:46.782Z",
+      "level": "user_action",
+      "message": "Acción de usuario: Button sin texto",
+      "source": "User Interaction",
+      "details": {
+        "tagName": "BUTTON",
+        "textContent": "",
+        "className": "inline-flex items-center justify-center transition-all duration-200 ease-in-out focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-60 hover:shadow-md active:scale-[0.98] dark:bg-primary dark:text-primary-foreground dark:hover:bg-primary/90 text-sm font-medium fixed bottom-20 right-4 z-50 bg-orange-500 hover:bg-orange-600 text-white rounded-full w-12 h-12 p-0 shadow-lg",
+        "id": ""
+      },
+      "userAction": true
+    },
+    {
+      "timestamp": "2025-11-19T02:13:46.899Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/dashboard?_rsc=sygcq",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/dashboard?_rsc=sygcq",
+        "callId": "GET http://localhost:3003/dashboard?_rsc=sygcq",
+        "timestamp": "2025-11-19T02:13:46.899Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:46.899Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/dashboard?_rsc=sygcq",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/dashboard?_rsc=sygcq",
+        "callId": "GET http://localhost:3003/dashboard?_rsc=sygcq",
+        "timestamp": "2025-11-19T02:13:46.899Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:47.058Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/signin?_rsc=sygcq",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/signin?_rsc=sygcq",
+        "callId": "GET http://localhost:3003/signin?_rsc=sygcq",
+        "timestamp": "2025-11-19T02:13:47.058Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:47.058Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/signin?_rsc=sygcq",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/signin?_rsc=sygcq",
+        "callId": "GET http://localhost:3003/signin?_rsc=sygcq",
+        "timestamp": "2025-11-19T02:13:47.058Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:47.080Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/signin?_rsc=sygcq",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/signin?_rsc=sygcq",
+        "callId": "GET http://localhost:3003/signin?_rsc=sygcq",
+        "timestamp": "2025-11-19T02:13:47.080Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:47.080Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/signin?_rsc=sygcq",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/signin?_rsc=sygcq",
+        "callId": "GET http://localhost:3003/signin?_rsc=sygcq",
+        "timestamp": "2025-11-19T02:13:47.080Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:47.290Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/dashboard?_rsc=1dl4p",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/dashboard?_rsc=1dl4p",
+        "callId": "GET http://localhost:3003/dashboard?_rsc=1dl4p",
+        "timestamp": "2025-11-19T02:13:47.290Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:47.290Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/dashboard?_rsc=1dl4p",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/dashboard?_rsc=1dl4p",
+        "callId": "GET http://localhost:3003/dashboard?_rsc=1dl4p",
+        "timestamp": "2025-11-19T02:13:47.290Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:47.304Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/dashboard?_rsc=1dl4p",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/dashboard?_rsc=1dl4p",
+        "callId": "GET http://localhost:3003/dashboard?_rsc=1dl4p",
+        "timestamp": "2025-11-19T02:13:47.304Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:47.304Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/dashboard?_rsc=1dl4p",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/dashboard?_rsc=1dl4p",
+        "callId": "GET http://localhost:3003/dashboard?_rsc=1dl4p",
+        "timestamp": "2025-11-19T02:13:47.304Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:47.554Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/signin?_rsc=sygcq",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/signin?_rsc=sygcq",
+        "callId": "GET http://localhost:3003/signin?_rsc=sygcq",
+        "timestamp": "2025-11-19T02:13:47.554Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:47.554Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/signin?_rsc=sygcq",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/signin?_rsc=sygcq",
+        "callId": "GET http://localhost:3003/signin?_rsc=sygcq",
+        "timestamp": "2025-11-19T02:13:47.554Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:47.588Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/signin?_rsc=sygcq",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/signin?_rsc=sygcq",
+        "callId": "GET http://localhost:3003/signin?_rsc=sygcq",
+        "timestamp": "2025-11-19T02:13:47.588Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:47.588Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/signin?_rsc=sygcq",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/signin?_rsc=sygcq",
+        "callId": "GET http://localhost:3003/signin?_rsc=sygcq",
+        "timestamp": "2025-11-19T02:13:47.588Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:47.856Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/dashboard?_rsc=1dl4p",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/dashboard?_rsc=1dl4p",
+        "callId": "GET http://localhost:3003/dashboard?_rsc=1dl4p",
+        "timestamp": "2025-11-19T02:13:47.856Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:47.856Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/dashboard?_rsc=1dl4p",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/dashboard?_rsc=1dl4p",
+        "callId": "GET http://localhost:3003/dashboard?_rsc=1dl4p",
+        "timestamp": "2025-11-19T02:13:47.856Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:47.876Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/dashboard?_rsc=1dl4p",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/dashboard?_rsc=1dl4p",
+        "callId": "GET http://localhost:3003/dashboard?_rsc=1dl4p",
+        "timestamp": "2025-11-19T02:13:47.876Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:47.876Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/dashboard?_rsc=1dl4p",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/dashboard?_rsc=1dl4p",
+        "callId": "GET http://localhost:3003/dashboard?_rsc=1dl4p",
+        "timestamp": "2025-11-19T02:13:47.876Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:48.097Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/signin?_rsc=sygcq",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/signin?_rsc=sygcq",
+        "callId": "GET http://localhost:3003/signin?_rsc=sygcq",
+        "timestamp": "2025-11-19T02:13:48.097Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:48.097Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/signin?_rsc=sygcq",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/signin?_rsc=sygcq",
+        "callId": "GET http://localhost:3003/signin?_rsc=sygcq",
+        "timestamp": "2025-11-19T02:13:48.097Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:48.120Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/signin?_rsc=sygcq",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/signin?_rsc=sygcq",
+        "callId": "GET http://localhost:3003/signin?_rsc=sygcq",
+        "timestamp": "2025-11-19T02:13:48.120Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:48.120Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/signin?_rsc=sygcq",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/signin?_rsc=sygcq",
+        "callId": "GET http://localhost:3003/signin?_rsc=sygcq",
+        "timestamp": "2025-11-19T02:13:48.120Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:48.385Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/dashboard?_rsc=1dl4p",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/dashboard?_rsc=1dl4p",
+        "callId": "GET http://localhost:3003/dashboard?_rsc=1dl4p",
+        "timestamp": "2025-11-19T02:13:48.385Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:48.385Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/dashboard?_rsc=1dl4p",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/dashboard?_rsc=1dl4p",
+        "callId": "GET http://localhost:3003/dashboard?_rsc=1dl4p",
+        "timestamp": "2025-11-19T02:13:48.385Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:48.402Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/dashboard?_rsc=1dl4p",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/dashboard?_rsc=1dl4p",
+        "callId": "GET http://localhost:3003/dashboard?_rsc=1dl4p",
+        "timestamp": "2025-11-19T02:13:48.402Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:48.402Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/dashboard?_rsc=1dl4p",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/dashboard?_rsc=1dl4p",
+        "callId": "GET http://localhost:3003/dashboard?_rsc=1dl4p",
+        "timestamp": "2025-11-19T02:13:48.402Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:48.663Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/signin?_rsc=sygcq",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/signin?_rsc=sygcq",
+        "callId": "GET http://localhost:3003/signin?_rsc=sygcq",
+        "timestamp": "2025-11-19T02:13:48.663Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:48.663Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/signin?_rsc=sygcq",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/signin?_rsc=sygcq",
+        "callId": "GET http://localhost:3003/signin?_rsc=sygcq",
+        "timestamp": "2025-11-19T02:13:48.663Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:48.685Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/signin?_rsc=sygcq",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/signin?_rsc=sygcq",
+        "callId": "GET http://localhost:3003/signin?_rsc=sygcq",
+        "timestamp": "2025-11-19T02:13:48.685Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:48.685Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/signin?_rsc=sygcq",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/signin?_rsc=sygcq",
+        "callId": "GET http://localhost:3003/signin?_rsc=sygcq",
+        "timestamp": "2025-11-19T02:13:48.685Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:48.953Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/dashboard?_rsc=1dl4p",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/dashboard?_rsc=1dl4p",
+        "callId": "GET http://localhost:3003/dashboard?_rsc=1dl4p",
+        "timestamp": "2025-11-19T02:13:48.953Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:48.953Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/dashboard?_rsc=1dl4p",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/dashboard?_rsc=1dl4p",
+        "callId": "GET http://localhost:3003/dashboard?_rsc=1dl4p",
+        "timestamp": "2025-11-19T02:13:48.953Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:48.970Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/dashboard?_rsc=1dl4p",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/dashboard?_rsc=1dl4p",
+        "callId": "GET http://localhost:3003/dashboard?_rsc=1dl4p",
+        "timestamp": "2025-11-19T02:13:48.970Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:48.970Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/dashboard?_rsc=1dl4p",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/dashboard?_rsc=1dl4p",
+        "callId": "GET http://localhost:3003/dashboard?_rsc=1dl4p",
+        "timestamp": "2025-11-19T02:13:48.970Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T02:13:49.532Z",
+      "level": "user_action",
+      "message": "Acción de usuario: Descargar",
+      "source": "User Interaction",
+      "details": {
+        "tagName": "BUTTON",
+        "textContent": "Descargar",
+        "className": "inline-flex items-center justify-center transition-all duration-200 ease-in-out focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-60 border border-primary/30 bg-transparent text-primary hover:bg-primary/10 hover:border-primary/60 active:bg-primary/5 dark:border-primary/50 dark:text-primary-foreground dark:hover:bg-primary/20 dark:hover:border-primary/70 h-8 px-3 rounded-md font-medium flex-1 text-xs",
+        "id": ""
+      },
+      "userAction": true
+    }
+  ],
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+  "url": "http://localhost:3003/dashboard",
+  "timestamp": "2025-11-19T02:13:49.572Z",
+  "sessionDuration": 282316,
+  "errors": [],
+  "userActions": 2
+}

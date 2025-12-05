@@ -1,0 +1,46 @@
+{
+  "logs": [
+    {
+      "id": "ku0msftf3",
+      "timestamp": "2025-11-19T11:39:42.677Z",
+      "level": "info",
+      "message": "Sistema de diagnóstico iniciado",
+      "source": "System",
+      "details": "{\"url\":\"http://localhost:3003/signin?redirectTo=%2Fkeywords\",\"timestamp\":\"2025-11-19T11:39:42.677Z\"}",
+      "userAction": false
+    },
+    {
+      "id": "9hsuhp5fs",
+      "timestamp": "2025-11-19T11:39:42.678Z",
+      "level": "info",
+      "message": "Sistema de diagnóstico iniciado",
+      "source": "System",
+      "details": "{\"url\":\"http://localhost:3003/signin?redirectTo=%2Fkeywords\",\"timestamp\":\"2025-11-19T11:39:42.678Z\"}",
+      "userAction": false
+    },
+    {
+      "id": "avnvtrd7f",
+      "timestamp": "2025-11-19T11:39:45.054Z",
+      "level": "user_action",
+      "message": "Click: Button",
+      "source": "User",
+      "details": "{\"tagName\":\"BUTTON\",\"textContent\":\"\"}",
+      "userAction": true
+    }
+  ],
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+  "url": "http://localhost:3003/signin?redirectTo=%2Fkeywords",
+  "timestamp": "2025-11-19T11:39:49.938Z",
+  "sessionDuration": 7268,
+  "errors": [],
+  "userActions": 1,
+  "performanceMetrics": {
+    "pageLoadTime": 7692.5,
+    "connectionStatus": "online"
+  },
+  "systemInfo": {
+    "screenResolution": "1536x864",
+    "timezone": "America/Caracas",
+    "language": "es-ES"
+  }
+}

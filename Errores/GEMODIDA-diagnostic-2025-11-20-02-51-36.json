@@ -1,0 +1,416 @@
+{
+  "logs": [
+    {
+      "id": "lng0wcz1u",
+      "timestamp": "2025-11-20T02:50:54.982Z",
+      "level": "info",
+      "message": "Sistema de diagnóstico iniciado",
+      "source": "System",
+      "details": "{\"url\":\"http://localhost:3003/\",\"timestamp\":\"2025-11-20T02:50:54.982Z\"}",
+      "userAction": false
+    },
+    {
+      "id": "igeb0ez12",
+      "timestamp": "2025-11-20T02:50:54.988Z",
+      "level": "info",
+      "message": "Sistema de diagnóstico iniciado",
+      "source": "System",
+      "details": "{\"url\":\"http://localhost:3003/\",\"timestamp\":\"2025-11-20T02:50:54.988Z\"}",
+      "userAction": false
+    },
+    {
+      "id": "bcwwdn0rm",
+      "timestamp": "2025-11-20T02:51:07.486Z",
+      "level": "api",
+      "message": "GET http://localhost:3003/signin?_rsc=vusbg",
+      "source": "Fetch",
+      "details": "{\"method\":\"GET\"}",
+      "userAction": false
+    },
+    {
+      "id": "79qt6apyz",
+      "timestamp": "2025-11-20T02:51:07.490Z",
+      "level": "user_action",
+      "message": "Click: Iniciar Sesión",
+      "source": "User",
+      "details": "{\"tagName\":\"BUTTON\",\"textContent\":\"Iniciar Sesión\",\"pathname\":\"/\",\"href\":\"http://localhost:3003/\"}",
+      "userAction": true
+    },
+    {
+      "id": "3f8q8r9ar",
+      "timestamp": "2025-11-20T02:51:08.845Z",
+      "level": "navigation",
+      "message": "Navegación: /signin",
+      "source": "Router",
+      "details": "{\"pathname\":\"/signin\",\"href\":\"http://localhost:3003/signin\"}",
+      "userAction": false
+    },
+    {
+      "id": "94ygxhibm",
+      "timestamp": "2025-11-20T02:51:08.887Z",
+      "level": "api",
+      "message": "GET http://localhost:3003/dashboard?_rsc=1dl4p",
+      "source": "Fetch",
+      "details": "{\"method\":\"GET\"}",
+      "userAction": false
+    },
+    {
+      "id": "9w5pfiucs",
+      "timestamp": "2025-11-20T02:51:08.890Z",
+      "level": "api",
+      "message": "GET http://localhost:3003/dashboard?_rsc=1dl4p",
+      "source": "Fetch",
+      "details": "{\"method\":\"GET\"}",
+      "userAction": false
+    },
+    {
+      "id": "pqs1u6fan",
+      "timestamp": "2025-11-20T02:51:09.075Z",
+      "level": "navigation",
+      "message": "Navegación: /signin",
+      "source": "Router",
+      "details": "{\"pathname\":\"/signin\",\"href\":\"http://localhost:3003/signin\"}",
+      "userAction": false
+    },
+    {
+      "id": "zklchmuf2",
+      "timestamp": "2025-11-20T02:51:14.757Z",
+      "level": "api",
+      "message": "GET https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/usuarios?select=correo&correo=eq.baez.israel%40gmail.com",
+      "source": "Fetch",
+      "details": "{\"method\":\"GET\"}",
+      "userAction": false
+    },
+    {
+      "id": "b21h1597q",
+      "timestamp": "2025-11-20T02:51:16.097Z",
+      "level": "error",
+      "message": "API Error: 500",
+      "source": "Fetch",
+      "details": "{\"url\":\"https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/usuarios?select=correo&correo=eq.baez.israel%40gmail.com\",\"status\":500}",
+      "userAction": false
+    },
+    {
+      "id": "4a8tsrmjp",
+      "timestamp": "2025-11-20T02:51:17.356Z",
+      "level": "user_action",
+      "message": "Click: Iniciar Sesión",
+      "source": "User",
+      "details": "{\"tagName\":\"BUTTON\",\"textContent\":\"Iniciar Sesión\",\"pathname\":\"/signin\",\"href\":\"http://localhost:3003/signin\"}",
+      "userAction": true
+    },
+    {
+      "id": "saaes63s6",
+      "timestamp": "2025-11-20T02:51:17.358Z",
+      "level": "api",
+      "message": "POST https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password",
+      "source": "Fetch",
+      "details": "{\"method\":\"POST\"}",
+      "userAction": false
+    },
+    {
+      "id": "xm8thrjzg",
+      "timestamp": "2025-11-20T02:51:17.924Z",
+      "level": "api",
+      "message": "GET http://localhost:3003/dashboard?_rsc=1dl4p",
+      "source": "Fetch",
+      "details": "{\"method\":\"GET\"}",
+      "userAction": false
+    },
+    {
+      "id": "ovi1hwggy",
+      "timestamp": "2025-11-20T02:51:17.996Z",
+      "level": "navigation",
+      "message": "Navegación: /signin",
+      "source": "Router",
+      "details": "{\"pathname\":\"/signin\",\"href\":\"http://localhost:3003/signin\"}",
+      "userAction": false
+    },
+    {
+      "id": "b631jufya",
+      "timestamp": "2025-11-20T02:51:21.780Z",
+      "level": "user_action",
+      "message": "Click: Iniciar Sesión",
+      "source": "User",
+      "details": "{\"tagName\":\"BUTTON\",\"textContent\":\"Iniciar Sesión\",\"pathname\":\"/signin\",\"href\":\"http://localhost:3003/signin\"}",
+      "userAction": true
+    },
+    {
+      "id": "d1laxyell",
+      "timestamp": "2025-11-20T02:51:21.781Z",
+      "level": "api",
+      "message": "POST https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password",
+      "source": "Fetch",
+      "details": "{\"method\":\"POST\"}",
+      "userAction": false
+    },
+    {
+      "id": "ftpgmunr0",
+      "timestamp": "2025-11-20T02:51:22.058Z",
+      "level": "api",
+      "message": "GET http://localhost:3003/dashboard?_rsc=1dl4p",
+      "source": "Fetch",
+      "details": "{\"method\":\"GET\"}",
+      "userAction": false
+    },
+    {
+      "id": "c7lvol4g2",
+      "timestamp": "2025-11-20T02:51:22.135Z",
+      "level": "navigation",
+      "message": "Navegación: /signin",
+      "source": "Router",
+      "details": "{\"pathname\":\"/signin\",\"href\":\"http://localhost:3003/signin\"}",
+      "userAction": false
+    },
+    {
+      "id": "oah6k1kzf",
+      "timestamp": "2025-11-20T02:51:23.381Z",
+      "level": "user_action",
+      "message": "Click: Iniciar Sesión",
+      "source": "User",
+      "details": "{\"tagName\":\"BUTTON\",\"textContent\":\"Iniciar Sesión\",\"pathname\":\"/signin\",\"href\":\"http://localhost:3003/signin\"}",
+      "userAction": true
+    },
+    {
+      "id": "9x2vi1qk8",
+      "timestamp": "2025-11-20T02:51:23.382Z",
+      "level": "api",
+      "message": "POST https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password",
+      "source": "Fetch",
+      "details": "{\"method\":\"POST\"}",
+      "userAction": false
+    },
+    {
+      "id": "3twdk5dr3",
+      "timestamp": "2025-11-20T02:51:23.666Z",
+      "level": "api",
+      "message": "GET http://localhost:3003/dashboard?_rsc=1dl4p",
+      "source": "Fetch",
+      "details": "{\"method\":\"GET\"}",
+      "userAction": false
+    },
+    {
+      "id": "gzkpdwaxq",
+      "timestamp": "2025-11-20T02:51:23.742Z",
+      "level": "navigation",
+      "message": "Navegación: /signin",
+      "source": "Router",
+      "details": "{\"pathname\":\"/signin\",\"href\":\"http://localhost:3003/signin\"}",
+      "userAction": false
+    },
+    {
+      "id": "s54z9meus",
+      "timestamp": "2025-11-20T02:51:25.186Z",
+      "level": "user_action",
+      "message": "Click: Iniciar Sesión",
+      "source": "User",
+      "details": "{\"tagName\":\"BUTTON\",\"textContent\":\"Iniciar Sesión\",\"pathname\":\"/signin\",\"href\":\"http://localhost:3003/signin\"}",
+      "userAction": true
+    },
+    {
+      "id": "wq44yb6h8",
+      "timestamp": "2025-11-20T02:51:25.188Z",
+      "level": "api",
+      "message": "POST https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password",
+      "source": "Fetch",
+      "details": "{\"method\":\"POST\"}",
+      "userAction": false
+    },
+    {
+      "id": "l4s271qhr",
+      "timestamp": "2025-11-20T02:51:25.466Z",
+      "level": "api",
+      "message": "GET http://localhost:3003/dashboard?_rsc=1dl4p",
+      "source": "Fetch",
+      "details": "{\"method\":\"GET\"}",
+      "userAction": false
+    },
+    {
+      "id": "xjo677w12",
+      "timestamp": "2025-11-20T02:51:25.537Z",
+      "level": "navigation",
+      "message": "Navegación: /signin",
+      "source": "Router",
+      "details": "{\"pathname\":\"/signin\",\"href\":\"http://localhost:3003/signin\"}",
+      "userAction": false
+    },
+    {
+      "id": "7eooa4l4q",
+      "timestamp": "2025-11-20T02:51:26.819Z",
+      "level": "user_action",
+      "message": "Click: Iniciar Sesión",
+      "source": "User",
+      "details": "{\"tagName\":\"BUTTON\",\"textContent\":\"Iniciar Sesión\",\"pathname\":\"/signin\",\"href\":\"http://localhost:3003/signin\"}",
+      "userAction": true
+    },
+    {
+      "id": "8je1wg639",
+      "timestamp": "2025-11-20T02:51:26.819Z",
+      "level": "api",
+      "message": "POST https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password",
+      "source": "Fetch",
+      "details": "{\"method\":\"POST\"}",
+      "userAction": false
+    },
+    {
+      "id": "1ypfyifxg",
+      "timestamp": "2025-11-20T02:51:27.081Z",
+      "level": "api",
+      "message": "GET http://localhost:3003/dashboard?_rsc=1dl4p",
+      "source": "Fetch",
+      "details": "{\"method\":\"GET\"}",
+      "userAction": false
+    },
+    {
+      "id": "8vl1r9gae",
+      "timestamp": "2025-11-20T02:51:27.154Z",
+      "level": "navigation",
+      "message": "Navegación: /signin",
+      "source": "Router",
+      "details": "{\"pathname\":\"/signin\",\"href\":\"http://localhost:3003/signin\"}",
+      "userAction": false
+    },
+    {
+      "id": "dflckex68",
+      "timestamp": "2025-11-20T02:51:28.557Z",
+      "level": "user_action",
+      "message": "Click: Iniciar Sesión",
+      "source": "User",
+      "details": "{\"tagName\":\"BUTTON\",\"textContent\":\"Iniciar Sesión\",\"pathname\":\"/signin\",\"href\":\"http://localhost:3003/signin\"}",
+      "userAction": true
+    },
+    {
+      "id": "lex8h3b86",
+      "timestamp": "2025-11-20T02:51:28.557Z",
+      "level": "api",
+      "message": "POST https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password",
+      "source": "Fetch",
+      "details": "{\"method\":\"POST\"}",
+      "userAction": false
+    },
+    {
+      "id": "2c2i96rx7",
+      "timestamp": "2025-11-20T02:51:28.820Z",
+      "level": "api",
+      "message": "GET http://localhost:3003/dashboard?_rsc=1dl4p",
+      "source": "Fetch",
+      "details": "{\"method\":\"GET\"}",
+      "userAction": false
+    },
+    {
+      "id": "p29qx5dt1",
+      "timestamp": "2025-11-20T02:51:28.901Z",
+      "level": "navigation",
+      "message": "Navegación: /signin",
+      "source": "Router",
+      "details": "{\"pathname\":\"/signin\",\"href\":\"http://localhost:3003/signin\"}",
+      "userAction": false
+    },
+    {
+      "id": "mmwrz9ldj",
+      "timestamp": "2025-11-20T02:51:30.146Z",
+      "level": "user_action",
+      "message": "Click: Iniciar Sesión",
+      "source": "User",
+      "details": "{\"tagName\":\"BUTTON\",\"textContent\":\"Iniciar Sesión\",\"pathname\":\"/signin\",\"href\":\"http://localhost:3003/signin\"}",
+      "userAction": true
+    },
+    {
+      "id": "swshbtomo",
+      "timestamp": "2025-11-20T02:51:30.147Z",
+      "level": "api",
+      "message": "POST https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password",
+      "source": "Fetch",
+      "details": "{\"method\":\"POST\"}",
+      "userAction": false
+    },
+    {
+      "id": "uu1ex22lp",
+      "timestamp": "2025-11-20T02:51:30.399Z",
+      "level": "api",
+      "message": "GET http://localhost:3003/dashboard?_rsc=1dl4p",
+      "source": "Fetch",
+      "details": "{\"method\":\"GET\"}",
+      "userAction": false
+    },
+    {
+      "id": "nayk9sg3p",
+      "timestamp": "2025-11-20T02:51:30.470Z",
+      "level": "navigation",
+      "message": "Navegación: /signin",
+      "source": "Router",
+      "details": "{\"pathname\":\"/signin\",\"href\":\"http://localhost:3003/signin\"}",
+      "userAction": false
+    },
+    {
+      "id": "0vft8zzj2",
+      "timestamp": "2025-11-20T02:51:31.825Z",
+      "level": "user_action",
+      "message": "Click: Iniciar Sesión",
+      "source": "User",
+      "details": "{\"tagName\":\"BUTTON\",\"textContent\":\"Iniciar Sesión\",\"pathname\":\"/signin\",\"href\":\"http://localhost:3003/signin\"}",
+      "userAction": true
+    },
+    {
+      "id": "4o06a28us",
+      "timestamp": "2025-11-20T02:51:31.826Z",
+      "level": "api",
+      "message": "POST https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password",
+      "source": "Fetch",
+      "details": "{\"method\":\"POST\"}",
+      "userAction": false
+    },
+    {
+      "id": "5gbsdn0kv",
+      "timestamp": "2025-11-20T02:51:32.106Z",
+      "level": "api",
+      "message": "GET http://localhost:3003/dashboard?_rsc=1dl4p",
+      "source": "Fetch",
+      "details": "{\"method\":\"GET\"}",
+      "userAction": false
+    },
+    {
+      "id": "ekxszro1c",
+      "timestamp": "2025-11-20T02:51:32.162Z",
+      "level": "navigation",
+      "message": "Navegación: /signin",
+      "source": "Router",
+      "details": "{\"pathname\":\"/signin\",\"href\":\"http://localhost:3003/signin\"}",
+      "userAction": false
+    },
+    {
+      "id": "f1rly69hc",
+      "timestamp": "2025-11-20T02:51:33.963Z",
+      "level": "user_action",
+      "message": "Click: Button",
+      "source": "User",
+      "details": "{\"tagName\":\"BUTTON\",\"textContent\":\"\",\"pathname\":\"/signin\",\"href\":\"http://localhost:3003/signin\"}",
+      "userAction": true
+    }
+  ],
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+  "url": "http://localhost:3003/signin",
+  "timestamp": "2025-11-20T02:51:36.398Z",
+  "sessionDuration": 41433,
+  "errors": [
+    {
+      "id": "b21h1597q",
+      "timestamp": "2025-11-20T02:51:16.097Z",
+      "level": "error",
+      "message": "API Error: 500",
+      "source": "Fetch",
+      "details": "{\"url\":\"https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/usuarios?select=correo&correo=eq.baez.israel%40gmail.com\",\"status\":500}",
+      "userAction": false
+    }
+  ],
+  "userActions": 20,
+  "performanceMetrics": {
+    "pageLoadTime": 49567.90000000596,
+    "connectionStatus": "online"
+  },
+  "systemInfo": {
+    "screenResolution": "1536x864",
+    "timezone": "America/Caracas",
+    "language": "es-ES"
+  }
+}

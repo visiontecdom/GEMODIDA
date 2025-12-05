@@ -1,0 +1,371 @@
+{
+  "logs": [
+    {
+      "id": "c845mvtqd",
+      "timestamp": "2025-11-20T01:30:29.453Z",
+      "level": "info",
+      "message": "Sistema de diagnóstico iniciado",
+      "source": "System",
+      "details": "{\"url\":\"http://localhost:3003/signin\",\"timestamp\":\"2025-11-20T01:30:29.453Z\"}",
+      "userAction": false
+    },
+    {
+      "id": "acpbm4ax9",
+      "timestamp": "2025-11-20T01:30:29.455Z",
+      "level": "info",
+      "message": "Sistema de diagnóstico iniciado",
+      "source": "System",
+      "details": "{\"url\":\"http://localhost:3003/signin\",\"timestamp\":\"2025-11-20T01:30:29.455Z\"}",
+      "userAction": false
+    },
+    {
+      "id": "9au03wijb",
+      "timestamp": "2025-11-20T01:30:31.315Z",
+      "level": "user_action",
+      "message": "Click: Button",
+      "source": "User",
+      "details": "{\"tagName\":\"BUTTON\",\"textContent\":\"\",\"pathname\":\"/signin\",\"href\":\"http://localhost:3003/signin\"}",
+      "userAction": true
+    },
+    {
+      "id": "6i725sdz6",
+      "timestamp": "2025-11-20T01:30:35.298Z",
+      "level": "user_action",
+      "message": "Click: Button",
+      "source": "User",
+      "details": "{\"tagName\":\"BUTTON\",\"textContent\":\"\",\"pathname\":\"/signin\",\"href\":\"http://localhost:3003/signin\"}",
+      "userAction": true
+    },
+    {
+      "id": "846bcj8ih",
+      "timestamp": "2025-11-20T01:30:39.164Z",
+      "level": "api",
+      "message": "GET https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/usuarios?select=correo&correo=eq.baez.israel%40gmail.com",
+      "source": "Fetch",
+      "details": "{\"method\":\"GET\"}",
+      "userAction": false
+    },
+    {
+      "id": "ipcmrr5bd",
+      "timestamp": "2025-11-20T01:30:40.055Z",
+      "level": "error",
+      "message": "API Error: 500",
+      "source": "Fetch",
+      "details": "{\"url\":\"https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/usuarios?select=correo&correo=eq.baez.israel%40gmail.com\",\"status\":500}",
+      "userAction": false
+    },
+    {
+      "id": "xgnujwg20",
+      "timestamp": "2025-11-20T01:30:41.974Z",
+      "level": "user_action",
+      "message": "Click: Iniciar Sesión",
+      "source": "User",
+      "details": "{\"tagName\":\"BUTTON\",\"textContent\":\"Iniciar Sesión\",\"pathname\":\"/signin\",\"href\":\"http://localhost:3003/signin\"}",
+      "userAction": true
+    },
+    {
+      "id": "yvlxo88ny",
+      "timestamp": "2025-11-20T01:30:41.976Z",
+      "level": "api",
+      "message": "POST https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password",
+      "source": "Fetch",
+      "details": "{\"method\":\"POST\"}",
+      "userAction": false
+    },
+    {
+      "id": "qnz4csa7t",
+      "timestamp": "2025-11-20T01:30:42.339Z",
+      "level": "api",
+      "message": "GET http://localhost:3003/dashboard?_rsc=1dl4p",
+      "source": "Fetch",
+      "details": "{\"method\":\"GET\"}",
+      "userAction": false
+    },
+    {
+      "id": "k99kr2xl9",
+      "timestamp": "2025-11-20T01:30:42.693Z",
+      "level": "navigation",
+      "message": "Navegación: /dashboard",
+      "source": "Router",
+      "details": "{\"pathname\":\"/dashboard\",\"href\":\"http://localhost:3003/dashboard\"}",
+      "userAction": false
+    },
+    {
+      "id": "se94n1sx2",
+      "timestamp": "2025-11-20T01:30:42.702Z",
+      "level": "api",
+      "message": "GET http://localhost:3003/signin?_rsc=sygcq",
+      "source": "Fetch",
+      "details": "{\"method\":\"GET\"}",
+      "userAction": false
+    },
+    {
+      "id": "rz1pjy7lo",
+      "timestamp": "2025-11-20T01:30:42.738Z",
+      "level": "api",
+      "message": "POST https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/rpc/obtener_palabras_clave_todas",
+      "source": "Fetch",
+      "details": "{\"method\":\"POST\"}",
+      "userAction": false
+    },
+    {
+      "id": "kf3znm62d",
+      "timestamp": "2025-11-20T01:30:42.739Z",
+      "level": "api",
+      "message": "POST https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/rpc/obtener_palabras_clave_todas",
+      "source": "Fetch",
+      "details": "{\"method\":\"POST\"}",
+      "userAction": false
+    },
+    {
+      "id": "5fmd17ncl",
+      "timestamp": "2025-11-20T01:30:42.740Z",
+      "level": "api",
+      "message": "POST https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/rpc/obtener_estadisticas_dashboard",
+      "source": "Fetch",
+      "details": "{\"method\":\"POST\"}",
+      "userAction": false
+    },
+    {
+      "id": "i5ce960a8",
+      "timestamp": "2025-11-20T01:30:42.743Z",
+      "level": "api",
+      "message": "POST https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/rpc/obtener_estadisticas_dashboard",
+      "source": "Fetch",
+      "details": "{\"method\":\"POST\"}",
+      "userAction": false
+    },
+    {
+      "id": "vwr57xqw7",
+      "timestamp": "2025-11-20T01:30:42.812Z",
+      "level": "navigation",
+      "message": "Navegación: /signin",
+      "source": "Router",
+      "details": "{\"pathname\":\"/signin\",\"href\":\"http://localhost:3003/signin\"}",
+      "userAction": false
+    },
+    {
+      "id": "uowx12k38",
+      "timestamp": "2025-11-20T01:30:42.972Z",
+      "level": "error",
+      "message": "API Error: 400",
+      "source": "Fetch",
+      "details": "{\"url\":\"https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/rpc/obtener_palabras_clave_todas\",\"status\":400}",
+      "userAction": false
+    },
+    {
+      "id": "augygcxfl",
+      "timestamp": "2025-11-20T01:30:43.159Z",
+      "level": "error",
+      "message": "API Error: 400",
+      "source": "Fetch",
+      "details": "{\"url\":\"https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/rpc/obtener_palabras_clave_todas\",\"status\":400}",
+      "userAction": false
+    },
+    {
+      "id": "p15j2k19c",
+      "timestamp": "2025-11-20T01:30:52.279Z",
+      "level": "api",
+      "message": "GET https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/usuarios?select=correo&correo=eq.baez.israel%40gmail.com",
+      "source": "Fetch",
+      "details": "{\"method\":\"GET\"}",
+      "userAction": false
+    },
+    {
+      "id": "hffbmo065",
+      "timestamp": "2025-11-20T01:30:52.495Z",
+      "level": "error",
+      "message": "API Error: 500",
+      "source": "Fetch",
+      "details": "{\"url\":\"https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/usuarios?select=correo&correo=eq.baez.israel%40gmail.com\",\"status\":500}",
+      "userAction": false
+    },
+    {
+      "id": "vvpwvzj0i",
+      "timestamp": "2025-11-20T01:30:55.140Z",
+      "level": "user_action",
+      "message": "Click: Iniciar Sesión",
+      "source": "User",
+      "details": "{\"tagName\":\"BUTTON\",\"textContent\":\"Iniciar Sesión\",\"pathname\":\"/signin\",\"href\":\"http://localhost:3003/signin\"}",
+      "userAction": true
+    },
+    {
+      "id": "d08wlrfxz",
+      "timestamp": "2025-11-20T01:30:55.140Z",
+      "level": "api",
+      "message": "POST https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password",
+      "source": "Fetch",
+      "details": "{\"method\":\"POST\"}",
+      "userAction": false
+    },
+    {
+      "id": "flwtbosc7",
+      "timestamp": "2025-11-20T01:30:55.463Z",
+      "level": "api",
+      "message": "GET http://localhost:3003/dashboard?_rsc=1dl4p",
+      "source": "Fetch",
+      "details": "{\"method\":\"GET\"}",
+      "userAction": false
+    },
+    {
+      "id": "x3w06s1on",
+      "timestamp": "2025-11-20T01:30:55.513Z",
+      "level": "navigation",
+      "message": "Navegación: /dashboard",
+      "source": "Router",
+      "details": "{\"pathname\":\"/dashboard\",\"href\":\"http://localhost:3003/dashboard\"}",
+      "userAction": false
+    },
+    {
+      "id": "4abk3i31g",
+      "timestamp": "2025-11-20T01:30:55.518Z",
+      "level": "api",
+      "message": "GET http://localhost:3003/signin?_rsc=sygcq",
+      "source": "Fetch",
+      "details": "{\"method\":\"GET\"}",
+      "userAction": false
+    },
+    {
+      "id": "bradv2at3",
+      "timestamp": "2025-11-20T01:30:55.538Z",
+      "level": "api",
+      "message": "POST https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/rpc/obtener_palabras_clave_todas",
+      "source": "Fetch",
+      "details": "{\"method\":\"POST\"}",
+      "userAction": false
+    },
+    {
+      "id": "25sudjs64",
+      "timestamp": "2025-11-20T01:30:55.539Z",
+      "level": "api",
+      "message": "POST https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/rpc/obtener_palabras_clave_todas",
+      "source": "Fetch",
+      "details": "{\"method\":\"POST\"}",
+      "userAction": false
+    },
+    {
+      "id": "kwj0cj8lp",
+      "timestamp": "2025-11-20T01:30:55.541Z",
+      "level": "api",
+      "message": "POST https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/rpc/obtener_estadisticas_dashboard",
+      "source": "Fetch",
+      "details": "{\"method\":\"POST\"}",
+      "userAction": false
+    },
+    {
+      "id": "his3t6vdf",
+      "timestamp": "2025-11-20T01:30:55.542Z",
+      "level": "api",
+      "message": "POST https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/rpc/obtener_estadisticas_dashboard",
+      "source": "Fetch",
+      "details": "{\"method\":\"POST\"}",
+      "userAction": false
+    },
+    {
+      "id": "odql2i0al",
+      "timestamp": "2025-11-20T01:30:55.595Z",
+      "level": "navigation",
+      "message": "Navegación: /signin",
+      "source": "Router",
+      "details": "{\"pathname\":\"/signin\",\"href\":\"http://localhost:3003/signin\"}",
+      "userAction": false
+    },
+    {
+      "id": "uxcotrk55",
+      "timestamp": "2025-11-20T01:30:55.735Z",
+      "level": "error",
+      "message": "API Error: 400",
+      "source": "Fetch",
+      "details": "{\"url\":\"https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/rpc/obtener_palabras_clave_todas\",\"status\":400}",
+      "userAction": false
+    },
+    {
+      "id": "xog6lbh4v",
+      "timestamp": "2025-11-20T01:30:55.758Z",
+      "level": "error",
+      "message": "API Error: 400",
+      "source": "Fetch",
+      "details": "{\"url\":\"https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/rpc/obtener_palabras_clave_todas\",\"status\":400}",
+      "userAction": false
+    },
+    {
+      "id": "jx9dl1sus",
+      "timestamp": "2025-11-20T01:30:57.948Z",
+      "level": "user_action",
+      "message": "Click: Button",
+      "source": "User",
+      "details": "{\"tagName\":\"BUTTON\",\"textContent\":\"\",\"pathname\":\"/signin\",\"href\":\"http://localhost:3003/signin\"}",
+      "userAction": true
+    }
+  ],
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+  "url": "http://localhost:3003/signin",
+  "timestamp": "2025-11-20T01:31:02.277Z",
+  "sessionDuration": 32833,
+  "errors": [
+    {
+      "id": "ipcmrr5bd",
+      "timestamp": "2025-11-20T01:30:40.055Z",
+      "level": "error",
+      "message": "API Error: 500",
+      "source": "Fetch",
+      "details": "{\"url\":\"https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/usuarios?select=correo&correo=eq.baez.israel%40gmail.com\",\"status\":500}",
+      "userAction": false
+    },
+    {
+      "id": "uowx12k38",
+      "timestamp": "2025-11-20T01:30:42.972Z",
+      "level": "error",
+      "message": "API Error: 400",
+      "source": "Fetch",
+      "details": "{\"url\":\"https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/rpc/obtener_palabras_clave_todas\",\"status\":400}",
+      "userAction": false
+    },
+    {
+      "id": "augygcxfl",
+      "timestamp": "2025-11-20T01:30:43.159Z",
+      "level": "error",
+      "message": "API Error: 400",
+      "source": "Fetch",
+      "details": "{\"url\":\"https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/rpc/obtener_palabras_clave_todas\",\"status\":400}",
+      "userAction": false
+    },
+    {
+      "id": "hffbmo065",
+      "timestamp": "2025-11-20T01:30:52.495Z",
+      "level": "error",
+      "message": "API Error: 500",
+      "source": "Fetch",
+      "details": "{\"url\":\"https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/usuarios?select=correo&correo=eq.baez.israel%40gmail.com\",\"status\":500}",
+      "userAction": false
+    },
+    {
+      "id": "uxcotrk55",
+      "timestamp": "2025-11-20T01:30:55.735Z",
+      "level": "error",
+      "message": "API Error: 400",
+      "source": "Fetch",
+      "details": "{\"url\":\"https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/rpc/obtener_palabras_clave_todas\",\"status\":400}",
+      "userAction": false
+    },
+    {
+      "id": "xog6lbh4v",
+      "timestamp": "2025-11-20T01:30:55.758Z",
+      "level": "error",
+      "message": "API Error: 400",
+      "source": "Fetch",
+      "details": "{\"url\":\"https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/rpc/obtener_palabras_clave_todas\",\"status\":400}",
+      "userAction": false
+    }
+  ],
+  "userActions": 10,
+  "performanceMetrics": {
+    "pageLoadTime": 33648.70000000298,
+    "connectionStatus": "online"
+  },
+  "systemInfo": {
+    "screenResolution": "1536x864",
+    "timezone": "America/Caracas",
+    "language": "es-ES"
+  }
+}

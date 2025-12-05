@@ -1,0 +1,82 @@
+{
+  "logs": [
+    {
+      "id": "5qmc1piig",
+      "timestamp": "2025-11-20T16:40:25.870Z",
+      "level": "info",
+      "message": "Sistema de diagnóstico iniciado",
+      "source": "System",
+      "details": "{\"url\":\"http://localhost:3003/signin\",\"timestamp\":\"2025-11-20T16:40:25.870Z\"}",
+      "userAction": false
+    },
+    {
+      "id": "5yfuegfom",
+      "timestamp": "2025-11-20T16:40:25.873Z",
+      "level": "info",
+      "message": "Sistema de diagnóstico iniciado",
+      "source": "System",
+      "details": "{\"url\":\"http://localhost:3003/signin\",\"timestamp\":\"2025-11-20T16:40:25.873Z\"}",
+      "userAction": false
+    },
+    {
+      "id": "1gtpmfpbv",
+      "timestamp": "2025-11-20T16:40:25.922Z",
+      "level": "info",
+      "message": "onAuthStateChange event",
+      "source": "AuthProvider",
+      "details": "{\"event\":\"INITIAL_SESSION\",\"hasSession\":true,\"userId\":\"f5073781-ed4b-41c2-8ad6-cf3c7d76f8ed\"}",
+      "userAction": false
+    },
+    {
+      "id": "njclp90b5",
+      "timestamp": "2025-11-20T16:40:25.924Z",
+      "level": "info",
+      "message": "Session restored from Supabase",
+      "source": "AuthProvider",
+      "details": "{\"userId\":\"f5073781-ed4b-41c2-8ad6-cf3c7d76f8ed\"}",
+      "userAction": false
+    },
+    {
+      "id": "3wq9g8n3z",
+      "timestamp": "2025-11-20T16:40:27.752Z",
+      "level": "user_action",
+      "message": "Click: Iniciar Sesión",
+      "source": "User",
+      "details": "{\"tagName\":\"BUTTON\",\"textContent\":\"Iniciar Sesión\",\"pathname\":\"/signin\",\"href\":\"http://localhost:3003/signin\"}",
+      "userAction": true
+    },
+    {
+      "id": "tcf3a5vs5",
+      "timestamp": "2025-11-20T16:40:30.309Z",
+      "level": "user_action",
+      "message": "Click: Button",
+      "source": "User",
+      "details": "{\"tagName\":\"BUTTON\",\"textContent\":\"\",\"pathname\":\"/signin\",\"href\":\"http://localhost:3003/signin\"}",
+      "userAction": true
+    },
+    {
+      "id": "m9o0aag0n",
+      "timestamp": "2025-11-20T16:40:35.081Z",
+      "level": "user_action",
+      "message": "Click: Actualizar",
+      "source": "User",
+      "details": "{\"tagName\":\"BUTTON\",\"textContent\":\"Actualizar\",\"pathname\":\"/signin\",\"href\":\"http://localhost:3003/signin\"}",
+      "userAction": true
+    }
+  ],
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+  "url": "http://localhost:3003/signin",
+  "timestamp": "2025-11-20T16:40:37.677Z",
+  "sessionDuration": 11819,
+  "errors": [],
+  "userActions": 6,
+  "performanceMetrics": {
+    "pageLoadTime": 13015.89999999851,
+    "connectionStatus": "online"
+  },
+  "systemInfo": {
+    "screenResolution": "1536x864",
+    "timezone": "America/Caracas",
+    "language": "es-ES"
+  }
+}

@@ -1,0 +1,5520 @@
+{
+  "logs": [
+    {
+      "timestamp": "2025-11-17T23:53:39.408Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.408Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.30ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.2999999523162842,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.408Z",
+      "level": "info",
+      "message": "Performance: Update took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "Update",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.417Z",
+      "level": "info",
+      "message": "Performance: ​Button took 1.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 1.100000023841858,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.417Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.50ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.5,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.417Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.60ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.5999999642372131,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.417Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.20000004768371582,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.417Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.40ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.3999999761581421,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.431Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.40ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.40000003576278687,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.431Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.30ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.2999999523162842,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.431Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.20000004768371582,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.431Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.09999996423721313,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.431Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.445Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.50ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.5,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.445Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.50ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.5,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.445Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.50ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.5,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.445Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.445Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.30ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.30000001192092896,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.458Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.70ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.699999988079071,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.458Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.40ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.3999999761581421,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.458Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.40ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.3999999761581421,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.458Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.458Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.19999998807907104,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.466Z",
+      "level": "info",
+      "message": "Performance: ​Button took 1.70ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 1.7000000476837158,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.466Z",
+      "level": "info",
+      "message": "Performance: ​Button took 1.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 1,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.466Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.80ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.7999999523162842,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.466Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.466Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.50ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.5,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.479Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.60ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.5999999642372131,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.479Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.30ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.30000001192092896,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.479Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.30ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.2999999523162842,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.479Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.479Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.40ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.3999999761581421,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.491Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.60ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.6000000238418579,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.491Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.40ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.3999999761581421,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.491Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.50ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.5,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.491Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.491Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.40ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.3999999761581421,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.491Z",
+      "level": "info",
+      "message": "Performance: Update took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "Update",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.499Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.40ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.3999999761581421,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.499Z",
+      "level": "info",
+      "message": "Performance: ​Button took 1.70ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 1.699999988079071,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.499Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.70ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.699999988079071,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.499Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.19999998807907104,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.499Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.50ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.5,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.509Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.50ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.5,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.509Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.19999998807907104,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.509Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.30ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.30000001192092896,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.509Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.509Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.19999998807907104,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.516Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.50ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.5,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.516Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.30ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.30000001192092896,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.516Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.19999998807907104,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.516Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.516Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.19999998807907104,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.527Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.30ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.30000001192092896,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.527Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.30ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.30000001192092896,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.527Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.30ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.2999999523162842,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.527Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.527Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.20000004768371582,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.535Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.40ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.3999999761581421,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.535Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.09999996423721313,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.535Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.30ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.30000001192092896,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.535Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.535Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.30ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.30000001192092896,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.544Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.40ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.40000003576278687,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.544Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.544Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.30ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.2999999523162842,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.544Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.544Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.30ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.30000001192092896,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.557Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.40ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.40000003576278687,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.557Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.19999998807907104,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.557Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.09999996423721313,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.557Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.557Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.30ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.30000001192092896,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.566Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.50ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.5,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.566Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.50ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.5,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.566Z",
+      "level": "info",
+      "message": "Performance: ​Button took 1.40ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 1.399999976158142,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.566Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.30ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.30000001192092896,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.566Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.60ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.5999999642372131,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.576Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.40ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.3999999761581421,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.576Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.19999998807907104,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.576Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.30ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.30000001192092896,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.576Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.576Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.19999998807907104,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.585Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.40ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.3999999761581421,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.585Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.20000004768371582,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.585Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.30ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.30000001192092896,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.585Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.585Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.19999998807907104,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.601Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.40ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.40000003576278687,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.601Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.19999998807907104,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.601Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.20000004768371582,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.601Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.09999996423721313,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.601Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.19999998807907104,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.601Z",
+      "level": "info",
+      "message": "Performance: Update took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "Update",
+        "duration": 0.19999998807907104,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.609Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.50ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.5,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.609Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.19999998807907104,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.609Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.19999998807907104,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.609Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.609Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.30ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.30000001192092896,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.616Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.40ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.40000003576278687,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.616Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.19999998807907104,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.616Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.30ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.30000001192092896,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.616Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.09999996423721313,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.616Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.616Z",
+      "level": "info",
+      "message": "Performance: Update took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "Update",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.627Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.40ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.3999999761581421,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.627Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.19999998807907104,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.627Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.19999998807907104,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.627Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.627Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.638Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.30ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.30000001192092896,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.638Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.639Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.19999998807907104,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.639Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.639Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.19999998807907104,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.639Z",
+      "level": "info",
+      "message": "Performance: Update took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "Update",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.648Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.60ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.6000000238418579,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.648Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.19999998807907104,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.648Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.40ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.40000003576278687,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.648Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.648Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.19999998807907104,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.661Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.30ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.30000001192092896,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.661Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.09999996423721313,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.661Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.30ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.30000001192092896,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.661Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.661Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.30ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.30000001192092896,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.672Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.60ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.5999999642372131,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.672Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.40ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.40000003576278687,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.672Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.60ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.5999999642372131,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.672Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.672Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.50ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.5,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.679Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.30ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.30000001192092896,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.679Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.30ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.30000001192092896,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.679Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.30ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.30000001192092896,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.679Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.679Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.19999998807907104,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.690Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.40ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.3999999761581421,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.690Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.20000004768371582,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.690Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.19999998807907104,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.690Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.690Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.30ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.30000001192092896,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.698Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.30ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.30000001192092896,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.698Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.19999998807907104,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.698Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.60ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.6000000238418579,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.698Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.40ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.3999999761581421,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.698Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.60ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.6000000238418579,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.698Z",
+      "level": "info",
+      "message": "Performance: Update took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "Update",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.700Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.40ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.40000003576278687,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.700Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.09999996423721313,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.700Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.30ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.30000001192092896,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.700Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.700Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.19999998807907104,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.707Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.707Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.09999996423721313,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.707Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.707Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.710Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.30ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.30000001192092896,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.710Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.19999998807907104,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.710Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.710Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.09999996423721313,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.710Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.60ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.6000000238418579,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.712Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.30ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.30000001192092896,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.712Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.09999996423721313,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.712Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.712Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.714Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.20000004768371582,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.714Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.09999996423721313,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.714Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.714Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.716Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.716Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.09999996423721313,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.716Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.716Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.716Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.724Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.724Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.09999996423721313,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.724Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.724Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.727Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.40ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.3999999761581421,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.727Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.30ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.30000001192092896,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.727Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.09999996423721313,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.727Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.727Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.20000004768371582,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.729Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.20000004768371582,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.729Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.09999996423721313,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.729Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.09999996423721313,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.729Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.729Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.731Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.19999998807907104,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.731Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.731Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.731Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.732Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.732Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.732Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.732Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.09999996423721313,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.732Z",
+      "level": "info",
+      "message": "Performance: Update took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "Update",
+        "duration": 0.09999996423721313,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.734Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.734Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.09999996423721313,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.734Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.734Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.734Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.740Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.740Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.09999996423721313,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.740Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.740Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.740Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.744Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.30ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.30000001192092896,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.744Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.09999996423721313,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.744Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.09999996423721313,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.744Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.744Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.747Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.19999998807907104,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.747Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.747Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.747Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.747Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.19999998807907104,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.747Z",
+      "level": "info",
+      "message": "Performance: Update took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "Update",
+        "duration": 0.09999996423721313,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.749Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.30ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.30000001192092896,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.749Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.749Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.19999998807907104,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.749Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.755Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.755Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.09999996423721313,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.755Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.755Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.755Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.757Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.757Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.09999996423721313,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.757Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.757Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.19999998807907104,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.759Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.19999998807907104,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.759Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.09999996423721313,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.759Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.759Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.761Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.19999998807907104,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.761Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.761Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.761Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.761Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.09999996423721313,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.762Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.19999998807907104,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.762Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.09999996423721313,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.762Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.762Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.764Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.764Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.764Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.09999996423721313,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.764Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.764Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.766Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.09999996423721313,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.766Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.766Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.09999996423721313,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.766Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.766Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.772Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.19999998807907104,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.772Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.19999998807907104,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.772Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.772Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.19999998807907104,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.774Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.30ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.30000001192092896,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.774Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.19999998807907104,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.774Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.20000004768371582,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.774Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.774Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.09999996423721313,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.776Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.20000004768371582,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.776Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.09999996423721313,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.776Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.19999998807907104,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.776Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.776Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.778Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.19999998807907104,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.778Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.778Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.778Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.09999996423721313,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.778Z",
+      "level": "info",
+      "message": "Performance: Update took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "Update",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.780Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.09999996423721313,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.780Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.780Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.780Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.780Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.19999998807907104,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.782Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.782Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.09999996423721313,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.782Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.782Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.782Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.788Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.30ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.2999999523162842,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.788Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.788Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.788Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.790Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.19999998807907104,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.790Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.09999996423721313,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.790Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.790Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.792Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.09999996423721313,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.792Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.792Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.09999996423721313,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.792Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.792Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.794Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.20000004768371582,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.794Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.19999998807907104,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.794Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.794Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.794Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.09999996423721313,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.796Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.796Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.796Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.796Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.796Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.19999998807907104,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.798Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.798Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.800Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.30ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.30000001192092896,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.800Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.800Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.801Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.09999996423721313,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.806Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.806Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.09999996423721313,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.806Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.806Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.806Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.810Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.30ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.30000001192092896,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.810Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.09999996423721313,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.810Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.19999998807907104,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.810Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.810Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.810Z",
+      "level": "info",
+      "message": "Performance: Update took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "Update",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.812Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.19999998807907104,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.812Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.19999998807907104,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.812Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.812Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.812Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.19999998807907104,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.814Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.19999998807907104,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.814Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.19999998807907104,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.814Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.814Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.814Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.816Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.09999996423721313,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.816Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.816Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.816Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.816Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.09999996423721313,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.823Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.09999996423721313,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.823Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.823Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.09999996423721313,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.823Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.823Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.826Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.09999996423721313,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.826Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.826Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.826Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.829Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.30ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.30000001192092896,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.829Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.829Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.19999998807907104,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.829Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.829Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.830Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.20000004768371582,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.830Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.09999996423721313,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.830Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.830Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.830Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.09999996423721313,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.832Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.832Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.832Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.832Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.832Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.832Z",
+      "level": "info",
+      "message": "Performance: Update took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "Update",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.839Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.839Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.839Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.839Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.09999996423721313,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.839Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.844Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.50ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.5,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.844Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.19999998807907104,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.844Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.09999996423721313,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.844Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.844Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.19999998807907104,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.847Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.30ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.30000001192092896,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.847Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.09999996423721313,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.847Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.847Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.847Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.09999996423721313,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.848Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.30ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.30000001192092896,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.849Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.849Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.09999996423721313,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.849Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.851Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.09999996423721313,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.851Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.09999996423721313,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.851Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.851Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.859Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.20000004768371582,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.859Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.09999996423721313,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.859Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.859Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.859Z",
+      "level": "info",
+      "message": "Performance: Update took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "Update",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.863Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.40ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.40000003576278687,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.863Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.40ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.40000003576278687,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.863Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.60ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.6000000238418579,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.863Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.09999996423721313,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.863Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.866Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.20000004768371582,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.866Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.866Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.866Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.866Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.20000004768371582,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.875Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.30ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.30000001192092896,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.875Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.19999998807907104,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.875Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.875Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.09999996423721313,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.878Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.30ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.2999999523162842,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.878Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.19999998807907104,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.878Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.878Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.09999996423721313,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.878Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.882Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.19999998807907104,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.882Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.09999996423721313,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.882Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.882Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.882Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.884Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.19999998807907104,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.884Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.884Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.19999998807907104,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.885Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.885Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.891Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.09999996423721313,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.891Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.891Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.891Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.891Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.894Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.30ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.2999999523162842,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.894Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.894Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.19999998807907104,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.894Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.894Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.898Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.19999998807907104,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.898Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.898Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.898Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.09999996423721313,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.898Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.898Z",
+      "level": "info",
+      "message": "Performance: Update took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "Update",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.905Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.30ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.30000001192092896,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.905Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.09999996423721313,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.905Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.905Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.909Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.19999998807907104,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.909Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.19999998807907104,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.909Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.909Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.909Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.19999998807907104,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.912Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.30ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.30000001192092896,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.912Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.19999998807907104,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.912Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.19999998807907104,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.912Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.912Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.916Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.30ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.30000001192092896,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.916Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.09999996423721313,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.916Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.20000004768371582,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.916Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.916Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.09999996423721313,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.924Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.20000004768371582,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.924Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.09999996423721313,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.924Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.924Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.09999996423721313,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.924Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.20000004768371582,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.928Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.30ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.30000001192092896,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.928Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.19999998807907104,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.928Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.60ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.6000000238418579,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.928Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.928Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.19999998807907104,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.930Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.30ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.30000001192092896,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.930Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.19999998807907104,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.930Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.930Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.930Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.09999996423721313,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.932Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.19999998807907104,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.932Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.09999996423721313,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.932Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.932Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.932Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.935Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.09999996423721313,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.935Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.935Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.935Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.09999996423721313,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.941Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.941Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.941Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.941Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.941Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.945Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.30ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.30000001192092896,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.945Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.19999998807907104,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.945Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.945Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.09999996423721313,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.945Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.947Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.19999998807907104,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.947Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.09999996423721313,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.947Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.947Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.948Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.09999996423721313,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.949Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.19999998807907104,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.949Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.19999998807907104,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.949Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.10ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.10000002384185791,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.949Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.00ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0,
+        "entryType": "measure"
+      }
+    },
+    {
+      "timestamp": "2025-11-17T23:53:39.949Z",
+      "level": "info",
+      "message": "Performance: ​Button took 0.20ms",
+      "source": "PerformanceObserver",
+      "details": {
+        "name": "​Button",
+        "duration": 0.19999998807907104,
+        "entryType": "measure"
+      }
+    }
+  ],
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+  "url": "http://localhost:3003/",
+  "timestamp": "2025-11-17T23:53:39.957Z",
+  "performance": {
+    "memory": {
+      "usedJSHeapSize": 47972609,
+      "totalJSHeapSize": 92273685,
+      "jsHeapSizeLimit": 4294705152
+    },
+    "timing": {
+      "navigationStart": 1763423614290,
+      "loadEventEnd": 1763423614789,
+      "domContentLoadedEventEnd": 1763423614495
+    }
+  },
+  "errors": []
+}

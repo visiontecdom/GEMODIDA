@@ -1,0 +1,464 @@
+{
+  "logs": [
+    {
+      "id": "qv3bsf50r",
+      "timestamp": "2025-11-20T13:41:33.426Z",
+      "level": "info",
+      "message": "post-signin localStorage",
+      "source": "AuthForm",
+      "details": "{\"storageKey\":\"GEMODIDA-auth-token\",\"storageVal\":{\"access_token\":\"eyJhbGciOiJIUzI1NiIsImtpZCI6InVCVXc0WmhEd21tMGhrazIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2RpdnhobHVxeWJiY2dmcW96YmpxLnN1cGFiYXNlLmNvL2F1dGgvdjEiLCJzdWIiOiJmNTA3Mzc4MS1lZDRiLTQxYzItOGFkNi1jZjNjN2Q3NmY4ZWQiLCJhdWQiOiJhdXRoZW50aWNhdGVkIiwiZXhwIjoxNzYzNjQ5Njk1LCJpYXQiOjE3NjM2NDYwOTUsImVtYWlsIjoiYmFlei5pc3JhZWxAZ21haWwuY29tIiwicGhvbmUiOiIiLCJhcHBfbWV0YWRhdGEiOnsicHJvdmlkZXIiOiJlbWFpbCIsInByb3ZpZGVycyI6WyJlbWFpbCJdfSwidXNlcl9tZXRhZG...",
+      "userAction": false
+    },
+    {
+      "id": "jrc7ey705",
+      "timestamp": "2025-11-20T13:41:33.426Z",
+      "level": "api",
+      "message": "POST /api/auth/set-session",
+      "source": "Fetch",
+      "details": "{\"method\":\"POST\"}",
+      "userAction": false
+    },
+    {
+      "id": "c0f3yky1j",
+      "timestamp": "2025-11-20T13:41:33.552Z",
+      "level": "info",
+      "message": "Posted session to /api/auth/set-session",
+      "source": "AuthForm",
+      "userAction": false
+    },
+    {
+      "id": "mmmo286j8",
+      "timestamp": "2025-11-20T13:41:33.553Z",
+      "level": "api",
+      "message": "GET http://localhost:3003/dashboard?_rsc=1dl4p",
+      "source": "Fetch",
+      "details": "{\"method\":\"GET\"}",
+      "userAction": false
+    },
+    {
+      "id": "jew7hs0eq",
+      "timestamp": "2025-11-20T13:41:33.650Z",
+      "level": "navigation",
+      "message": "Navegación: /signin",
+      "source": "Router",
+      "details": "{\"pathname\":\"/signin\",\"href\":\"http://localhost:3003/signin\"}",
+      "userAction": false
+    },
+    {
+      "id": "hrpxkaem3",
+      "timestamp": "2025-11-20T13:41:34.461Z",
+      "level": "user_action",
+      "message": "Click: Iniciar Sesión",
+      "source": "User",
+      "details": "{\"tagName\":\"BUTTON\",\"textContent\":\"Iniciar Sesión\",\"pathname\":\"/signin\",\"href\":\"http://localhost:3003/signin\"}",
+      "userAction": true
+    },
+    {
+      "id": "39piu3e4j",
+      "timestamp": "2025-11-20T13:41:34.462Z",
+      "level": "info",
+      "message": "Attempting signIn",
+      "source": "AuthForm",
+      "details": "{\"email\":\"baez.israel@gmail.com\"}",
+      "userAction": false
+    },
+    {
+      "id": "jqfg17bo4",
+      "timestamp": "2025-11-20T13:41:34.462Z",
+      "level": "api",
+      "message": "POST https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password",
+      "source": "Fetch",
+      "details": "{\"method\":\"POST\"}",
+      "userAction": false
+    },
+    {
+      "id": "akgs3mmw6",
+      "timestamp": "2025-11-20T13:41:34.732Z",
+      "level": "info",
+      "message": "onAuthStateChange",
+      "source": "AuthProvider",
+      "details": "{\"event\":\"SIGNED_IN\",\"sessionExists\":true,\"session\":{\"access_token\":\"eyJhbGciOiJIUzI1NiIsImtpZCI6InVCVXc0WmhEd21tMGhrazIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2RpdnhobHVxeWJiY2dmcW96YmpxLnN1cGFiYXNlLmNvL2F1dGgvdjEiLCJzdWIiOiJmNTA3Mzc4MS1lZDRiLTQxYzItOGFkNi1jZjNjN2Q3NmY4ZWQiLCJhdWQiOiJhdXRoZW50aWNhdGVkIiwiZXhwIjoxNzYzNjQ5Njk3LCJpYXQiOjE3NjM2NDYwOTcsImVtYWlsIjoiYmFlei5pc3JhZWxAZ21haWwuY29tIiwicGhvbmUiOiIiLCJhcHBfbWV0YWRhdGEiOnsicHJvdmlkZXIiOiJlbWFpbCIsInByb3ZpZGVycyI6WyJlbWFpbCJdfSwidXNlcl9tZXRh...",
+      "userAction": false
+    },
+    {
+      "id": "y1qjjbmnu",
+      "timestamp": "2025-11-20T13:41:34.733Z",
+      "level": "info",
+      "message": "signIn response",
+      "source": "AuthForm",
+      "details": "{\"data\":{\"user\":{\"id\":\"f5073781-ed4b-41c2-8ad6-cf3c7d76f8ed\",\"aud\":\"authenticated\",\"role\":\"authenticated\",\"email\":\"baez.israel@gmail.com\",\"email_confirmed_at\":\"2025-11-18T23:07:35.067727Z\",\"phone\":\"\",\"confirmed_at\":\"2025-11-18T23:07:35.067727Z\",\"last_sign_in_at\":\"2025-11-20T13:41:37.159744568Z\",\"app_metadata\":{\"provider\":\"email\",\"providers\":[\"email\"]},\"user_metadata\":{\"email_verified\":true},\"identities\":[{\"identity_id\":\"98172cde-d10f-4b0a-9806-a2e7b3118af0\",\"id\":\"f5073781-ed4b-41c2-8ad6-cf3c7d76...",
+      "userAction": false
+    },
+    {
+      "id": "waq5gni47",
+      "timestamp": "2025-11-20T13:41:34.733Z",
+      "level": "info",
+      "message": "signIn immediate session",
+      "source": "AuthForm",
+      "details": "{\"user\":\"f5073781-ed4b-41c2-8ad6-cf3c7d76f8ed\"}",
+      "userAction": false
+    },
+    {
+      "id": "xlziv6r2e",
+      "timestamp": "2025-11-20T13:41:34.733Z",
+      "level": "info",
+      "message": "post-signin localStorage",
+      "source": "AuthForm",
+      "details": "{\"storageKey\":\"GEMODIDA-auth-token\",\"storageVal\":{\"access_token\":\"eyJhbGciOiJIUzI1NiIsImtpZCI6InVCVXc0WmhEd21tMGhrazIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2RpdnhobHVxeWJiY2dmcW96YmpxLnN1cGFiYXNlLmNvL2F1dGgvdjEiLCJzdWIiOiJmNTA3Mzc4MS1lZDRiLTQxYzItOGFkNi1jZjNjN2Q3NmY4ZWQiLCJhdWQiOiJhdXRoZW50aWNhdGVkIiwiZXhwIjoxNzYzNjQ5Njk3LCJpYXQiOjE3NjM2NDYwOTcsImVtYWlsIjoiYmFlei5pc3JhZWxAZ21haWwuY29tIiwicGhvbmUiOiIiLCJhcHBfbWV0YWRhdGEiOnsicHJvdmlkZXIiOiJlbWFpbCIsInByb3ZpZGVycyI6WyJlbWFpbCJdfSwidXNlcl9tZXRhZG...",
+      "userAction": false
+    },
+    {
+      "id": "true44p5r",
+      "timestamp": "2025-11-20T13:41:34.733Z",
+      "level": "api",
+      "message": "POST /api/auth/set-session",
+      "source": "Fetch",
+      "details": "{\"method\":\"POST\"}",
+      "userAction": false
+    },
+    {
+      "id": "9kd4ntyk5",
+      "timestamp": "2025-11-20T13:41:34.829Z",
+      "level": "info",
+      "message": "Posted session to /api/auth/set-session",
+      "source": "AuthForm",
+      "userAction": false
+    },
+    {
+      "id": "56vrpm6eo",
+      "timestamp": "2025-11-20T13:41:34.830Z",
+      "level": "api",
+      "message": "GET http://localhost:3003/dashboard?_rsc=1dl4p",
+      "source": "Fetch",
+      "details": "{\"method\":\"GET\"}",
+      "userAction": false
+    },
+    {
+      "id": "8hnmnpy8t",
+      "timestamp": "2025-11-20T13:41:34.912Z",
+      "level": "navigation",
+      "message": "Navegación: /signin",
+      "source": "Router",
+      "details": "{\"pathname\":\"/signin\",\"href\":\"http://localhost:3003/signin\"}",
+      "userAction": false
+    },
+    {
+      "id": "bqg8kg76k",
+      "timestamp": "2025-11-20T13:41:35.621Z",
+      "level": "user_action",
+      "message": "Click: Iniciar Sesión",
+      "source": "User",
+      "details": "{\"tagName\":\"BUTTON\",\"textContent\":\"Iniciar Sesión\",\"pathname\":\"/signin\",\"href\":\"http://localhost:3003/signin\"}",
+      "userAction": true
+    },
+    {
+      "id": "qni43xszw",
+      "timestamp": "2025-11-20T13:41:35.622Z",
+      "level": "info",
+      "message": "Attempting signIn",
+      "source": "AuthForm",
+      "details": "{\"email\":\"baez.israel@gmail.com\"}",
+      "userAction": false
+    },
+    {
+      "id": "iagrsnum7",
+      "timestamp": "2025-11-20T13:41:35.622Z",
+      "level": "api",
+      "message": "POST https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password",
+      "source": "Fetch",
+      "details": "{\"method\":\"POST\"}",
+      "userAction": false
+    },
+    {
+      "id": "zvt00p6h8",
+      "timestamp": "2025-11-20T13:41:35.918Z",
+      "level": "info",
+      "message": "onAuthStateChange",
+      "source": "AuthProvider",
+      "details": "{\"event\":\"SIGNED_IN\",\"sessionExists\":true,\"session\":{\"access_token\":\"eyJhbGciOiJIUzI1NiIsImtpZCI6InVCVXc0WmhEd21tMGhrazIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2RpdnhobHVxeWJiY2dmcW96YmpxLnN1cGFiYXNlLmNvL2F1dGgvdjEiLCJzdWIiOiJmNTA3Mzc4MS1lZDRiLTQxYzItOGFkNi1jZjNjN2Q3NmY4ZWQiLCJhdWQiOiJhdXRoZW50aWNhdGVkIiwiZXhwIjoxNzYzNjQ5Njk4LCJpYXQiOjE3NjM2NDYwOTgsImVtYWlsIjoiYmFlei5pc3JhZWxAZ21haWwuY29tIiwicGhvbmUiOiIiLCJhcHBfbWV0YWRhdGEiOnsicHJvdmlkZXIiOiJlbWFpbCIsInByb3ZpZGVycyI6WyJlbWFpbCJdfSwidXNlcl9tZXRh...",
+      "userAction": false
+    },
+    {
+      "id": "9xnb8aamq",
+      "timestamp": "2025-11-20T13:41:35.918Z",
+      "level": "info",
+      "message": "signIn response",
+      "source": "AuthForm",
+      "details": "{\"data\":{\"user\":{\"id\":\"f5073781-ed4b-41c2-8ad6-cf3c7d76f8ed\",\"aud\":\"authenticated\",\"role\":\"authenticated\",\"email\":\"baez.israel@gmail.com\",\"email_confirmed_at\":\"2025-11-18T23:07:35.067727Z\",\"phone\":\"\",\"confirmed_at\":\"2025-11-18T23:07:35.067727Z\",\"last_sign_in_at\":\"2025-11-20T13:41:38.347910744Z\",\"app_metadata\":{\"provider\":\"email\",\"providers\":[\"email\"]},\"user_metadata\":{\"email_verified\":true},\"identities\":[{\"identity_id\":\"98172cde-d10f-4b0a-9806-a2e7b3118af0\",\"id\":\"f5073781-ed4b-41c2-8ad6-cf3c7d76...",
+      "userAction": false
+    },
+    {
+      "id": "i7zqxdy0p",
+      "timestamp": "2025-11-20T13:41:35.918Z",
+      "level": "info",
+      "message": "signIn immediate session",
+      "source": "AuthForm",
+      "details": "{\"user\":\"f5073781-ed4b-41c2-8ad6-cf3c7d76f8ed\"}",
+      "userAction": false
+    },
+    {
+      "id": "mg3y3te7w",
+      "timestamp": "2025-11-20T13:41:35.918Z",
+      "level": "info",
+      "message": "post-signin localStorage",
+      "source": "AuthForm",
+      "details": "{\"storageKey\":\"GEMODIDA-auth-token\",\"storageVal\":{\"access_token\":\"eyJhbGciOiJIUzI1NiIsImtpZCI6InVCVXc0WmhEd21tMGhrazIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2RpdnhobHVxeWJiY2dmcW96YmpxLnN1cGFiYXNlLmNvL2F1dGgvdjEiLCJzdWIiOiJmNTA3Mzc4MS1lZDRiLTQxYzItOGFkNi1jZjNjN2Q3NmY4ZWQiLCJhdWQiOiJhdXRoZW50aWNhdGVkIiwiZXhwIjoxNzYzNjQ5Njk4LCJpYXQiOjE3NjM2NDYwOTgsImVtYWlsIjoiYmFlei5pc3JhZWxAZ21haWwuY29tIiwicGhvbmUiOiIiLCJhcHBfbWV0YWRhdGEiOnsicHJvdmlkZXIiOiJlbWFpbCIsInByb3ZpZGVycyI6WyJlbWFpbCJdfSwidXNlcl9tZXRhZG...",
+      "userAction": false
+    },
+    {
+      "id": "vcd6452u1",
+      "timestamp": "2025-11-20T13:41:35.918Z",
+      "level": "api",
+      "message": "POST /api/auth/set-session",
+      "source": "Fetch",
+      "details": "{\"method\":\"POST\"}",
+      "userAction": false
+    },
+    {
+      "id": "i3b4dz68m",
+      "timestamp": "2025-11-20T13:41:36.017Z",
+      "level": "info",
+      "message": "Posted session to /api/auth/set-session",
+      "source": "AuthForm",
+      "userAction": false
+    },
+    {
+      "id": "rphc62emt",
+      "timestamp": "2025-11-20T13:41:36.017Z",
+      "level": "api",
+      "message": "GET http://localhost:3003/dashboard?_rsc=1dl4p",
+      "source": "Fetch",
+      "details": "{\"method\":\"GET\"}",
+      "userAction": false
+    },
+    {
+      "id": "slc2iqbpa",
+      "timestamp": "2025-11-20T13:41:36.102Z",
+      "level": "navigation",
+      "message": "Navegación: /signin",
+      "source": "Router",
+      "details": "{\"pathname\":\"/signin\",\"href\":\"http://localhost:3003/signin\"}",
+      "userAction": false
+    },
+    {
+      "id": "kn37pta44",
+      "timestamp": "2025-11-20T13:41:37.254Z",
+      "level": "user_action",
+      "message": "Click: Iniciar Sesión",
+      "source": "User",
+      "details": "{\"tagName\":\"BUTTON\",\"textContent\":\"Iniciar Sesión\",\"pathname\":\"/signin\",\"href\":\"http://localhost:3003/signin\"}",
+      "userAction": true
+    },
+    {
+      "id": "baf835ji3",
+      "timestamp": "2025-11-20T13:41:37.255Z",
+      "level": "info",
+      "message": "Attempting signIn",
+      "source": "AuthForm",
+      "details": "{\"email\":\"baez.israel@gmail.com\"}",
+      "userAction": false
+    },
+    {
+      "id": "z25s6kxdd",
+      "timestamp": "2025-11-20T13:41:37.255Z",
+      "level": "api",
+      "message": "POST https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password",
+      "source": "Fetch",
+      "details": "{\"method\":\"POST\"}",
+      "userAction": false
+    },
+    {
+      "id": "krjgqwkyl",
+      "timestamp": "2025-11-20T13:41:37.554Z",
+      "level": "info",
+      "message": "onAuthStateChange",
+      "source": "AuthProvider",
+      "details": "{\"event\":\"SIGNED_IN\",\"sessionExists\":true,\"session\":{\"access_token\":\"eyJhbGciOiJIUzI1NiIsImtpZCI6InVCVXc0WmhEd21tMGhrazIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2RpdnhobHVxeWJiY2dmcW96YmpxLnN1cGFiYXNlLmNvL2F1dGgvdjEiLCJzdWIiOiJmNTA3Mzc4MS1lZDRiLTQxYzItOGFkNi1jZjNjN2Q3NmY4ZWQiLCJhdWQiOiJhdXRoZW50aWNhdGVkIiwiZXhwIjoxNzYzNjQ5Njk5LCJpYXQiOjE3NjM2NDYwOTksImVtYWlsIjoiYmFlei5pc3JhZWxAZ21haWwuY29tIiwicGhvbmUiOiIiLCJhcHBfbWV0YWRhdGEiOnsicHJvdmlkZXIiOiJlbWFpbCIsInByb3ZpZGVycyI6WyJlbWFpbCJdfSwidXNlcl9tZXRh...",
+      "userAction": false
+    },
+    {
+      "id": "s2mqejsrg",
+      "timestamp": "2025-11-20T13:41:37.554Z",
+      "level": "info",
+      "message": "signIn response",
+      "source": "AuthForm",
+      "details": "{\"data\":{\"user\":{\"id\":\"f5073781-ed4b-41c2-8ad6-cf3c7d76f8ed\",\"aud\":\"authenticated\",\"role\":\"authenticated\",\"email\":\"baez.israel@gmail.com\",\"email_confirmed_at\":\"2025-11-18T23:07:35.067727Z\",\"phone\":\"\",\"confirmed_at\":\"2025-11-18T23:07:35.067727Z\",\"last_sign_in_at\":\"2025-11-20T13:41:39.980404326Z\",\"app_metadata\":{\"provider\":\"email\",\"providers\":[\"email\"]},\"user_metadata\":{\"email_verified\":true},\"identities\":[{\"identity_id\":\"98172cde-d10f-4b0a-9806-a2e7b3118af0\",\"id\":\"f5073781-ed4b-41c2-8ad6-cf3c7d76...",
+      "userAction": false
+    },
+    {
+      "id": "z5kfnh1zw",
+      "timestamp": "2025-11-20T13:41:37.554Z",
+      "level": "info",
+      "message": "signIn immediate session",
+      "source": "AuthForm",
+      "details": "{\"user\":\"f5073781-ed4b-41c2-8ad6-cf3c7d76f8ed\"}",
+      "userAction": false
+    },
+    {
+      "id": "6nxz59ckd",
+      "timestamp": "2025-11-20T13:41:37.555Z",
+      "level": "info",
+      "message": "post-signin localStorage",
+      "source": "AuthForm",
+      "details": "{\"storageKey\":\"GEMODIDA-auth-token\",\"storageVal\":{\"access_token\":\"eyJhbGciOiJIUzI1NiIsImtpZCI6InVCVXc0WmhEd21tMGhrazIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2RpdnhobHVxeWJiY2dmcW96YmpxLnN1cGFiYXNlLmNvL2F1dGgvdjEiLCJzdWIiOiJmNTA3Mzc4MS1lZDRiLTQxYzItOGFkNi1jZjNjN2Q3NmY4ZWQiLCJhdWQiOiJhdXRoZW50aWNhdGVkIiwiZXhwIjoxNzYzNjQ5Njk5LCJpYXQiOjE3NjM2NDYwOTksImVtYWlsIjoiYmFlei5pc3JhZWxAZ21haWwuY29tIiwicGhvbmUiOiIiLCJhcHBfbWV0YWRhdGEiOnsicHJvdmlkZXIiOiJlbWFpbCIsInByb3ZpZGVycyI6WyJlbWFpbCJdfSwidXNlcl9tZXRhZG...",
+      "userAction": false
+    },
+    {
+      "id": "z86nz5txh",
+      "timestamp": "2025-11-20T13:41:37.555Z",
+      "level": "api",
+      "message": "POST /api/auth/set-session",
+      "source": "Fetch",
+      "details": "{\"method\":\"POST\"}",
+      "userAction": false
+    },
+    {
+      "id": "ltaxrgcc6",
+      "timestamp": "2025-11-20T13:41:37.668Z",
+      "level": "info",
+      "message": "Posted session to /api/auth/set-session",
+      "source": "AuthForm",
+      "userAction": false
+    },
+    {
+      "id": "hr941eym1",
+      "timestamp": "2025-11-20T13:41:37.668Z",
+      "level": "api",
+      "message": "GET http://localhost:3003/dashboard?_rsc=1dl4p",
+      "source": "Fetch",
+      "details": "{\"method\":\"GET\"}",
+      "userAction": false
+    },
+    {
+      "id": "wd65ysqur",
+      "timestamp": "2025-11-20T13:41:37.746Z",
+      "level": "navigation",
+      "message": "Navegación: /signin",
+      "source": "Router",
+      "details": "{\"pathname\":\"/signin\",\"href\":\"http://localhost:3003/signin\"}",
+      "userAction": false
+    },
+    {
+      "id": "07jgcaosl",
+      "timestamp": "2025-11-20T13:41:38.683Z",
+      "level": "user_action",
+      "message": "Click: Iniciar Sesión",
+      "source": "User",
+      "details": "{\"tagName\":\"BUTTON\",\"textContent\":\"Iniciar Sesión\",\"pathname\":\"/signin\",\"href\":\"http://localhost:3003/signin\"}",
+      "userAction": true
+    },
+    {
+      "id": "7nzf6e0vk",
+      "timestamp": "2025-11-20T13:41:38.684Z",
+      "level": "info",
+      "message": "Attempting signIn",
+      "source": "AuthForm",
+      "details": "{\"email\":\"baez.israel@gmail.com\"}",
+      "userAction": false
+    },
+    {
+      "id": "6jxavm575",
+      "timestamp": "2025-11-20T13:41:38.684Z",
+      "level": "api",
+      "message": "POST https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password",
+      "source": "Fetch",
+      "details": "{\"method\":\"POST\"}",
+      "userAction": false
+    },
+    {
+      "id": "w0smo4lbm",
+      "timestamp": "2025-11-20T13:41:38.957Z",
+      "level": "info",
+      "message": "onAuthStateChange",
+      "source": "AuthProvider",
+      "details": "{\"event\":\"SIGNED_IN\",\"sessionExists\":true,\"session\":{\"access_token\":\"eyJhbGciOiJIUzI1NiIsImtpZCI6InVCVXc0WmhEd21tMGhrazIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2RpdnhobHVxeWJiY2dmcW96YmpxLnN1cGFiYXNlLmNvL2F1dGgvdjEiLCJzdWIiOiJmNTA3Mzc4MS1lZDRiLTQxYzItOGFkNi1jZjNjN2Q3NmY4ZWQiLCJhdWQiOiJhdXRoZW50aWNhdGVkIiwiZXhwIjoxNzYzNjQ5NzAxLCJpYXQiOjE3NjM2NDYxMDEsImVtYWlsIjoiYmFlei5pc3JhZWxAZ21haWwuY29tIiwicGhvbmUiOiIiLCJhcHBfbWV0YWRhdGEiOnsicHJvdmlkZXIiOiJlbWFpbCIsInByb3ZpZGVycyI6WyJlbWFpbCJdfSwidXNlcl9tZXRh...",
+      "userAction": false
+    },
+    {
+      "id": "g9fkhpsto",
+      "timestamp": "2025-11-20T13:41:38.957Z",
+      "level": "info",
+      "message": "signIn response",
+      "source": "AuthForm",
+      "details": "{\"data\":{\"user\":{\"id\":\"f5073781-ed4b-41c2-8ad6-cf3c7d76f8ed\",\"aud\":\"authenticated\",\"role\":\"authenticated\",\"email\":\"baez.israel@gmail.com\",\"email_confirmed_at\":\"2025-11-18T23:07:35.067727Z\",\"phone\":\"\",\"confirmed_at\":\"2025-11-18T23:07:35.067727Z\",\"last_sign_in_at\":\"2025-11-20T13:41:41.392891273Z\",\"app_metadata\":{\"provider\":\"email\",\"providers\":[\"email\"]},\"user_metadata\":{\"email_verified\":true},\"identities\":[{\"identity_id\":\"98172cde-d10f-4b0a-9806-a2e7b3118af0\",\"id\":\"f5073781-ed4b-41c2-8ad6-cf3c7d76...",
+      "userAction": false
+    },
+    {
+      "id": "e3u5b7ccm",
+      "timestamp": "2025-11-20T13:41:38.957Z",
+      "level": "info",
+      "message": "signIn immediate session",
+      "source": "AuthForm",
+      "details": "{\"user\":\"f5073781-ed4b-41c2-8ad6-cf3c7d76f8ed\"}",
+      "userAction": false
+    },
+    {
+      "id": "l8qojluj6",
+      "timestamp": "2025-11-20T13:41:38.957Z",
+      "level": "info",
+      "message": "post-signin localStorage",
+      "source": "AuthForm",
+      "details": "{\"storageKey\":\"GEMODIDA-auth-token\",\"storageVal\":{\"access_token\":\"eyJhbGciOiJIUzI1NiIsImtpZCI6InVCVXc0WmhEd21tMGhrazIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2RpdnhobHVxeWJiY2dmcW96YmpxLnN1cGFiYXNlLmNvL2F1dGgvdjEiLCJzdWIiOiJmNTA3Mzc4MS1lZDRiLTQxYzItOGFkNi1jZjNjN2Q3NmY4ZWQiLCJhdWQiOiJhdXRoZW50aWNhdGVkIiwiZXhwIjoxNzYzNjQ5NzAxLCJpYXQiOjE3NjM2NDYxMDEsImVtYWlsIjoiYmFlei5pc3JhZWxAZ21haWwuY29tIiwicGhvbmUiOiIiLCJhcHBfbWV0YWRhdGEiOnsicHJvdmlkZXIiOiJlbWFpbCIsInByb3ZpZGVycyI6WyJlbWFpbCJdfSwidXNlcl9tZXRhZG...",
+      "userAction": false
+    },
+    {
+      "id": "2mai7egex",
+      "timestamp": "2025-11-20T13:41:38.957Z",
+      "level": "api",
+      "message": "POST /api/auth/set-session",
+      "source": "Fetch",
+      "details": "{\"method\":\"POST\"}",
+      "userAction": false
+    },
+    {
+      "id": "zmynu5h0w",
+      "timestamp": "2025-11-20T13:41:39.079Z",
+      "level": "info",
+      "message": "Posted session to /api/auth/set-session",
+      "source": "AuthForm",
+      "userAction": false
+    },
+    {
+      "id": "4fm23j96r",
+      "timestamp": "2025-11-20T13:41:39.079Z",
+      "level": "api",
+      "message": "GET http://localhost:3003/dashboard?_rsc=1dl4p",
+      "source": "Fetch",
+      "details": "{\"method\":\"GET\"}",
+      "userAction": false
+    },
+    {
+      "id": "8ritkx4cd",
+      "timestamp": "2025-11-20T13:41:39.163Z",
+      "level": "navigation",
+      "message": "Navegación: /signin",
+      "source": "Router",
+      "details": "{\"pathname\":\"/signin\",\"href\":\"http://localhost:3003/signin\"}",
+      "userAction": false
+    },
+    {
+      "id": "mvpv5lbiv",
+      "timestamp": "2025-11-20T13:44:09.380Z",
+      "level": "user_action",
+      "message": "Click: Button",
+      "source": "User",
+      "details": "{\"tagName\":\"BUTTON\",\"textContent\":\"\",\"pathname\":\"/signin\",\"href\":\"http://localhost:3003/signin\"}",
+      "userAction": true
+    }
+  ],
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+  "url": "http://localhost:3003/signin",
+  "timestamp": "2025-11-20T13:44:11.062Z",
+  "sessionDuration": 172126,
+  "errors": [],
+  "userActions": 16,
+  "performanceMetrics": {
+    "pageLoadTime": 172524.40000000037,
+    "connectionStatus": "online"
+  },
+  "systemInfo": {
+    "screenResolution": "1536x864",
+    "timezone": "America/Caracas",
+    "language": "es-ES"
+  }
+}

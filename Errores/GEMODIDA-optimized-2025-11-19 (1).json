@@ -1,0 +1,371 @@
+{
+  "logs": [
+    {
+      "timestamp": "2025-11-19T08:41:02.809Z",
+      "level": "user_action",
+      "message": "Acción de usuario: Iniciar Sesión",
+      "source": "User Interaction",
+      "details": {
+        "tagName": "BUTTON",
+        "textContent": "Iniciar Sesión",
+        "className": "inline-flex items-center justify-center transition-all duration-200 ease-in-out focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-60 bg-primary text-primary-foreground hover:bg-primary/90 shadow-sm hover:shadow-md active:scale-[0.98] dark:bg-primary dark:text-primary-foreground dark:hover:bg-primary/90 h-12 text-base rounded-xl font-medium px-8 py-3 mr-4",
+        "id": ""
+      },
+      "userAction": true
+    },
+    {
+      "timestamp": "2025-11-19T08:41:02.814Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/signin?_rsc=vusbg",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/signin?_rsc=vusbg",
+        "callId": "GET http://localhost:3003/signin?_rsc=vusbg",
+        "timestamp": "2025-11-19T08:41:02.814Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T08:41:02.814Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/signin?_rsc=vusbg",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/signin?_rsc=vusbg",
+        "callId": "GET http://localhost:3003/signin?_rsc=vusbg",
+        "timestamp": "2025-11-19T08:41:02.814Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T08:41:04.050Z",
+      "level": "warn",
+      "message": "GoTrueClient@sb-divxhluqybbcgfqozbjq-auth-token:1 (2.81.1) 2025-11-19T08:41:04.048Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key.",
+      "source": "Console",
+      "details": [
+        "GoTrueClient@sb-divxhluqybbcgfqozbjq-auth-token:1 (2.81.1) 2025-11-19T08:41:04.048Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key."
+      ],
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T08:41:10.298Z",
+      "level": "api",
+      "message": "API: GET https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/usuarios?select=correo&correo=eq.baez.israel%40gmail.com",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/usuarios?select=correo&correo=eq.baez.israel%40gmail.com",
+        "callId": "GET https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/usuarios?select=correo&correo=eq.baez.israel%40gmail.com",
+        "timestamp": "2025-11-19T08:41:10.298Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T08:41:10.298Z",
+      "level": "api",
+      "message": "API: GET https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/usuarios?select=correo&correo=eq.baez.israel%40gmail.com",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/usuarios?select=correo&correo=eq.baez.israel%40gmail.com",
+        "callId": "GET https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/usuarios?select=correo&correo=eq.baez.israel%40gmail.com",
+        "timestamp": "2025-11-19T08:41:10.298Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T08:41:16.878Z",
+      "level": "user_action",
+      "message": "Acción de usuario: Iniciar Sesión",
+      "source": "User Interaction",
+      "details": {
+        "tagName": "BUTTON",
+        "textContent": "Iniciar Sesión",
+        "className": "inline-flex items-center justify-center rounded-lg transition-all duration-200 ease-in-out focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-60 bg-primary text-primary-foreground hover:bg-primary/90 shadow-sm hover:shadow-md active:scale-[0.98] dark:bg-primary dark:text-primary-foreground dark:hover:bg-primary/90 h-10 px-4 py-2 text-sm font-medium w-full",
+        "id": ""
+      },
+      "userAction": true
+    },
+    {
+      "timestamp": "2025-11-19T08:41:16.881Z",
+      "level": "api",
+      "message": "API: POST https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password",
+      "source": "Fetch API",
+      "details": {
+        "method": "POST",
+        "url": "https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password",
+        "callId": "POST https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password",
+        "timestamp": "2025-11-19T08:41:16.881Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T08:41:16.881Z",
+      "level": "api",
+      "message": "API: POST https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password",
+      "source": "Fetch API",
+      "details": {
+        "method": "POST",
+        "url": "https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password",
+        "callId": "POST https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password",
+        "timestamp": "2025-11-19T08:41:16.881Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T08:41:17.520Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/signin?_rsc=1mkxx",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/signin?_rsc=1mkxx",
+        "callId": "GET http://localhost:3003/signin?_rsc=1mkxx",
+        "timestamp": "2025-11-19T08:41:17.520Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T08:41:17.520Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/signin?_rsc=1mkxx",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/signin?_rsc=1mkxx",
+        "callId": "GET http://localhost:3003/signin?_rsc=1mkxx",
+        "timestamp": "2025-11-19T08:41:17.520Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T08:41:17.521Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/dashboard?_rsc=1dl4p",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/dashboard?_rsc=1dl4p",
+        "callId": "GET http://localhost:3003/dashboard?_rsc=1dl4p",
+        "timestamp": "2025-11-19T08:41:17.521Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T08:41:17.521Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/dashboard?_rsc=1dl4p",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/dashboard?_rsc=1dl4p",
+        "callId": "GET http://localhost:3003/dashboard?_rsc=1dl4p",
+        "timestamp": "2025-11-19T08:41:17.521Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T08:41:18.899Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/signin?_rsc=sygcq",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/signin?_rsc=sygcq",
+        "callId": "GET http://localhost:3003/signin?_rsc=sygcq",
+        "timestamp": "2025-11-19T08:41:18.899Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T08:41:18.899Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/signin?_rsc=sygcq",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/signin?_rsc=sygcq",
+        "callId": "GET http://localhost:3003/signin?_rsc=sygcq",
+        "timestamp": "2025-11-19T08:41:18.899Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T08:41:31.115Z",
+      "level": "api",
+      "message": "API: GET https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/usuarios?select=correo&correo=eq.baez.israel%40gmail.com",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/usuarios?select=correo&correo=eq.baez.israel%40gmail.com",
+        "callId": "GET https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/usuarios?select=correo&correo=eq.baez.israel%40gmail.com",
+        "timestamp": "2025-11-19T08:41:31.115Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T08:41:31.115Z",
+      "level": "api",
+      "message": "API: GET https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/usuarios?select=correo&correo=eq.baez.israel%40gmail.com",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/usuarios?select=correo&correo=eq.baez.israel%40gmail.com",
+        "callId": "GET https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/usuarios?select=correo&correo=eq.baez.israel%40gmail.com",
+        "timestamp": "2025-11-19T08:41:31.115Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T08:41:34.055Z",
+      "level": "user_action",
+      "message": "Acción de usuario: Iniciar Sesión",
+      "source": "User Interaction",
+      "details": {
+        "tagName": "BUTTON",
+        "textContent": "Iniciar Sesión",
+        "className": "inline-flex items-center justify-center rounded-lg transition-all duration-200 ease-in-out focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-60 bg-primary text-primary-foreground hover:bg-primary/90 shadow-sm hover:shadow-md active:scale-[0.98] dark:bg-primary dark:text-primary-foreground dark:hover:bg-primary/90 h-10 px-4 py-2 text-sm font-medium w-full",
+        "id": ""
+      },
+      "userAction": true
+    },
+    {
+      "timestamp": "2025-11-19T08:41:34.057Z",
+      "level": "api",
+      "message": "API: POST https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password",
+      "source": "Fetch API",
+      "details": {
+        "method": "POST",
+        "url": "https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password",
+        "callId": "POST https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password",
+        "timestamp": "2025-11-19T08:41:34.057Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T08:41:34.057Z",
+      "level": "api",
+      "message": "API: POST https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password",
+      "source": "Fetch API",
+      "details": {
+        "method": "POST",
+        "url": "https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password",
+        "callId": "POST https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=password",
+        "timestamp": "2025-11-19T08:41:34.057Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T08:41:34.372Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/signin?_rsc=1mkxx",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/signin?_rsc=1mkxx",
+        "callId": "GET http://localhost:3003/signin?_rsc=1mkxx",
+        "timestamp": "2025-11-19T08:41:34.372Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T08:41:34.372Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/signin?_rsc=1mkxx",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/signin?_rsc=1mkxx",
+        "callId": "GET http://localhost:3003/signin?_rsc=1mkxx",
+        "timestamp": "2025-11-19T08:41:34.372Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T08:41:34.373Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/dashboard?_rsc=1dl4p",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/dashboard?_rsc=1dl4p",
+        "callId": "GET http://localhost:3003/dashboard?_rsc=1dl4p",
+        "timestamp": "2025-11-19T08:41:34.373Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T08:41:34.373Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/dashboard?_rsc=1dl4p",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/dashboard?_rsc=1dl4p",
+        "callId": "GET http://localhost:3003/dashboard?_rsc=1dl4p",
+        "timestamp": "2025-11-19T08:41:34.373Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T08:41:34.511Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/signin?_rsc=sygcq",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/signin?_rsc=sygcq",
+        "callId": "GET http://localhost:3003/signin?_rsc=sygcq",
+        "timestamp": "2025-11-19T08:41:34.511Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T08:41:34.511Z",
+      "level": "api",
+      "message": "API: GET http://localhost:3003/signin?_rsc=sygcq",
+      "source": "Fetch API",
+      "details": {
+        "method": "GET",
+        "url": "http://localhost:3003/signin?_rsc=sygcq",
+        "callId": "GET http://localhost:3003/signin?_rsc=sygcq",
+        "timestamp": "2025-11-19T08:41:34.511Z"
+      },
+      "userAction": false
+    },
+    {
+      "timestamp": "2025-11-19T08:41:39.410Z",
+      "level": "user_action",
+      "message": "Acción de usuario: Button sin texto",
+      "source": "User Interaction",
+      "details": {
+        "tagName": "BUTTON",
+        "textContent": "",
+        "className": "inline-flex items-center justify-center transition-all duration-200 ease-in-out focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-60 hover:shadow-md active:scale-[0.98] dark:bg-primary dark:text-primary-foreground dark:hover:bg-primary/90 text-sm font-medium fixed bottom-20 right-4 z-50 bg-orange-500 hover:bg-orange-600 text-white rounded-full w-12 h-12 p-0 shadow-lg",
+        "id": ""
+      },
+      "userAction": true
+    },
+    {
+      "timestamp": "2025-11-19T08:41:50.457Z",
+      "level": "user_action",
+      "message": "Acción de usuario: Descargar",
+      "source": "User Interaction",
+      "details": {
+        "tagName": "BUTTON",
+        "textContent": "Descargar",
+        "className": "inline-flex items-center justify-center transition-all duration-200 ease-in-out focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-60 border border-primary/30 bg-transparent text-primary hover:bg-primary/10 hover:border-primary/60 active:bg-primary/5 dark:border-primary/50 dark:text-primary-foreground dark:hover:bg-primary/20 dark:hover:border-primary/70 h-8 px-3 rounded-md font-medium flex-1 text-xs",
+        "id": ""
+      },
+      "userAction": true
+    }
+  ],
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+  "url": "http://localhost:3003/signin",
+  "timestamp": "2025-11-19T08:41:50.464Z",
+  "sessionDuration": 71844,
+  "errors": [],
+  "userActions": 5
+}
