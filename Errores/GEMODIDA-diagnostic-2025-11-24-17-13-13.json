@@ -1,0 +1,109 @@
+{
+  "logs": [
+    {
+      "id": "t0h6e4es1",
+      "timestamp": "2025-11-24T17:13:06.012Z",
+      "level": "info",
+      "message": "Sistema de diagnóstico iniciado",
+      "source": "System",
+      "details": "{\"url\":\"http://localhost:3003/elegir-panel\",\"timestamp\":\"2025-11-24T17:13:06.011Z\"}",
+      "userAction": false
+    },
+    {
+      "id": "ddztsodly",
+      "timestamp": "2025-11-24T17:13:06.014Z",
+      "level": "info",
+      "message": "Sistema de diagnóstico iniciado",
+      "source": "System",
+      "details": "{\"url\":\"http://localhost:3003/elegir-panel\",\"timestamp\":\"2025-11-24T17:13:06.014Z\"}",
+      "userAction": false
+    },
+    {
+      "id": "4cjwy7pq6",
+      "timestamp": "2025-11-24T17:13:06.027Z",
+      "level": "info",
+      "message": "onAuthStateChange event",
+      "source": "AuthProvider",
+      "details": "{\"event\":\"INITIAL_SESSION\",\"hasSession\":true,\"userId\":\"f5073781-ed4b-41c2-8ad6-cf3c7d76f8ed\"}",
+      "userAction": false
+    },
+    {
+      "id": "j2oyppui5",
+      "timestamp": "2025-11-24T17:13:06.041Z",
+      "level": "info",
+      "message": "Session restored from Supabase",
+      "source": "AuthProvider",
+      "details": "{\"userId\":\"f5073781-ed4b-41c2-8ad6-cf3c7d76f8ed\"}",
+      "userAction": false
+    },
+    {
+      "id": "o6zmsimjz",
+      "timestamp": "2025-11-24T17:13:06.048Z",
+      "level": "api",
+      "message": "POST https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/rpc/obtener_permisos_usuario",
+      "source": "Fetch",
+      "details": "{\"method\":\"POST\"}",
+      "userAction": false
+    },
+    {
+      "id": "9kmsuil50",
+      "timestamp": "2025-11-24T17:13:06.050Z",
+      "level": "api",
+      "message": "GET https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/usuarios_grupos?select=*&esta_activo=eq.true&order=nombre_grupo.asc",
+      "source": "Fetch",
+      "details": "{\"method\":\"GET\"}",
+      "userAction": false
+    },
+    {
+      "id": "mobcos8cz",
+      "timestamp": "2025-11-24T17:13:06.050Z",
+      "level": "api",
+      "message": "GET https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/usuarios_roles?select=*&esta_activo=eq.true&order=nivel_acceso.desc",
+      "source": "Fetch",
+      "details": "{\"method\":\"GET\"}",
+      "userAction": false
+    },
+    {
+      "id": "4qanohgdg",
+      "timestamp": "2025-11-24T17:13:06.051Z",
+      "level": "api",
+      "message": "GET https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/sucursales?select=id_suc%2Cnombre_sucursal%2Cprovincia&estado=ilike.activo&order=nombre_sucursal.asc",
+      "source": "Fetch",
+      "details": "{\"method\":\"GET\"}",
+      "userAction": false
+    },
+    {
+      "id": "3ffb4tb7n",
+      "timestamp": "2025-11-24T17:13:06.130Z",
+      "level": "navigation",
+      "message": "Navegación: /signin",
+      "source": "Router",
+      "details": "{\"pathname\":\"/signin\",\"href\":\"http://localhost:3003/signin\"}",
+      "userAction": false
+    },
+    {
+      "id": "v6l6wc3aa",
+      "timestamp": "2025-11-24T17:13:10.428Z",
+      "level": "user_action",
+      "message": "Click: Button",
+      "source": "User",
+      "details": "{\"tagName\":\"BUTTON\",\"textContent\":\"\",\"pathname\":\"/signin\",\"href\":\"http://localhost:3003/signin\"}",
+      "userAction": true
+    }
+  ],
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+  "url": "http://localhost:3003/signin",
+  "timestamp": "2025-11-24T17:13:13.107Z",
+  "sessionDuration": 7100,
+  "errors": [],
+  "userActions": 2,
+  "performanceMetrics": {
+    "pageLoadTime": 7605.70000000298,
+    "connectionStatus": "online"
+  },
+  "systemInfo": {
+    "screenResolution": "1536x864",
+    "timezone": "America/Caracas",
+    "language": "es-ES"
+  }
+}

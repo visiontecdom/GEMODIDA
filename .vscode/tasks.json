@@ -1,0 +1,13 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Ejecutar migración Supabase: add_usuario_password_fields.sql",
+			"type": "shell",
+			"command": "supabase db execute db/scripts_sql/add_usuario_password_fields.sql",
+			"args": [],
+			"isBackground": false,
+			"group": "build"
+		}
+	]
+}

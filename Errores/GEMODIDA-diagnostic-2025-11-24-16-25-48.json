@@ -1,0 +1,155 @@
+{
+  "logs": [
+    {
+      "id": "fq48eyywl",
+      "timestamp": "2025-11-24T15:21:26.010Z",
+      "level": "info",
+      "message": "Sistema de diagnóstico iniciado",
+      "source": "System",
+      "details": "{\"url\":\"http://localhost:3003/\",\"timestamp\":\"2025-11-24T15:21:26.010Z\"}",
+      "userAction": false
+    },
+    {
+      "id": "hgj50ltrk",
+      "timestamp": "2025-11-24T15:21:26.014Z",
+      "level": "info",
+      "message": "Sistema de diagnóstico iniciado",
+      "source": "System",
+      "details": "{\"url\":\"http://localhost:3003/\",\"timestamp\":\"2025-11-24T15:21:26.014Z\"}",
+      "userAction": false
+    },
+    {
+      "id": "fm2xwpbml",
+      "timestamp": "2025-11-24T15:21:26.024Z",
+      "level": "info",
+      "message": "onAuthStateChange event",
+      "source": "AuthProvider",
+      "details": "{\"event\":\"INITIAL_SESSION\",\"hasSession\":true,\"userId\":\"f5073781-ed4b-41c2-8ad6-cf3c7d76f8ed\"}",
+      "userAction": false
+    },
+    {
+      "id": "qmmezd1uu",
+      "timestamp": "2025-11-24T15:21:26.025Z",
+      "level": "info",
+      "message": "Session restored from Supabase",
+      "source": "AuthProvider",
+      "details": "{\"userId\":\"f5073781-ed4b-41c2-8ad6-cf3c7d76f8ed\"}",
+      "userAction": false
+    },
+    {
+      "id": "jcb3oof0s",
+      "timestamp": "2025-11-24T15:21:27.723Z",
+      "level": "api",
+      "message": "GET http://localhost:3003/signin?_rsc=vusbg",
+      "source": "Fetch",
+      "details": "{\"method\":\"GET\"}",
+      "userAction": false
+    },
+    {
+      "id": "8n4qlibts",
+      "timestamp": "2025-11-24T15:21:28.923Z",
+      "level": "navigation",
+      "message": "Navegación: /signin",
+      "source": "Router",
+      "details": "{\"pathname\":\"/signin\",\"href\":\"http://localhost:3003/signin\"}",
+      "userAction": false
+    },
+    {
+      "id": "w2hgt1ws7",
+      "timestamp": "2025-11-24T16:22:30.870Z",
+      "level": "api",
+      "message": "POST https://divxhluqybbcgfqozbjq.supabase.co/auth/v1/token?grant_type=refresh_token",
+      "source": "Fetch",
+      "details": "{\"method\":\"POST\"}",
+      "userAction": false
+    },
+    {
+      "id": "y19ctx61z",
+      "timestamp": "2025-11-24T16:22:32.015Z",
+      "level": "info",
+      "message": "onAuthStateChange event",
+      "source": "AuthProvider",
+      "details": "{\"event\":\"TOKEN_REFRESHED\",\"hasSession\":true,\"userId\":\"f5073781-ed4b-41c2-8ad6-cf3c7d76f8ed\"}",
+      "userAction": false
+    },
+    {
+      "id": "htttnsaw7",
+      "timestamp": "2025-11-24T16:22:44.086Z",
+      "level": "user_action",
+      "message": "Click: Iniciar Sesión",
+      "source": "User",
+      "details": "{\"tagName\":\"BUTTON\",\"textContent\":\"Iniciar Sesión\",\"pathname\":\"/signin\",\"href\":\"http://localhost:3003/signin\"}",
+      "userAction": true
+    },
+    {
+      "id": "xqaiuciog",
+      "timestamp": "2025-11-24T16:22:44.088Z",
+      "level": "info",
+      "message": "Sign in attempt",
+      "source": "AuthForm",
+      "details": "{\"identifier\":\"ibaez\"}",
+      "userAction": false
+    },
+    {
+      "id": "21z725mcb",
+      "timestamp": "2025-11-24T16:22:44.101Z",
+      "level": "api",
+      "message": "POST https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/rpc/autenticar_usuario",
+      "source": "Fetch",
+      "details": "{\"method\":\"POST\"}",
+      "userAction": false
+    },
+    {
+      "id": "ld39w7oo4",
+      "timestamp": "2025-11-24T16:22:45.063Z",
+      "level": "error",
+      "message": "API Error: 404",
+      "source": "Fetch",
+      "details": "{\"url\":\"https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/rpc/autenticar_usuario\",\"status\":404}",
+      "userAction": false
+    },
+    {
+      "id": "qwz7acj2k",
+      "timestamp": "2025-11-24T16:25:43.302Z",
+      "level": "info",
+      "message": "onAuthStateChange event",
+      "source": "AuthProvider",
+      "details": "{\"event\":\"SIGNED_IN\",\"hasSession\":true,\"userId\":\"f5073781-ed4b-41c2-8ad6-cf3c7d76f8ed\"}",
+      "userAction": false
+    },
+    {
+      "id": "i4731qctq",
+      "timestamp": "2025-11-24T16:25:45.573Z",
+      "level": "user_action",
+      "message": "Click: Button",
+      "source": "User",
+      "details": "{\"tagName\":\"BUTTON\",\"textContent\":\"\",\"pathname\":\"/signin\",\"href\":\"http://localhost:3003/signin\"}",
+      "userAction": true
+    }
+  ],
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+  "url": "http://localhost:3003/signin",
+  "timestamp": "2025-11-24T16:25:48.259Z",
+  "sessionDuration": 3862259,
+  "errors": [
+    {
+      "id": "ld39w7oo4",
+      "timestamp": "2025-11-24T16:22:45.063Z",
+      "level": "error",
+      "message": "API Error: 404",
+      "source": "Fetch",
+      "details": "{\"url\":\"https://divxhluqybbcgfqozbjq.supabase.co/rest/v1/rpc/autenticar_usuario\",\"status\":404}",
+      "userAction": false
+    }
+  ],
+  "userActions": 4,
+  "performanceMetrics": {
+    "pageLoadTime": 3863486.400000006,
+    "connectionStatus": "online"
+  },
+  "systemInfo": {
+    "screenResolution": "1536x864",
+    "timezone": "America/Caracas",
+    "language": "es-ES"
+  }
+}
